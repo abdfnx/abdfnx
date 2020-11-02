@@ -18,7 +18,7 @@ class About {
             cout << "Hello, What's your name\n\n";
             cin >> name;
 
-            cout << "Ok hello, " << name << " we'll ask you some questions ?\n\n";
+            cout << "Ok hello, " << name << " we'll ask you some questions...\n\n";
             
             cout << "do you have a website ?\nyes or no\n\n";
             cin >> website;
