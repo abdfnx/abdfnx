@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdfnx&show_icons=true&theme=dark)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on a lot of projects, [**secman**][smURL] & [**dev-x**][dxURL]
