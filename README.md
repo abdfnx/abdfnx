@@ -7,18 +7,18 @@
 #### 🏗️ Check out what I'm currently working on
 
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (today)
-- [abdfnx/sm-extensions](https://github.com/abdfnx/sm-extensions) - secman web extensions. (1 day ago)
 - [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - secman cli website 📦. (2 days ago)
 - [david-tomson/hi](https://github.com/david-tomson/hi) - go library (4 days ago)
 - [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (5 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (5 days ago)
 
 #### 💻 My latest projects
 
-- [abdfnx/sm-extensions](https://github.com/abdfnx/sm-extensions) - secman web extensions.
 - [abdfnx/gs-kit](https://github.com/abdfnx/gs-kit) - Shared utility repo for @gepis runtime.
 - [abdfnx/terraform-demo](https://github.com/abdfnx/terraform-demo) - 
 - [abdfnx/dmman](https://github.com/abdfnx/dmman) - simple chat app built via flutter.
 - [abdfnx/git_config](https://github.com/abdfnx/git_config) - Git Config 📦
+- [abdfnx/x-micro](https://github.com/abdfnx/x-micro) - small microphone app can change your voice for ios 📱
 
 #### 🔭 Latest releases I've contributed to
 
