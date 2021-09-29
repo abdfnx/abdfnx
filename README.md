@@ -15,6 +15,9 @@
 
 #### 🏗️ Check out what I'm currently working on
 
+- the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
+
+
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (today)
 - [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - secman cli website 📦. (2 days ago)
 - [david-tomson/hi](https://github.com/david-tomson/hi) - go library (4 days ago)
