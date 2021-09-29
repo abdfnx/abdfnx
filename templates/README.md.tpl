@@ -4,6 +4,15 @@
 
 [@scmn-dev](https://github.com/scmn-dev) Creator. full-stack dev. enjoys working on cli apps, websites, automation (CI/CD), and backend.
 
+#### ⌨️ My Projects
+
+- [**secman**](https://github.com/scmn-dev/secman)
+- [**secman desktop**](https://github.com/scmn-dev/desktop)
+- [**gepis**](https://github.com/gepis/gepis)
+- [**corgit**](https://github.com/abdfnx/corgit)
+- [**shell**](https://github.com/abdfnx/shell)
+- [**verx**](https://github.com/abdfnx/verx)
+
 #### 🏗️ Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
