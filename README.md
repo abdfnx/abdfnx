@@ -18,9 +18,9 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
+- [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - old secman cli website 📦. (today)
 - [scmn-dev/sm-extension](https://github.com/scmn-dev/sm-extension) - official browser extension for secman. (1 day ago)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 day ago)
-- [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - secman cli website 📦. (4 days ago)
 - [david-tomson/hi](https://github.com/david-tomson/hi) - go library (6 days ago)
 - [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (1 week ago)
 
@@ -42,8 +42,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [link scmn-dev/cli.secman.dev with abdfnx/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev/pull/250) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (today)
+- [link scmn-dev/cli.secman.dev with abdfnx/cli.secman.dev](https://github.com/abdfnx/old-sm-cli.dev/pull/2) on [abdfnx/old-sm-cli.dev](https://github.com/abdfnx/old-sm-cli.dev) (today)
 - [add cloning `sm-cluster` repo in all installers and upgraders](https://github.com/scmn-dev/cli.secman.dev/pull/226) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (1 week ago)
 - [update `secman desktop` product url](https://github.com/scmn-dev/cli.secman.dev/pull/216) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (2 weeks ago)
 - [updates on cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev/pull/201) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (3 weeks ago)
-- [update the installers url #171](https://github.com/scmn-dev/cli.secman.dev/pull/180) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (1 month ago)
-- [add new products &amp; solutions](https://github.com/scmn-dev/cli.secman.dev/pull/168) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (1 month ago)
