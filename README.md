@@ -18,11 +18,11 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
+- [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) - sub-app of secman for windows. (today)
 - [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - old secman cli website 📦. (today)
-- [scmn-dev/sm-extension](https://github.com/scmn-dev/sm-extension) - official browser extension for secman. (1 day ago)
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 day ago)
-- [david-tomson/hi](https://github.com/david-tomson/hi) - go library (6 days ago)
-- [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (1 week ago)
+- [scmn-dev/install](https://github.com/scmn-dev/install) - secman installer. (today)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 official docker image for secman. (today)
 
 #### 💻 My latest projects
 
@@ -34,11 +34,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.2.2](https://github.com/scmn-dev/docker/releases/tag/v0.2.2), today) - 🐳 official docker image for secman.
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.0.2](https://github.com/scmn-dev/desktop/releases/tag/v1.0.2), 1 week ago) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
 - [Timothee-Cardoso/tc-exe](https://github.com/Timothee-Cardoso/tc-exe) ([v1.0.1](https://github.com/Timothee-Cardoso/tc-exe/releases/tag/v1.0.1), 2 weeks ago) - exe runner for windows.
 - [abdfnx/git_config](https://github.com/abdfnx/git_config) ([v1.0.0](https://github.com/abdfnx/git_config/releases/tag/v1.0.0), 1 month ago) - Git Config 📦
 - [gepis/ps](https://github.com/gepis/ps) ([v0.0.2](https://github.com/gepis/ps/releases/tag/v0.0.2), 1 month ago) - docker ps in golang library.
-- [gepis/strge](https://github.com/gepis/strge) ([v0.1.1](https://github.com/gepis/strge/releases/tag/v0.1.1), 1 month ago) - storage package.
 
 #### 🔨 Latest Pull Requests I published
 
