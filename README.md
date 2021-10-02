@@ -18,9 +18,9 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
+- [scmn-dev/install](https://github.com/scmn-dev/install) - secman installer. (today)
 - [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) - sub-app of secman for windows. (1 day ago)
 - [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - old secman cli website 📦. (1 day ago)
-- [scmn-dev/install](https://github.com/scmn-dev/install) - secman installer. (1 day ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (1 day ago)
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 official docker image for secman. (1 day ago)
 
