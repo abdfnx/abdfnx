@@ -18,11 +18,11 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
+- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (today)
 - [scmn-dev/install](https://github.com/scmn-dev/install) - secman installer. (4 days ago)
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 official docker image for secman. (5 days ago)
 - [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - old secman cli website 📦. (5 days ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (5 days ago)
-- [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) - sub-app of secman for windows. (5 days ago)
 
 #### 💻 My latest projects
 
