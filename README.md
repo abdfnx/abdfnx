@@ -42,8 +42,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [hi](https://github.com/scmn-dev/gh-api/pull/22) on [scmn-dev/gh-api](https://github.com/scmn-dev/gh-api) (today)
 - [link scmn-dev/cli.secman.dev with abdfnx/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev/pull/250) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (6 days ago)
 - [link scmn-dev/cli.secman.dev with abdfnx/cli.secman.dev](https://github.com/abdfnx/old-sm-cli.dev/pull/2) on [abdfnx/old-sm-cli.dev](https://github.com/abdfnx/old-sm-cli.dev) (6 days ago)
 - [add cloning `sm-cluster` repo in all installers and upgraders](https://github.com/scmn-dev/cli.secman.dev/pull/226) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (2 weeks ago)
 - [update `secman desktop` product url](https://github.com/scmn-dev/cli.secman.dev/pull/216) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (3 weeks ago)
-- [updates on cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev/pull/201) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (4 weeks ago)
