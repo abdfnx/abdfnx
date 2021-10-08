@@ -18,11 +18,11 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
+- [gepis/strge](https://github.com/gepis/strge) - storage package. (today)
 - [abdfnx/sga](https://github.com/abdfnx/sga) - github API for authentication and manage repos. (1 day ago)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (2 days ago)
 - [scmn-dev/install](https://github.com/scmn-dev/install) - secman installer and upgrader. (6 days ago)
 - [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) - sub-app of secman for windows. (1 week ago)
-- [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - old secman cli website 📦. (1 week ago)
 
 #### 💻 My latest projects
 
