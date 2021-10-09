@@ -42,8 +42,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [create the SECURITY policy of @vuejs](https://github.com/vuejs/vue/pull/12317) on [vuejs/vue](https://github.com/vuejs/vue) (today)
 - [hi](https://github.com/scmn-dev/gh-api/pull/22) on [scmn-dev/gh-api](https://github.com/scmn-dev/gh-api) (2 days ago)
 - [link scmn-dev/cli.secman.dev with abdfnx/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev/pull/250) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (1 week ago)
 - [link scmn-dev/cli.secman.dev with abdfnx/cli.secman.dev](https://github.com/abdfnx/old-sm-cli.dev/pull/2) on [abdfnx/old-sm-cli.dev](https://github.com/abdfnx/old-sm-cli.dev) (1 week ago)
 - [add cloning `sm-cluster` repo in all installers and upgraders](https://github.com/scmn-dev/cli.secman.dev/pull/226) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (2 weeks ago)
-- [update `secman desktop` product url](https://github.com/scmn-dev/cli.secman.dev/pull/216) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (3 weeks ago)
