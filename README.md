@@ -18,8 +18,8 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
+- [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (today)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (today)
-- [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (1 day ago)
 - [gepis/strge](https://github.com/gepis/strge) - storage package. (1 day ago)
 - [abdfnx/sga](https://github.com/abdfnx/sga) - github API for authentication and manage repos. (2 days ago)
 - [scmn-dev/install](https://github.com/scmn-dev/install) - secman installer and upgrader. (1 week ago)
