@@ -18,19 +18,19 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
+- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (today)
 - [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (1 day ago)
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 day ago)
 - [gepis/strge](https://github.com/gepis/strge) - storage package. (2 days ago)
-- [abdfnx/sga](https://github.com/abdfnx/sga) - github API for authentication and manage repos. (3 days ago)
 - [scmn-dev/install](https://github.com/scmn-dev/install) - secman installer and upgrader. (1 week ago)
+- [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) - sub-app of secman for windows. (1 week ago)
 
 #### 💻 My latest projects
 
-- [abdfnx/sga](https://github.com/abdfnx/sga) - github API for authentication and manage repos.
 - [abdfnx/gs-kit](https://github.com/abdfnx/gs-kit) - Shared utility repo for @gepis runtime.
 - [abdfnx/terraform-demo](https://github.com/abdfnx/terraform-demo) - 
 - [abdfnx/dmman](https://github.com/abdfnx/dmman) - simple chat app built via flutter.
 - [abdfnx/git_config](https://github.com/abdfnx/git_config) - Git Config 📦
+- [abdfnx/x-micro](https://github.com/abdfnx/x-micro) - small microphone app can change your voice for ios 📱
 
 #### 🔭 Latest releases I've contributed to
 
