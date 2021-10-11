@@ -18,11 +18,11 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
+- [secman-archive/changelog.secman.dev](https://github.com/secman-archive/changelog.secman.dev) - the old changelog website of secman. (today)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
 - [secman-archive/git_config](https://github.com/secman-archive/git_config) - The Former Git configs of secman. (today)
 - [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) - sub-app of secman for windows. (today)
 - [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official Homebrew Tap for Secman. (today)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 day ago)
 
 #### 💻 My latest projects
 
@@ -42,8 +42,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [update changelog theme](https://github.com/secman-archive/changelog.secman.dev/pull/11) on [secman-archive/changelog.secman.dev](https://github.com/secman-archive/changelog.secman.dev) (today)
 - [create the SECURITY policy of @vuejs](https://github.com/vuejs/vue/pull/12317) on [vuejs/vue](https://github.com/vuejs/vue) (2 days ago)
 - [hi](https://github.com/secman-archive/gh-api/pull/22) on [secman-archive/gh-api](https://github.com/secman-archive/gh-api) (4 days ago)
 - [link scmn-dev/cli.secman.dev with abdfnx/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev/pull/250) on [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) (1 week ago)
 - [link scmn-dev/cli.secman.dev with abdfnx/cli.secman.dev](https://github.com/abdfnx/old-sm-cli.dev/pull/2) on [abdfnx/old-sm-cli.dev](https://github.com/abdfnx/old-sm-cli.dev) (1 week ago)
-- [add cloning `sm-cluster` repo in all installers and upgraders](https://github.com/secman-archive/cli.secman.dev/pull/226) on [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) (3 weeks ago)
