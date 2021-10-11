@@ -34,8 +34,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.0.3](https://github.com/scmn-dev/desktop/releases/tag/v1.0.3), 1 day ago) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.2.2](https://github.com/scmn-dev/docker/releases/tag/v0.2.2), 1 week ago) - 🐳 official docker image for secman.
+- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.0.2](https://github.com/scmn-dev/desktop/releases/tag/v1.0.2), 2 weeks ago) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
 - [Timothee-Cardoso/tc-exe](https://github.com/Timothee-Cardoso/tc-exe) ([v1.0.1](https://github.com/Timothee-Cardoso/tc-exe/releases/tag/v1.0.1), 4 weeks ago) - exe runner for windows.
 - [abdfnx/git_config](https://github.com/abdfnx/git_config) ([v1.0.0](https://github.com/abdfnx/git_config/releases/tag/v1.0.0), 1 month ago) - Git Config 📦
 - [gepis/ps](https://github.com/gepis/ps) ([v0.0.2](https://github.com/gepis/ps/releases/tag/v0.0.2), 1 month ago) - docker ps in golang library.
