@@ -20,9 +20,9 @@
 
 - [secman-archive/git_config](https://github.com/secman-archive/git_config) - The Former Git configs of secman. (today)
 - [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) - sub-app of secman for windows. (today)
+- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official Homebrew Tap for Secman. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 day ago)
-- [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (2 days ago)
 
 #### 💻 My latest projects
 
@@ -34,11 +34,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v5.3.8](https://github.com/scmn-dev/secman/releases/tag/v5.3.8), today) - 🔒 The password manager of your dreams.
 - [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) ([v0.2.4](https://github.com/scmn-dev/sm-win/releases/tag/v0.2.4), today) - sub-app of secman for windows.
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.2.2](https://github.com/scmn-dev/docker/releases/tag/v0.2.2), 1 week ago) - 🐳 official docker image for secman.
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.0.2](https://github.com/scmn-dev/desktop/releases/tag/v1.0.2), 2 weeks ago) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
 - [Timothee-Cardoso/tc-exe](https://github.com/Timothee-Cardoso/tc-exe) ([v1.0.1](https://github.com/Timothee-Cardoso/tc-exe/releases/tag/v1.0.1), 4 weeks ago) - exe runner for windows.
-- [secman-archive/git_config](https://github.com/secman-archive/git_config) ([v1.0.0](https://github.com/secman-archive/git_config/releases/tag/v1.0.0), 1 month ago) - The Former Git configs of secman.
 
 #### 🔨 Latest Pull Requests I published
 
