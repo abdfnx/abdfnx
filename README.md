@@ -18,11 +18,11 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 day ago)
 - [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (2 days ago)
 - [gepis/strge](https://github.com/gepis/strge) - storage package. (3 days ago)
 - [scmn-dev/install](https://github.com/scmn-dev/install) - secman installer and upgrader. (1 week ago)
-- [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) - sub-app of secman for windows. (1 week ago)
 
 #### 💻 My latest projects
 
