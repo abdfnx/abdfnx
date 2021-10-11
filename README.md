@@ -18,11 +18,11 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
-- [secman-archive/changelog.secman.dev](https://github.com/secman-archive/changelog.secman.dev) - the old changelog website of secman. (today)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
 - [secman-archive/git_config](https://github.com/secman-archive/git_config) - The Former Git configs of secman. (today)
+- [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) - The old secman cli website 📦. (today)
 - [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) - sub-app of secman for windows. (today)
-- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official Homebrew Tap for Secman. (today)
+- [secman-archive/changelog](https://github.com/secman-archive/changelog) - The old changelog website of secman. (today)
+- [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (today)
 
 #### 💻 My latest projects
 
@@ -42,7 +42,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [update changelog theme](https://github.com/secman-archive/changelog.secman.dev/pull/11) on [secman-archive/changelog.secman.dev](https://github.com/secman-archive/changelog.secman.dev) (today)
+- [update changelog theme](https://github.com/secman-archive/changelog/pull/11) on [secman-archive/changelog](https://github.com/secman-archive/changelog) (today)
 - [create the SECURITY policy of @vuejs](https://github.com/vuejs/vue/pull/12317) on [vuejs/vue](https://github.com/vuejs/vue) (2 days ago)
 - [hi](https://github.com/secman-archive/gh-api/pull/22) on [secman-archive/gh-api](https://github.com/secman-archive/gh-api) (4 days ago)
 - [link scmn-dev/cli.secman.dev with abdfnx/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev/pull/250) on [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) (1 week ago)
