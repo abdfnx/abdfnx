@@ -21,8 +21,8 @@
 - [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (today)
 - [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) - sub-app of secman for windows. (today)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (today)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
 - [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) - The old secman cli website 📦. (1 day ago)
-- [secman-archive/changelog](https://github.com/secman-archive/changelog) - The old changelog website of secman. (1 day ago)
 
 #### 💻 My latest projects
 
