@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.0.3-beta](https://github.com/scmn-dev/desktop/releases/tag/v1.0.3-beta), today) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
+- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.0.3](https://github.com/scmn-dev/desktop/releases/tag/v1.0.3), today) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v5.3.8](https://github.com/scmn-dev/secman/releases/tag/v5.3.8), 2 days ago) - 🔒 The password manager of your dreams.
 - [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) ([v0.2.4](https://github.com/scmn-dev/sm-win/releases/tag/v0.2.4), 2 days ago) - sub-app of secman for windows.
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.2.2](https://github.com/scmn-dev/docker/releases/tag/v0.2.2), 1 week ago) - 🐳 official docker image for secman.
