@@ -18,11 +18,11 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
+- [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) - The old secman cli website 📦. (today)
 - [abdfnx/server](https://github.com/abdfnx/server) - secman vscode server (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (2 days ago)
 - [scmn-dev/secman-v1](https://github.com/scmn-dev/secman-v1) - 💀 The former secman of scmn-dev/secman (deprecated) (2 days ago)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (3 days ago)
-- [scmn-dev/sm-win](https://github.com/scmn-dev/sm-win) - sub-app of secman for windows. (4 days ago)
 
 #### 💻 My latest projects
 
