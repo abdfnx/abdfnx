@@ -19,10 +19,10 @@
 
 
 - [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) - The old secman cli website 📦. (today)
-- [scmn-dev/secman-v1](https://github.com/scmn-dev/secman-v1) - 💀 The former secman of scmn-dev/secman (deprecated) (2 days ago)
+- [scmn-dev/code](https://github.com/scmn-dev/code) - vscode server. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (2 days ago)
+- [scmn-dev/secman-v1](https://github.com/scmn-dev/secman-v1) - 💀 The former secman of scmn-dev/secman (deprecated) (2 days ago)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (3 days ago)
-- [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (4 days ago)
 
 #### 💻 My latest projects
 
