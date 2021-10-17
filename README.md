@@ -18,7 +18,7 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
-- [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (today)
+- [scmn-dev/container2](https://github.com/scmn-dev/container2) - full code server container. (today)
 - [scmn-dev/vscode](https://github.com/scmn-dev/vscode) - vscode server. (today)
 - [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) - The old secman cli website 📦. (1 day ago)
 - [scmn-dev/secman-v1](https://github.com/scmn-dev/secman-v1) - 💀 The former secman of scmn-dev/secman (deprecated) (3 days ago)
@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [scmn-dev/container](https://github.com/scmn-dev/container) ([v1.0.0](https://github.com/scmn-dev/container/releases/tag/v1.0.0), today) - full code server container.
+- [scmn-dev/container2](https://github.com/scmn-dev/container2) ([v1.0.0](https://github.com/scmn-dev/container2/releases/tag/v1.0.0), today) - full code server container.
 - [scmn-dev/secman-v1](https://github.com/scmn-dev/secman-v1) ([v5.3.8](https://github.com/scmn-dev/secman-v1/releases/tag/v5.3.8), 3 days ago) - 💀 The former secman of scmn-dev/secman (deprecated)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.0.3](https://github.com/scmn-dev/desktop/releases/tag/v1.0.3), 4 days ago) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v5.3.8](https://github.com/scmn-dev/secman/releases/tag/v5.3.8), 6 days ago) - 🔒 The password manager of your dreams.
