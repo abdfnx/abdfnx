@@ -19,10 +19,10 @@
 
 
 - [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (today)
-- [scmn-dev/vscode](https://github.com/scmn-dev/vscode) - vscode server. (1 day ago)
+- [scmn-dev/vscode-x](https://github.com/scmn-dev/vscode-x) - vscode server. (today)
 - [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) - The old secman cli website 📦. (2 days ago)
-- [scmn-dev/secman-v1](https://github.com/scmn-dev/secman-v1) - 💀 The former secman of scmn-dev/secman (deprecated) (4 days ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (4 days ago)
+- [scmn-dev/secman-v1](https://github.com/scmn-dev/secman-v1) - 💀 The former secman of scmn-dev/secman (deprecated) (4 days ago)
 
 #### 💻 My latest projects
 
