@@ -8,7 +8,7 @@
 
 - [**secman**](https://github.com/scmn-dev/secman)
 - [**secman desktop**](https://github.com/scmn-dev/desktop)
-- [**gepis**](https://github.com/gepis/gepis)
+- [**ps**](https://github.com/scmn-dev/ps)
 - [**corgit**](https://github.com/abdfnx/corgit)
 - [**shell**](https://github.com/abdfnx/shell)
 - [**verx**](https://github.com/abdfnx/verx)
