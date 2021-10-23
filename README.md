@@ -18,11 +18,11 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
+- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (today)
 - [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (3 days ago)
 - [scmn-dev/ps](https://github.com/scmn-dev/ps) - docker ps in go. (4 days ago)
 - [scmn-dev/vscode-x](https://github.com/scmn-dev/vscode-x) - vscode server. (4 days ago)
 - [scmn-dev/workspace](https://github.com/scmn-dev/workspace) - all secman projects in one place (4 days ago)
-- [abdfnx/verx](https://github.com/abdfnx/verx) - verx is a version checker for repos. (5 days ago)
 
 #### 💻 My latest projects
 
