@@ -18,11 +18,11 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (today)
-- [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (3 days ago)
-- [scmn-dev/ps](https://github.com/scmn-dev/ps) - docker ps in go. (4 days ago)
-- [scmn-dev/vscode-x](https://github.com/scmn-dev/vscode-x) - vscode server. (4 days ago)
-- [scmn-dev/workspace](https://github.com/scmn-dev/workspace) - all secman projects in one place (4 days ago)
+- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 day ago)
+- [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (4 days ago)
+- [scmn-dev/ps](https://github.com/scmn-dev/ps) - docker ps in go. (5 days ago)
+- [scmn-dev/vscode-x](https://github.com/scmn-dev/vscode-x) - vscode server. (5 days ago)
+- [scmn-dev/workspace](https://github.com/scmn-dev/workspace) - all secman projects in one place (5 days ago)
 
 #### 💻 My latest projects
 
@@ -34,8 +34,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [scmn-dev/ps](https://github.com/scmn-dev/ps) ([v0.0.3](https://github.com/scmn-dev/ps/releases/tag/v0.0.3), 3 days ago) - docker ps in go.
-- [scmn-dev/container](https://github.com/scmn-dev/container) ([v1.0.2](https://github.com/scmn-dev/container/releases/tag/v1.0.2), 3 days ago) - full code server container.
+- [scmn-dev/ps](https://github.com/scmn-dev/ps) ([v0.0.3](https://github.com/scmn-dev/ps/releases/tag/v0.0.3), 4 days ago) - docker ps in go.
+- [scmn-dev/container](https://github.com/scmn-dev/container) ([v1.0.2](https://github.com/scmn-dev/container/releases/tag/v1.0.2), 4 days ago) - full code server container.
 - [scmn-dev/secman-v1](https://github.com/scmn-dev/secman-v1) ([v5.3.8](https://github.com/scmn-dev/secman-v1/releases/tag/v5.3.8), 1 week ago) - 💀 The former secman of scmn-dev/secman (deprecated)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.0.3](https://github.com/scmn-dev/desktop/releases/tag/v1.0.3), 1 week ago) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v5.3.8](https://github.com/scmn-dev/secman/releases/tag/v5.3.8), 1 week ago) - 🔒 The password manager of your dreams.
