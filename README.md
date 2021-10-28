@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [scmn-dev/spinner](https://github.com/scmn-dev/spinner) ([v0.1.2](https://github.com/scmn-dev/spinner/releases/tag/v0.1.2), today) - simple spinner for secman cli.
+- [scmn-dev/spinner](https://github.com/scmn-dev/spinner) ([v0.1.22](https://github.com/scmn-dev/spinner/releases/tag/v0.1.22), today) - simple spinner for secman cli.
 - [scmn-dev/ps](https://github.com/scmn-dev/ps) ([v0.0.3](https://github.com/scmn-dev/ps/releases/tag/v0.0.3), 1 week ago) - docker ps in go.
 - [scmn-dev/container](https://github.com/scmn-dev/container) ([v1.0.2](https://github.com/scmn-dev/container/releases/tag/v1.0.2), 1 week ago) - full code server container.
 - [scmn-dev/secman-v1](https://github.com/scmn-dev/secman-v1) ([v5.3.8](https://github.com/scmn-dev/secman-v1/releases/tag/v5.3.8), 2 weeks ago) - 💀 The former secman of scmn-dev/secman (deprecated)
