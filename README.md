@@ -18,9 +18,9 @@
 - the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
 
 
+- [scmn-dev/spinner](https://github.com/scmn-dev/spinner) - simple spinner for secman cli. (today)
 - [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (1 day ago)
-- [scmn-dev/spinner](https://github.com/scmn-dev/spinner) - simple spinner for secman cli. (2 days ago)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 week ago)
 - [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (1 week ago)
 
@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [scmn-dev/spinner](https://github.com/scmn-dev/spinner) ([v0.1.22](https://github.com/scmn-dev/spinner/releases/tag/v0.1.22), 2 days ago) - simple spinner for secman cli.
+- [scmn-dev/spinner](https://github.com/scmn-dev/spinner) ([v0.1.3](https://github.com/scmn-dev/spinner/releases/tag/v0.1.3), today) - simple spinner for secman cli.
 - [scmn-dev/ps](https://github.com/scmn-dev/ps) ([v0.0.3](https://github.com/scmn-dev/ps/releases/tag/v0.0.3), 1 week ago) - docker ps in go.
 - [scmn-dev/container](https://github.com/scmn-dev/container) ([v1.0.2](https://github.com/scmn-dev/container/releases/tag/v1.0.2), 1 week ago) - full code server container.
 - [scmn-dev/secman-v1](https://github.com/scmn-dev/secman-v1) ([v5.3.8](https://github.com/scmn-dev/secman-v1/releases/tag/v5.3.8), 2 weeks ago) - 💀 The former secman of scmn-dev/secman (deprecated)
