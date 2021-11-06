@@ -16,11 +16,11 @@
 #### 🏗️ Check out what I'm currently working on
 
 
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 official docker image for secman. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
 - [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) - The old secman cli website 📦. (1 day ago)
 - [scmn-dev/install](https://github.com/scmn-dev/install) - secman installer. (1 day ago)
 - [abdfnx/x-micro](https://github.com/abdfnx/x-micro) - small microphone app can change your voice for ios 📱 (3 days ago)
-- [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (5 days ago)
 
 #### 💻 My latest projects
 
@@ -32,11 +32,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.3.0](https://github.com/scmn-dev/docker/releases/tag/v0.3.0), today) - 🐳 official docker image for secman.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.4](https://github.com/scmn-dev/secman/releases/tag/v6.0.4), 1 day ago) - 🔒 The password manager of your dreams.
 - [scmn-dev/spinner](https://github.com/scmn-dev/spinner) ([v0.1.3](https://github.com/scmn-dev/spinner/releases/tag/v0.1.3), 1 week ago) - simple spinner for secman cli.
 - [scmn-dev/ps](https://github.com/scmn-dev/ps) ([v0.0.3](https://github.com/scmn-dev/ps/releases/tag/v0.0.3), 2 weeks ago) - docker ps in go.
 - [scmn-dev/container](https://github.com/scmn-dev/container) ([v1.0.2](https://github.com/scmn-dev/container/releases/tag/v1.0.2), 2 weeks ago) - full code server container.
-- [secman-archive/secman-v1](https://github.com/secman-archive/secman-v1) ([v5.3.8](https://github.com/secman-archive/secman-v1/releases/tag/v5.3.8), 3 weeks ago) - 💀 The former secman of scmn-dev/secman (deprecated)
 
 #### 🔨 Latest Pull Requests I published
 
