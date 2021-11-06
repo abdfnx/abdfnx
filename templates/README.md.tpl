@@ -15,8 +15,6 @@
 
 #### 🏗️ Check out what I'm currently working on
 
-- the new version of secman: secman v2 on [**scmn-dev/v2**](https://github.com/scmn-dev/v2)
-
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
