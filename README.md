@@ -19,7 +19,7 @@
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 official docker image for secman. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
 - [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) - The old secman cli website 📦. (1 day ago)
-- [scmn-dev/install](https://github.com/scmn-dev/install) - secman installer. (1 day ago)
+- [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - secman installer. (1 day ago)
 - [abdfnx/x-micro](https://github.com/abdfnx/x-micro) - small microphone app can change your voice for ios 📱 (3 days ago)
 
 #### 💻 My latest projects
