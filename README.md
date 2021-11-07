@@ -16,9 +16,9 @@
 #### 🏗️ Check out what I'm currently working on
 
 
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
 - [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - secman installer. (today)
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 official docker image for secman. (1 day ago)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (1 day ago)
 - [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) - The old secman cli website 📦. (2 days ago)
 - [abdfnx/x-micro](https://github.com/abdfnx/x-micro) - small microphone app can change your voice for ios 📱 (4 days ago)
 
@@ -40,8 +40,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Zyedidia master](https://github.com/zyedidia/micro/pull/2267) on [zyedidia/micro](https://github.com/zyedidia/micro) (today)
 - [README: add MacPorts install info (#2265)](https://github.com/scmn-dev/win-editor/pull/1) on [scmn-dev/win-editor](https://github.com/scmn-dev/win-editor) (today)
 - [update changelog theme](https://github.com/secman-archive/changelog/pull/11) on [secman-archive/changelog](https://github.com/secman-archive/changelog) (3 weeks ago)
 - [create the SECURITY policy of @vuejs](https://github.com/vuejs/vue/pull/12317) on [vuejs/vue](https://github.com/vuejs/vue) (4 weeks ago)
 - [hi](https://github.com/secman-archive/gh-api/pull/22) on [secman-archive/gh-api](https://github.com/secman-archive/gh-api) (1 month ago)
-- [link scmn-dev/cli.secman.dev with abdfnx/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev/pull/250) on [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) (1 month ago)
