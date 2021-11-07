@@ -40,8 +40,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [README: add MacPorts install info (#2265)](https://github.com/scmn-dev/win-editor/pull/1) on [scmn-dev/win-editor](https://github.com/scmn-dev/win-editor) (today)
 - [update changelog theme](https://github.com/secman-archive/changelog/pull/11) on [secman-archive/changelog](https://github.com/secman-archive/changelog) (3 weeks ago)
 - [create the SECURITY policy of @vuejs](https://github.com/vuejs/vue/pull/12317) on [vuejs/vue](https://github.com/vuejs/vue) (4 weeks ago)
 - [hi](https://github.com/secman-archive/gh-api/pull/22) on [secman-archive/gh-api](https://github.com/secman-archive/gh-api) (1 month ago)
 - [link scmn-dev/cli.secman.dev with abdfnx/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev/pull/250) on [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) (1 month ago)
-- [link scmn-dev/cli.secman.dev with abdfnx/cli.secman.dev](https://github.com/abdfnx/old-sm-cli.dev/pull/2) on [abdfnx/old-sm-cli.dev](https://github.com/abdfnx/old-sm-cli.dev) (1 month ago)
