@@ -16,11 +16,11 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
-- [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - secman installer. (today)
-- [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 official docker image for secman. (1 day ago)
-- [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) - The old secman cli website 📦. (2 days ago)
-- [abdfnx/x-micro](https://github.com/abdfnx/x-micro) - small microphone app can change your voice for ios 📱 (4 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (1 day ago)
+- [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - secman installer. (1 day ago)
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 official docker image for secman. (2 days ago)
+- [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) - The old secman cli website 📦. (3 days ago)
+- [abdfnx/x-micro](https://github.com/abdfnx/x-micro) - small microphone app can change your voice for ios 📱 (5 days ago)
 
 #### 💻 My latest projects
 
@@ -32,16 +32,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.3.0](https://github.com/scmn-dev/docker/releases/tag/v0.3.0), 1 day ago) - 🐳 official docker image for secman.
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.4](https://github.com/scmn-dev/secman/releases/tag/v6.0.4), 2 days ago) - 🔒 The password manager of your dreams.
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.3.0](https://github.com/scmn-dev/docker/releases/tag/v0.3.0), 2 days ago) - 🐳 official docker image for secman.
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.4](https://github.com/scmn-dev/secman/releases/tag/v6.0.4), 3 days ago) - 🔒 The password manager of your dreams.
 - [scmn-dev/spinner](https://github.com/scmn-dev/spinner) ([v0.1.3](https://github.com/scmn-dev/spinner/releases/tag/v0.1.3), 1 week ago) - simple spinner for secman cli.
 - [scmn-dev/ps](https://github.com/scmn-dev/ps) ([v0.0.3](https://github.com/scmn-dev/ps/releases/tag/v0.0.3), 2 weeks ago) - docker ps in go.
 - [scmn-dev/container](https://github.com/scmn-dev/container) ([v1.0.2](https://github.com/scmn-dev/container/releases/tag/v1.0.2), 2 weeks ago) - full code server container.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Zyedidia master](https://github.com/zyedidia/micro/pull/2267) on [zyedidia/micro](https://github.com/zyedidia/micro) (today)
-- [README: add MacPorts install info (#2265)](https://github.com/scmn-dev/win-editor/pull/1) on [scmn-dev/win-editor](https://github.com/scmn-dev/win-editor) (today)
-- [update changelog theme](https://github.com/secman-archive/changelog/pull/11) on [secman-archive/changelog](https://github.com/secman-archive/changelog) (3 weeks ago)
-- [create the SECURITY policy of @vuejs](https://github.com/vuejs/vue/pull/12317) on [vuejs/vue](https://github.com/vuejs/vue) (4 weeks ago)
+- [Zyedidia master](https://github.com/zyedidia/micro/pull/2267) on [zyedidia/micro](https://github.com/zyedidia/micro) (1 day ago)
+- [README: add MacPorts install info (#2265)](https://github.com/scmn-dev/win-editor/pull/1) on [scmn-dev/win-editor](https://github.com/scmn-dev/win-editor) (1 day ago)
+- [update changelog theme](https://github.com/secman-archive/changelog/pull/11) on [secman-archive/changelog](https://github.com/secman-archive/changelog) (4 weeks ago)
+- [create the SECURITY policy of @vuejs](https://github.com/vuejs/vue/pull/12317) on [vuejs/vue](https://github.com/vuejs/vue) (1 month ago)
 - [hi](https://github.com/secman-archive/gh-api/pull/22) on [secman-archive/gh-api](https://github.com/secman-archive/gh-api) (1 month ago)
