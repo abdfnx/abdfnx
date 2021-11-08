@@ -16,11 +16,11 @@
 #### 🏗️ Check out what I'm currently working on
 
 
+- [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (1 day ago)
-- [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - secman installer. (1 day ago)
+- [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - secman cli website 📦 (1 day ago)
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 official docker image for secman. (2 days ago)
 - [secman-archive/cli.secman.dev](https://github.com/secman-archive/cli.secman.dev) - The old secman cli website 📦. (3 days ago)
-- [abdfnx/x-micro](https://github.com/abdfnx/x-micro) - small microphone app can change your voice for ios 📱 (5 days ago)
 
 #### 💻 My latest projects
 
