@@ -17,10 +17,10 @@
 
 
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
-- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official Homebrew Tap for Secman. (1 day ago)
+- [secman-archive/sm-win](https://github.com/secman-archive/sm-win) - sub-app of secman for windows. (today)
+- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official Homebrew Tap for Secman. (today)
 - [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - secman cli website 📦 (1 day ago)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (2 days ago)
-- [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (2 days ago)
 
 #### 💻 My latest projects
 
