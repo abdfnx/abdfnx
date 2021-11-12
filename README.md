@@ -18,9 +18,9 @@
 
 - [abdfnx/snap-test](https://github.com/abdfnx/snap-test) - snap in github actions (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
+- [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors. (today)
 - [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official Homebrew Tap for Secman. (2 days ago)
 - [secman-archive/sm-win](https://github.com/secman-archive/sm-win) - sub-app of secman for windows. (2 days ago)
-- [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - secman cli website 📦 (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
