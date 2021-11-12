@@ -22,14 +22,6 @@
 - [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) - secman cli website 📦 (3 days ago)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (4 days ago)
 
-#### 💻 My latest projects
-
-- [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors.
-- [abdfnx/gs-kit](https://github.com/abdfnx/gs-kit) - Shared utility repo for @gepis runtime.
-- [abdfnx/terraform-demo](https://github.com/abdfnx/terraform-demo) - 
-- [abdfnx/dmman](https://github.com/abdfnx/dmman) - simple chat app built via flutter.
-- [abdfnx/x-micro](https://github.com/abdfnx/x-micro) - small microphone app can change your voice for ios 📱
-
 #### 🔭 Latest releases I've contributed to
 
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.61](https://github.com/scmn-dev/secman/releases/tag/v6.0.61), 2 days ago) - 🔒 The password manager of your dreams.
