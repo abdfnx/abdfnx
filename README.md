@@ -16,10 +16,10 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official Homebrew Tap for Secman. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
-- [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors. (2 days ago)
+- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official Homebrew Tap for Secman. (today)
 - [abdfnx/snap-test](https://github.com/abdfnx/snap-test) - snap in github actions (2 days ago)
+- [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors. (2 days ago)
 - [secman-archive/sm-win](https://github.com/secman-archive/sm-win) - sub-app of secman for windows. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
