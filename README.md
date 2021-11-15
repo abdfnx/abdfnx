@@ -34,6 +34,6 @@
 
 - [rename `IS_FROM_SCRIPT` env variable to `SM_PROVIDOR`](https://github.com/scmn-dev/cli.secman.dev/pull/12) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (6 days ago)
 - [Zyedidia master](https://github.com/zyedidia/micro/pull/2267) on [zyedidia/micro](https://github.com/zyedidia/micro) (1 week ago)
-- [README: add MacPorts install info (#2265)](https://github.com/scmn-dev/win-editor/pull/1) on [scmn-dev/win-editor](https://github.com/scmn-dev/win-editor) (1 week ago)
 - [update changelog theme](https://github.com/secman-archive/changelog/pull/11) on [secman-archive/changelog](https://github.com/secman-archive/changelog) (1 month ago)
 - [create the SECURITY policy of @vuejs](https://github.com/vuejs/vue/pull/12317) on [vuejs/vue](https://github.com/vuejs/vue) (1 month ago)
+- [hi](https://github.com/secman-archive/gh-api/pull/22) on [secman-archive/gh-api](https://github.com/secman-archive/gh-api) (1 month ago)
