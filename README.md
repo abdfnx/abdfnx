@@ -16,15 +16,15 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (today)
-- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official Homebrew Tap for Secman. (today)
-- [abdfnx/snap-test](https://github.com/abdfnx/snap-test) - snap in github actions (2 days ago)
-- [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors. (2 days ago)
-- [secman-archive/sm-win](https://github.com/secman-archive/sm-win) - sub-app of secman for windows. (4 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 🔒 The password manager of your dreams. (1 day ago)
+- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official Homebrew Tap for Secman. (1 day ago)
+- [abdfnx/snap-test](https://github.com/abdfnx/snap-test) - snap in github actions (3 days ago)
+- [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors. (3 days ago)
+- [secman-archive/sm-win](https://github.com/secman-archive/sm-win) - sub-app of secman for windows. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.7](https://github.com/scmn-dev/secman/releases/tag/v6.0.7), 1 day ago) - 🔒 The password manager of your dreams.
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.7](https://github.com/scmn-dev/secman/releases/tag/v6.0.7), 2 days ago) - 🔒 The password manager of your dreams.
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.3.0](https://github.com/scmn-dev/docker/releases/tag/v0.3.0), 1 week ago) - 🐳 official docker image for secman.
 - [scmn-dev/spinner](https://github.com/scmn-dev/spinner) ([v0.1.3](https://github.com/scmn-dev/spinner/releases/tag/v0.1.3), 2 weeks ago) - simple spinner for secman cli.
 - [scmn-dev/ps](https://github.com/scmn-dev/ps) ([v0.0.3](https://github.com/scmn-dev/ps/releases/tag/v0.0.3), 3 weeks ago) - docker ps in go.
@@ -32,7 +32,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [rename `IS_FROM_SCRIPT` env variable to `SM_PROVIDOR`](https://github.com/scmn-dev/cli.secman.dev/pull/12) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (5 days ago)
+- [rename `IS_FROM_SCRIPT` env variable to `SM_PROVIDOR`](https://github.com/scmn-dev/cli.secman.dev/pull/12) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (6 days ago)
 - [Zyedidia master](https://github.com/zyedidia/micro/pull/2267) on [zyedidia/micro](https://github.com/zyedidia/micro) (1 week ago)
 - [README: add MacPorts install info (#2265)](https://github.com/scmn-dev/win-editor/pull/1) on [scmn-dev/win-editor](https://github.com/scmn-dev/win-editor) (1 week ago)
 - [update changelog theme](https://github.com/secman-archive/changelog/pull/11) on [secman-archive/changelog](https://github.com/secman-archive/changelog) (1 month ago)
