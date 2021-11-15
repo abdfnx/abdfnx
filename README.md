@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.7](https://github.com/scmn-dev/secman/releases/tag/v6.0.7), 2 days ago) - 🔒 The password manager of your dreams.
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.71](https://github.com/scmn-dev/secman/releases/tag/v6.0.71), today) - 🔒 The password manager of your dreams.
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.3.0](https://github.com/scmn-dev/docker/releases/tag/v0.3.0), 1 week ago) - 🐳 official docker image for secman.
 - [scmn-dev/spinner](https://github.com/scmn-dev/spinner) ([v0.1.3](https://github.com/scmn-dev/spinner/releases/tag/v0.1.3), 2 weeks ago) - simple spinner for secman cli.
 - [scmn-dev/ps](https://github.com/scmn-dev/ps) ([v0.0.3](https://github.com/scmn-dev/ps/releases/tag/v0.0.3), 3 weeks ago) - docker ps in go.
