@@ -16,7 +16,7 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 day ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
 - [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official Homebrew Tap for Secman. (1 day ago)
 - [abdfnx/snap-test](https://github.com/abdfnx/snap-test) - snap in github actions (3 days ago)
 - [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors. (3 days ago)
