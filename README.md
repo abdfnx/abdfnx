@@ -16,8 +16,8 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
+- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (today)
 - [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (1 day ago)
 - [abdfnx/snap-test](https://github.com/abdfnx/snap-test) - snap in github actions (4 days ago)
 - [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors. (4 days ago)
@@ -32,8 +32,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [secman 6.0.71 (new formula)](https://github.com/Homebrew/homebrew-core/pull/89517) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (today)
 - [secman](https://github.com/Homebrew/homebrew-core/pull/89511) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (today)
 - [rename `IS_FROM_SCRIPT` env variable to `SM_PROVIDOR`](https://github.com/scmn-dev/cli.secman.dev/pull/12) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (1 week ago)
 - [Zyedidia master](https://github.com/zyedidia/micro/pull/2267) on [zyedidia/micro](https://github.com/zyedidia/micro) (1 week ago)
 - [update changelog theme](https://github.com/secman-archive/changelog/pull/11) on [secman-archive/changelog](https://github.com/secman-archive/changelog) (1 month ago)
-- [create the SECURITY policy of @vuejs](https://github.com/vuejs/vue/pull/12317) on [vuejs/vue](https://github.com/vuejs/vue) (1 month ago)
