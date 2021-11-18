@@ -16,11 +16,11 @@
 #### 🏗️ Check out what I'm currently working on
 
 
+- [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (today)
+- [scmn-dev/vscode-x](https://github.com/scmn-dev/vscode-x) - vscode server. (today)
 - [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (1 day ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
 - [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (3 days ago)
-- [abdfnx/snap-test](https://github.com/abdfnx/snap-test) - snap in github actions (6 days ago)
-- [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
