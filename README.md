@@ -16,11 +16,11 @@
 #### 🏗️ Check out what I'm currently working on
 
 
+- [restbox/sandboxer](https://github.com/restbox/sandboxer) - a JavaScript sandbox for executing various security sensitive external scripts. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
 - [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (3 days ago)
 - [scmn-dev/vscode-x](https://github.com/scmn-dev/vscode-x) - vscode server. (3 days ago)
 - [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (4 days ago)
-- [scmn-dev/.github](https://github.com/scmn-dev/.github) - @scmn-dev Default Metadata for :octocat: (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -32,8 +32,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Create LICENSE](https://github.com/restbox/sandboxer/pull/1) on [restbox/sandboxer](https://github.com/restbox/sandboxer) (today)
 - [fix config files warning messages, update yarn.lock](https://github.com/scmn-dev/secman/pull/120) on [scmn-dev/secman](https://github.com/scmn-dev/secman) (2 days ago)
 - [secman 6.0.71 (new formula)](https://github.com/Homebrew/homebrew-core/pull/89517) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (5 days ago)
 - [secman](https://github.com/Homebrew/homebrew-core/pull/89511) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (5 days ago)
 - [rename `IS_FROM_SCRIPT` env variable to `SM_PROVIDOR`](https://github.com/scmn-dev/cli.secman.dev/pull/12) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (1 week ago)
-- [Zyedidia master](https://github.com/zyedidia/micro/pull/2267) on [zyedidia/micro](https://github.com/zyedidia/micro) (2 weeks ago)
