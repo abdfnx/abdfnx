@@ -32,8 +32,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix `browserstack` &amp; `saucelabs` icons in README](https://github.com/nuxt/nuxt.js/pull/10068) on [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) (today)
 - [Create LICENSE](https://github.com/restbox/sandboxer/pull/1) on [restbox/sandboxer](https://github.com/restbox/sandboxer) (today)
 - [fix config files warning messages, update yarn.lock](https://github.com/scmn-dev/secman/pull/120) on [scmn-dev/secman](https://github.com/scmn-dev/secman) (2 days ago)
 - [secman 6.0.71 (new formula)](https://github.com/Homebrew/homebrew-core/pull/89517) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (5 days ago)
 - [secman](https://github.com/Homebrew/homebrew-core/pull/89511) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (5 days ago)
-- [rename `IS_FROM_SCRIPT` env variable to `SM_PROVIDOR`](https://github.com/scmn-dev/cli.secman.dev/pull/12) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (1 week ago)
