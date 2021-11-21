@@ -17,10 +17,10 @@
 
 
 - [restbox/sandboxer](https://github.com/restbox/sandboxer) - a JavaScript sandbox for executing various security sensitive external scripts. (today)
+- [restbox/graphql](https://github.com/restbox/graphql) - a CodeMirror language plugin for @graphql (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
 - [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (3 days ago)
 - [scmn-dev/vscode-x](https://github.com/scmn-dev/vscode-x) - vscode server. (3 days ago)
-- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
