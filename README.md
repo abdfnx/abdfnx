@@ -16,19 +16,19 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [restbox/sandboxer](https://github.com/restbox/sandboxer) - a JavaScript sandbox for executing various security sensitive external scripts. (1 day ago)
-- [restbox/graphql](https://github.com/restbox/graphql) - a CodeMirror language plugin for @graphql (1 day ago)
+- [restbox/graphql](https://github.com/restbox/graphql) - a CodeMirror language plugin for @graphql (today)
+- [restbox/sandboxer](https://github.com/restbox/sandboxer) - a JavaScript sandbox for executing various security sensitive external scripts. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (3 days ago)
-- [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (4 days ago)
 - [scmn-dev/vscode-x](https://github.com/scmn-dev/vscode-x) - vscode server. (4 days ago)
+- [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [restbox/graphql](https://github.com/restbox/graphql) ([v0.1.0](https://github.com/restbox/graphql/releases/tag/v0.1.0), today) - a CodeMirror language plugin for @graphql
+- [restbox/sandboxer](https://github.com/restbox/sandboxer) ([v0.1.0](https://github.com/restbox/sandboxer/releases/tag/v0.1.0), today) - a JavaScript sandbox for executing various security sensitive external scripts.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.71](https://github.com/scmn-dev/secman/releases/tag/v6.0.71), 1 week ago) - 👊 Human-friendly and amazing secrets manager.
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.3.0](https://github.com/scmn-dev/docker/releases/tag/v0.3.0), 2 weeks ago) - 🐳 Official @docker image for secman.
 - [scmn-dev/spinner](https://github.com/scmn-dev/spinner) ([v0.1.3](https://github.com/scmn-dev/spinner/releases/tag/v0.1.3), 3 weeks ago) - simple spinner for secman cli.
-- [scmn-dev/ps](https://github.com/scmn-dev/ps) ([v0.0.3](https://github.com/scmn-dev/ps/releases/tag/v0.0.3), 1 month ago) - docker ps in go.
-- [scmn-dev/container](https://github.com/scmn-dev/container) ([v1.0.2](https://github.com/scmn-dev/container/releases/tag/v1.0.2), 1 month ago) - full code server container.
 
 #### 🔨 Latest Pull Requests I published
 
