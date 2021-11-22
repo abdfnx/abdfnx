@@ -16,15 +16,15 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [restbox/sandboxer](https://github.com/restbox/sandboxer) - a JavaScript sandbox for executing various security sensitive external scripts. (today)
-- [restbox/graphql](https://github.com/restbox/graphql) - a CodeMirror language plugin for @graphql (today)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
-- [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (3 days ago)
-- [scmn-dev/vscode-x](https://github.com/scmn-dev/vscode-x) - vscode server. (3 days ago)
+- [restbox/sandboxer](https://github.com/restbox/sandboxer) - a JavaScript sandbox for executing various security sensitive external scripts. (1 day ago)
+- [restbox/graphql](https://github.com/restbox/graphql) - a CodeMirror language plugin for @graphql (1 day ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (3 days ago)
+- [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (4 days ago)
+- [scmn-dev/vscode-x](https://github.com/scmn-dev/vscode-x) - vscode server. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.71](https://github.com/scmn-dev/secman/releases/tag/v6.0.71), 6 days ago) - 👊 Human-friendly and amazing secrets manager.
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.71](https://github.com/scmn-dev/secman/releases/tag/v6.0.71), 1 week ago) - 👊 Human-friendly and amazing secrets manager.
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.3.0](https://github.com/scmn-dev/docker/releases/tag/v0.3.0), 2 weeks ago) - 🐳 Official @docker image for secman.
 - [scmn-dev/spinner](https://github.com/scmn-dev/spinner) ([v0.1.3](https://github.com/scmn-dev/spinner/releases/tag/v0.1.3), 3 weeks ago) - simple spinner for secman cli.
 - [scmn-dev/ps](https://github.com/scmn-dev/ps) ([v0.0.3](https://github.com/scmn-dev/ps/releases/tag/v0.0.3), 1 month ago) - docker ps in go.
@@ -32,8 +32,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix `browserstack` &amp; `saucelabs` icons in README](https://github.com/nuxt/nuxt.js/pull/10068) on [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) (today)
-- [Create LICENSE](https://github.com/restbox/sandboxer/pull/1) on [restbox/sandboxer](https://github.com/restbox/sandboxer) (today)
-- [fix config files warning messages, update yarn.lock](https://github.com/scmn-dev/secman/pull/120) on [scmn-dev/secman](https://github.com/scmn-dev/secman) (2 days ago)
-- [secman 6.0.71 (new formula)](https://github.com/Homebrew/homebrew-core/pull/89517) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (5 days ago)
-- [secman](https://github.com/Homebrew/homebrew-core/pull/89511) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (5 days ago)
+- [fix `browserstack` &amp; `saucelabs` icons in README](https://github.com/nuxt/nuxt.js/pull/10068) on [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) (1 day ago)
+- [Create LICENSE](https://github.com/restbox/sandboxer/pull/1) on [restbox/sandboxer](https://github.com/restbox/sandboxer) (1 day ago)
+- [fix config files warning messages, update yarn.lock](https://github.com/scmn-dev/secman/pull/120) on [scmn-dev/secman](https://github.com/scmn-dev/secman) (3 days ago)
+- [secman 6.0.71 (new formula)](https://github.com/Homebrew/homebrew-core/pull/89517) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (6 days ago)
+- [secman](https://github.com/Homebrew/homebrew-core/pull/89511) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (6 days ago)
