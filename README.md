@@ -18,8 +18,8 @@
 
 - [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 Renio is a secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
 - [abdfnx/renio_typescript](https://github.com/abdfnx/renio_typescript) - renio typescript assets. (today)
-- [restbox/graphql](https://github.com/restbox/graphql) - a CodeMirror language plugin for @graphql (1 day ago)
 - [restbox/sandboxer](https://github.com/restbox/sandboxer) - a JavaScript sandbox for executing various security sensitive external scripts. (1 day ago)
+- [restbox/graphql](https://github.com/restbox/graphql) - a CodeMirror language plugin for @graphql (1 day ago)
 - [restbox/rest](https://github.com/restbox/rest) - Rest API &amp; GraphQL development platform. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
