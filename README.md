@@ -18,7 +18,7 @@
 
 - [restbox/sandboxer](https://github.com/restbox/sandboxer) - a JavaScript sandbox for executing various security sensitive external scripts. (1 day ago)
 - [restbox/graphql](https://github.com/restbox/graphql) - a CodeMirror language plugin for @graphql (1 day ago)
-- [restbox/rest](https://github.com/restbox/rest) - Rest API &amp; GQL development platform. (1 day ago)
+- [restbox/rest](https://github.com/restbox/rest) - Rest API &amp; GraphQL development platform. (1 day ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (4 days ago)
 - [scmn-dev/vscode-x](https://github.com/scmn-dev/vscode-x) - vscode server. (5 days ago)
 
@@ -33,7 +33,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [chore: upgrade Rust version to `1.56.1`](https://github.com/denoland/deno/pull/12870) on [denoland/deno](https://github.com/denoland/deno) (today)
-- [fix `browserstack` &amp; `saucelabs` icons in README](https://github.com/nuxt/nuxt.js/pull/10068) on [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) (2 days ago)
+- [chore: fix browserstack &amp; saucelabs icons in README](https://github.com/nuxt/nuxt.js/pull/10068) on [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) (2 days ago)
 - [fix config files warning messages, update yarn.lock](https://github.com/scmn-dev/secman/pull/120) on [scmn-dev/secman](https://github.com/scmn-dev/secman) (4 days ago)
 - [secman 6.0.71 (new formula)](https://github.com/Homebrew/homebrew-core/pull/89517) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
 - [secman](https://github.com/Homebrew/homebrew-core/pull/89511) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
