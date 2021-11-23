@@ -16,9 +16,9 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/renio_std](https://github.com/abdfnx/renio_std) - Renio standard library. (today)
-- [abdfnx/renio_typescript](https://github.com/abdfnx/renio_typescript) - renio typescript assets. (today)
 - [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 Renio is a secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
+- [abdfnx/renio_typescript](https://github.com/abdfnx/renio_typescript) - renio typescript assets. (today)
+- [abdfnx/renio_std](https://github.com/abdfnx/renio_std) - Renio standard library. (today)
 - [restbox/rest](https://github.com/restbox/rest) - Rest API &amp; GraphQL development platform. (1 day ago)
 - [restbox/graphql](https://github.com/restbox/graphql) - a CodeMirror language plugin for @graphql (1 day ago)
 
@@ -32,8 +32,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Create LICENSE](https://github.com/abdfnx/renio_std/pull/1) on [abdfnx/renio_std](https://github.com/abdfnx/renio_std) (today)
 - [create the Code of Conduct of `renio`](https://github.com/abdfnx/renio/pull/2) on [abdfnx/renio](https://github.com/abdfnx/renio) (today)
 - [add `renio-typescript` LICENSE](https://github.com/abdfnx/renio_typescript/pull/1) on [abdfnx/renio_typescript](https://github.com/abdfnx/renio_typescript) (today)
 - [chore: upgrade Rust version to `1.56.1`](https://github.com/denoland/deno/pull/12870) on [denoland/deno](https://github.com/denoland/deno) (today)
 - [chore: fix browserstack &amp; saucelabs icons in README](https://github.com/nuxt/nuxt.js/pull/10068) on [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) (2 days ago)
-- [fix config files warning messages, update yarn.lock](https://github.com/scmn-dev/secman/pull/120) on [scmn-dev/secman](https://github.com/scmn-dev/secman) (4 days ago)
