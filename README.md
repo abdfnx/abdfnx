@@ -32,8 +32,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: upgrade Rust version to `1.56.1`](https://github.com/denoland/deno/pull/12870) on [denoland/deno](https://github.com/denoland/deno) (today)
 - [fix `browserstack` &amp; `saucelabs` icons in README](https://github.com/nuxt/nuxt.js/pull/10068) on [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) (2 days ago)
 - [fix config files warning messages, update yarn.lock](https://github.com/scmn-dev/secman/pull/120) on [scmn-dev/secman](https://github.com/scmn-dev/secman) (4 days ago)
 - [secman 6.0.71 (new formula)](https://github.com/Homebrew/homebrew-core/pull/89517) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
 - [secman](https://github.com/Homebrew/homebrew-core/pull/89511) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
-- [rename `IS_FROM_SCRIPT` env variable to `SM_PROVIDOR`](https://github.com/scmn-dev/cli.secman.dev/pull/12) on [scmn-dev/cli.secman.dev](https://github.com/scmn-dev/cli.secman.dev) (2 weeks ago)
