@@ -16,7 +16,7 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 Renio is a secure, lightweight, and fast runtime for JavaScript and TypeScript. (1 day ago)
+- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 Renio is a secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
 - [abdfnx/renio_typescript](https://github.com/abdfnx/renio_typescript) - renio typescript assets. (1 day ago)
 - [abdfnx/renio_std](https://github.com/abdfnx/renio_std) - Renio standard library. (1 day ago)
 - [restbox/rest](https://github.com/restbox/rest) - Rest API &amp; GraphQL development platform. (2 days ago)
