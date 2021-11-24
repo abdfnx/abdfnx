@@ -32,7 +32,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix windows support](https://github.com/dlvhdr/gh-prs/pull/11) on [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) (today)
+- [Fix multiple machines issues](https://github.com/dlvhdr/gh-prs/pull/11) on [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) (today)
 - [Create LICENSE](https://github.com/abdfnx/renio_std/pull/1) on [abdfnx/renio_std](https://github.com/abdfnx/renio_std) (1 day ago)
 - [create the Code of Conduct of `renio`](https://github.com/abdfnx/renio/pull/2) on [abdfnx/renio](https://github.com/abdfnx/renio) (1 day ago)
 - [add `renio-typescript` LICENSE](https://github.com/abdfnx/renio_typescript/pull/1) on [abdfnx/renio_typescript](https://github.com/abdfnx/renio_typescript) (1 day ago)
