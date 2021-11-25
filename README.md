@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v1.2.2](https://github.com/dlvhdr/gh-prs/releases/tag/v1.2.2), today) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
+- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v1.2.3](https://github.com/dlvhdr/gh-prs/releases/tag/v1.2.3), today) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [abdfnx/renio_std](https://github.com/abdfnx/renio_std) ([v0.1.0](https://github.com/abdfnx/renio_std/releases/tag/v0.1.0), today) - Renio standard library.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.16.3](https://github.com/denoland/deno/releases/tag/v1.16.3), 1 day ago) - A modern runtime for JavaScript and TypeScript.
 - [restbox/graphql](https://github.com/restbox/graphql) ([v0.1.0](https://github.com/restbox/graphql/releases/tag/v0.1.0), 3 days ago) - a CodeMirror language plugin for @graphql
