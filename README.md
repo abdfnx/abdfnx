@@ -16,7 +16,7 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 Renio is a secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
+- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
 - [abdfnx/renio_std](https://github.com/abdfnx/renio_std) - Renio standard library. (today)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
 - [abdfnx/renio_typescript](https://github.com/abdfnx/renio_typescript) - renio typescript assets. (2 days ago)
@@ -32,8 +32,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [start build `core` package with README](https://github.com/abdfnx/renio/pull/3) on [abdfnx/renio](https://github.com/abdfnx/renio) (today)
 - [Fix multiple machines issues](https://github.com/dlvhdr/gh-prs/pull/11) on [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) (1 day ago)
 - [Create LICENSE](https://github.com/abdfnx/renio_std/pull/1) on [abdfnx/renio_std](https://github.com/abdfnx/renio_std) (2 days ago)
 - [create the Code of Conduct of `renio`](https://github.com/abdfnx/renio/pull/2) on [abdfnx/renio](https://github.com/abdfnx/renio) (2 days ago)
 - [add `renio-typescript` LICENSE](https://github.com/abdfnx/renio_typescript/pull/1) on [abdfnx/renio_typescript](https://github.com/abdfnx/renio_typescript) (2 days ago)
-- [chore: upgrade Rust version to `1.56.1`](https://github.com/denoland/deno/pull/12870) on [denoland/deno](https://github.com/denoland/deno) (2 days ago)
