@@ -16,9 +16,9 @@
 #### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/renio_std](https://github.com/abdfnx/renio_std) - Renio standard library. (today)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
 - [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 Renio is a secure, lightweight, and fast runtime for JavaScript and TypeScript. (1 day ago)
-- [abdfnx/renio_std](https://github.com/abdfnx/renio_std) - Renio standard library. (2 days ago)
 - [abdfnx/renio_typescript](https://github.com/abdfnx/renio_typescript) - renio typescript assets. (2 days ago)
 - [restbox/sandboxer](https://github.com/restbox/sandboxer) - a JavaScript sandbox for executing various security sensitive external scripts. (3 days ago)
 
