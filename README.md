@@ -20,7 +20,7 @@
 - [abdfnx/renio_std](https://github.com/abdfnx/renio_std) - Renio standard library. (today)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
 - [abdfnx/renio_typescript](https://github.com/abdfnx/renio_typescript) - renio typescript assets. (2 days ago)
-- [restbox/sandboxer](https://github.com/restbox/sandboxer) - a JavaScript sandbox for executing various security sensitive external scripts. (3 days ago)
+- [restbox/rest](https://github.com/restbox/rest) - Rest API &amp; GraphQL development platform. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
