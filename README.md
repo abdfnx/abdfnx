@@ -17,10 +17,10 @@
 
 
 - [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (today)
-- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
 - [abdfnx/setup-zsh](https://github.com/abdfnx/setup-zsh) - my zsh setup script (today)
-- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI. (1 day ago)
+- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
 - [abdfnx/renio_std](https://github.com/abdfnx/renio_std) - Renio standard library. (1 day ago)
+- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
