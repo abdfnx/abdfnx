@@ -16,9 +16,9 @@
 #### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
 - [abdfnx/renio_std](https://github.com/abdfnx/renio_std) - Renio standard library. (1 day ago)
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI. (1 day ago)
-- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (1 day ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (2 days ago)
 - [abdfnx/renio_typescript](https://github.com/abdfnx/renio_typescript) - renio typescript assets. (3 days ago)
 
@@ -32,8 +32,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [modify the modfiles, start build `context` pkg, add contract](https://github.com/abdfnx/renio/pull/7) on [abdfnx/renio](https://github.com/abdfnx/renio) (today)
+- [add tips for error executing in README](https://github.com/dlvhdr/gh-prs/pull/20) on [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) (today)
 - [update linux amd64 dist path](https://github.com/dlvhdr/gh-prs/pull/19) on [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) (1 day ago)
 - [rename linux amd64 base name to `linux-amd64`](https://github.com/dlvhdr/gh-prs/pull/18) on [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) (1 day ago)
 - [rename darwin 64 base name to `darwin-amd64` and windows](https://github.com/dlvhdr/gh-prs/pull/17) on [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) (1 day ago)
-- [rename darwin 64 base name to `darwin-amd64` and windows](https://github.com/abdfnx/gh-prs/pull/1) on [abdfnx/gh-prs](https://github.com/abdfnx/gh-prs) (1 day ago)
-- [rename darwin 64 base name to `darwin-amd64` and windows](https://github.com/dlvhdr/gh-prs/pull/16) on [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) (1 day ago)
