@@ -16,19 +16,19 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (1 day ago)
+- [abdfnx/shell](https://github.com/abdfnx/shell) - run powershell and bash with go. (today)
+- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
 - [abdfnx/setup-zsh](https://github.com/abdfnx/setup-zsh) - my zsh setup script (1 day ago)
-- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (1 day ago)
+- [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (1 day ago)
 - [abdfnx/renio_std](https://github.com/abdfnx/renio_std) - Renio standard library. (2 days ago)
-- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [abdfnx/shell](https://github.com/abdfnx/shell) ([v0.3.2](https://github.com/abdfnx/shell/releases/tag/v0.3.2), today) - run powershell and bash with go.
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v1.2.3](https://github.com/dlvhdr/gh-prs/releases/tag/v1.2.3), 2 days ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [abdfnx/renio_std](https://github.com/abdfnx/renio_std) ([v0.1.0](https://github.com/abdfnx/renio_std/releases/tag/v0.1.0), 2 days ago) - Renio standard library.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.16.3](https://github.com/denoland/deno/releases/tag/v1.16.3), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 - [restbox/graphql](https://github.com/restbox/graphql) ([v0.1.0](https://github.com/restbox/graphql/releases/tag/v0.1.0), 5 days ago) - a CodeMirror language plugin for @graphql
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.71](https://github.com/scmn-dev/secman/releases/tag/v6.0.71), 1 week ago) - 👊 Human-friendly and amazing secrets manager.
 
 #### 🔨 Latest Pull Requests I published
 
