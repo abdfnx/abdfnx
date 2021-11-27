@@ -16,8 +16,8 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/shell](https://github.com/abdfnx/shell) - run powershell and bash with go. (today)
 - [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
+- [abdfnx/shell](https://github.com/abdfnx/shell) - run powershell and bash with go. (today)
 - [abdfnx/setup-zsh](https://github.com/abdfnx/setup-zsh) - my zsh setup script (1 day ago)
 - [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (1 day ago)
 - [abdfnx/renio_std](https://github.com/abdfnx/renio_std) - Renio standard library. (2 days ago)
