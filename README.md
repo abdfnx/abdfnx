@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [abdfnx/shell](https://github.com/abdfnx/shell) ([v0.3.2](https://github.com/abdfnx/shell/releases/tag/v0.3.2), today) - run powershell and bash with go.
+- [abdfnx/shell](https://github.com/abdfnx/shell) ([v0.3.3](https://github.com/abdfnx/shell/releases/tag/v0.3.3), today) - run powershell and bash with go.
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v1.2.3](https://github.com/dlvhdr/gh-prs/releases/tag/v1.2.3), 2 days ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [abdfnx/renio_std](https://github.com/abdfnx/renio_std) ([v0.1.0](https://github.com/abdfnx/renio_std/releases/tag/v0.1.0), 2 days ago) - Renio standard library.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.16.3](https://github.com/denoland/deno/releases/tag/v1.16.3), 3 days ago) - A modern runtime for JavaScript and TypeScript.
