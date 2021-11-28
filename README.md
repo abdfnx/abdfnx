@@ -16,7 +16,7 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
+- [abdfnx/renio](https://github.com/abdfnx/renio) - 🐙 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
 - [abdfnx/renio_std](https://github.com/abdfnx/renio_std) - Renio standard library. (today)
 - [abdfnx/consul](https://github.com/abdfnx/consul) -  (today)
 - [abdfnx/shell](https://github.com/abdfnx/shell) - run powershell and bash with go. (1 day ago)
