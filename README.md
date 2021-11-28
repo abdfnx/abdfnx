@@ -16,7 +16,7 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (1 day ago)
+- [abdfnx/renio](https://github.com/abdfnx/renio) - 🦏 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (today)
 - [abdfnx/shell](https://github.com/abdfnx/shell) - run powershell and bash with go. (1 day ago)
 - [abdfnx/setup-zsh](https://github.com/abdfnx/setup-zsh) - my zsh setup script (2 days ago)
 - [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (2 days ago)
