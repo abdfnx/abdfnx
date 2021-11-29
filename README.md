@@ -17,10 +17,10 @@
 
 
 - [abdfnx-archived-and-failed-projects/renio_std](https://github.com/abdfnx-archived-and-failed-projects/renio_std) - Renio standard library. (today)
+- [abdfnx/rest-it](https://github.com/abdfnx/rest-it) - send pretty HTTP &amp; API requests from your terminal. (today)
 - [abdfnx-archived-and-failed-projects/renio](https://github.com/abdfnx-archived-and-failed-projects/renio) - 🦑 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (1 day ago)
 - [abdfnx/shell](https://github.com/abdfnx/shell) - run powershell and bash with go. (2 days ago)
 - [abdfnx/setup-zsh](https://github.com/abdfnx/setup-zsh) - my zsh setup script (3 days ago)
-- [scmn-dev/container](https://github.com/scmn-dev/container) - full code server container. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -29,11 +29,3 @@
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v1.2.3](https://github.com/dlvhdr/gh-prs/releases/tag/v1.2.3), 4 days ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.16.3](https://github.com/denoland/deno/releases/tag/v1.16.3), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 - [restbox/graphql](https://github.com/restbox/graphql) ([v0.1.0](https://github.com/restbox/graphql/releases/tag/v0.1.0), 1 week ago) - a CodeMirror language plugin for @graphql
-
-#### 🔨 Latest Pull Requests I published
-
-- [start build `app` &amp; `context` packages, create `core` pkg](https://github.com/abdfnx-archived-and-failed-projects/renio/pull/6) on [abdfnx-archived-and-failed-projects/renio](https://github.com/abdfnx-archived-and-failed-projects/renio) (3 days ago)
-- [add check tool, finish from `config` package](https://github.com/abdfnx-archived-and-failed-projects/renio/pull/5) on [abdfnx-archived-and-failed-projects/renio](https://github.com/abdfnx-archived-and-failed-projects/renio) (3 days ago)
-- [tidy the modfile, start build `tools` package](https://github.com/abdfnx-archived-and-failed-projects/renio/pull/4) on [abdfnx-archived-and-failed-projects/renio](https://github.com/abdfnx-archived-and-failed-projects/renio) (3 days ago)
-- [add editor config file, configure `mod.toml`](https://github.com/abdfnx-archived-and-failed-projects/renio/pull/3) on [abdfnx-archived-and-failed-projects/renio](https://github.com/abdfnx-archived-and-failed-projects/renio) (3 days ago)
-- [install packages, configure `.gitignore`](https://github.com/abdfnx-archived-and-failed-projects/renio/pull/2) on [abdfnx-archived-and-failed-projects/renio](https://github.com/abdfnx-archived-and-failed-projects/renio) (3 days ago)
