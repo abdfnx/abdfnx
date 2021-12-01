@@ -4,7 +4,7 @@
 
 [@scmn-dev](https://github.com/scmn-dev) Creator. full-stack dev. enjoys working on cli apps, websites, automation (CI/CD), and backend.
 
-#### ⌨️ My Projects
+#### ⌨️ Projects
 
 - [**secman**](https://github.com/scmn-dev/secman)
 - [**secman desktop**](https://github.com/scmn-dev/desktop)
