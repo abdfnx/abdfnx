@@ -16,11 +16,11 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/rest-it](https://github.com/abdfnx/rest-it) - send pretty HTTP &amp; API requests from your terminal. (today)
+- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI. (today)
 - [abdfnx/shell](https://github.com/abdfnx/shell) - run powershell and bash with go. (today)
+- [abdfnx/rest-it](https://github.com/abdfnx/rest-it) - send pretty HTTP &amp; API requests from your terminal. (today)
 - [abdfnx-archived-and-failed-projects/renio_std](https://github.com/abdfnx-archived-and-failed-projects/renio_std) - Renio standard library. (3 days ago)
 - [abdfnx-archived-and-failed-projects/renio](https://github.com/abdfnx-archived-and-failed-projects/renio) - 🦑 A secure, lightweight, and fast runtime for JavaScript and TypeScript. (4 days ago)
-- [abdfnx/setup-zsh](https://github.com/abdfnx/setup-zsh) - my zsh setup script (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
