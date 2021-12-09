@@ -16,7 +16,7 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/resto](https://github.com/abdfnx/resto) - send pretty HTTP &amp; API requests from your terminal. (5 days ago)
+- [abdfnx/resto](https://github.com/abdfnx/resto) - send pretty HTTP &amp; API requests from your terminal. (today)
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI. (6 days ago)
 - [abdfnx/shell](https://github.com/abdfnx/shell) - run powershell and bash with go. (1 week ago)
 - [abdfnx-archived-and-failed-projects/renio_std](https://github.com/abdfnx-archived-and-failed-projects/renio_std) - Renio standard library. (1 week ago)
