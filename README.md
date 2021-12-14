@@ -2,10 +2,9 @@
 
 <img align="right" src="https://github.com/abdfnx.png" width="200">
 
-[@scmn-dev](https://github.com/scmn-dev) Creator. full-stack dev. enjoys working on cli apps, websites, automation (CI/CD), and backend.
-
 #### ⌨️ Projects
 
+- [**resto**](https://github.com/abdfnx/resto)
 - [**secman**](https://github.com/scmn-dev/secman)
 - [**secman desktop**](https://github.com/scmn-dev/desktop)
 - [**ps**](https://github.com/scmn-dev/ps)
