@@ -15,11 +15,11 @@
 #### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/verx](https://github.com/abdfnx/verx) - verx is a version checker for repos. (today)
+- [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (today)
 - [abdfnx/shell](https://github.com/abdfnx/shell) - run powershell and bash easly with go. (today)
-- [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (1 day ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
 - [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) - the github cli extension of resto - `a CLI app can send pretty HTTP &amp; API requests with TUI` (4 days ago)
-- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
