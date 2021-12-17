@@ -16,8 +16,8 @@
 
 
 - [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (today)
-- [abdfnx/verx](https://github.com/abdfnx/verx) - verx is a version checker for repos. (1 day ago)
 - [abdfnx/shell](https://github.com/abdfnx/shell) - run powershell and bash easly with go. (1 day ago)
+- [abdfnx/verx](https://github.com/abdfnx/verx) - verx is a version checker for repos. (1 day ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (3 days ago)
 - [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) - the github cli extension of resto - `a CLI app can send pretty HTTP &amp; API requests with TUI` (5 days ago)
 
