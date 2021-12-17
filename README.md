@@ -23,8 +23,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) ([v0.1.2](https://github.com/abdfnx/gh-resto/releases/tag/v0.1.2), today) - the github cli extension of resto - `a CLI app can send pretty HTTP &amp; API requests with TUI`
+- [abdfnx/resto](https://github.com/abdfnx/resto) ([v0.1.2](https://github.com/abdfnx/resto/releases/tag/v0.1.2), today) - a CLI app can send pretty HTTP &amp; API requests with TUI
 - [denoland/deno](https://github.com/denoland/deno) ([v1.17.0](https://github.com/denoland/deno/releases/tag/v1.17.0), 1 day ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/shell](https://github.com/abdfnx/shell) ([v0.3.4](https://github.com/abdfnx/shell/releases/tag/v0.3.4), 1 day ago) - run powershell and bash easly with go.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.8](https://github.com/scmn-dev/secman/releases/tag/v6.0.8), 3 days ago) - 👊 Human-friendly and amazing secrets manager.
-- [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) ([v0.1.1](https://github.com/abdfnx/gh-resto/releases/tag/v0.1.1), 5 days ago) - the github cli extension of resto - `a CLI app can send pretty HTTP &amp; API requests with TUI`
-- [abdfnx-archived-and-failed-projects/renio_std](https://github.com/abdfnx-archived-and-failed-projects/renio_std) ([v0.1.2](https://github.com/abdfnx-archived-and-failed-projects/renio_std/releases/tag/v0.1.2), 2 weeks ago) - Renio standard library.
