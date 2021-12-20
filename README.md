@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) ([v0.1.3-test25](https://github.com/abdfnx/gh-resto/releases/tag/v0.1.3-test25), today) - the github cli extension of resto - `a CLI app can send pretty HTTP &amp; API requests with TUI`
+- [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) ([v0.1.3-test33](https://github.com/abdfnx/gh-resto/releases/tag/v0.1.3-test33), today) - the github cli extension of resto - `a CLI app can send pretty HTTP &amp; API requests with TUI`
 - [denoland/deno](https://github.com/denoland/deno) ([v1.17.0](https://github.com/denoland/deno/releases/tag/v1.17.0), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/shell](https://github.com/abdfnx/shell) ([v0.3.4](https://github.com/abdfnx/shell/releases/tag/v0.3.4), 4 days ago) - run powershell and bash easly with go.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.0.8](https://github.com/scmn-dev/secman/releases/tag/v6.0.8), 6 days ago) - 👊 Human-friendly and amazing secrets manager.
