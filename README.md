@@ -15,7 +15,7 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (1 day ago)
+- [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (today)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap (4 days ago)
 - [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) - the github cli extension of resto - `a CLI app can send pretty HTTP &amp; API requests with TUI` (4 days ago)
 - [abdfnx/verx](https://github.com/abdfnx/verx) - verx is a version checker for repos. (1 week ago)
