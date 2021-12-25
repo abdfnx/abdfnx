@@ -16,8 +16,8 @@
 
 
 - [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (today)
+- [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) - the github cli extension of resto - `a CLI app can send pretty HTTP &amp; API requests with TUI` (today)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap (5 days ago)
-- [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) - the github cli extension of resto - `a CLI app can send pretty HTTP &amp; API requests with TUI` (5 days ago)
 - [abdfnx/verx](https://github.com/abdfnx/verx) - verx is a version checker for repos. (1 week ago)
 - [abdfnx/shell](https://github.com/abdfnx/shell) - run powershell and bash easly with go. (1 week ago)
 
