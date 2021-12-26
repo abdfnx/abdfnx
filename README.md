@@ -15,11 +15,11 @@
 #### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 Official @docker image for secman. (today)
+- [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (today)
+- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (today)
 - [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) - the github cli extension of resto - `a CLI app can send pretty HTTP &amp; API requests with TUI` (1 day ago)
-- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap (6 days ago)
-- [abdfnx/verx](https://github.com/abdfnx/verx) - verx is a version checker for repos. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
