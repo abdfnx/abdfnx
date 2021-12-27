@@ -15,11 +15,11 @@
 #### 🏗️ Check out what I'm currently working on
 
 
+- [scmn-dev/editor](https://github.com/scmn-dev/editor) - The secman settings editor for secman cli. (today)
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 Official @docker image for secman. (1 day ago)
+- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (1 day ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (1 day ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 day ago)
-- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (1 day ago)
-- [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 Official @docker image for secman. (1 day ago)
-- [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) - the github cli extension of resto - `a CLI app can send pretty HTTP &amp; API requests with TUI` (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
