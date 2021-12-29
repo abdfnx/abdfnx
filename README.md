@@ -17,9 +17,9 @@
 
 - [abdfnx/redui](https://github.com/abdfnx/redui) - 🎲 redis you know but with console user interface (today)
 - [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (1 day ago)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 day ago)
-- [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (1 day ago)
 - [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors. (1 day ago)
+- [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (1 day ago)
+- [abdfnx/pxl](https://github.com/abdfnx/pxl) - a package converts images to text (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
