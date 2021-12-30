@@ -2,17 +2,26 @@
 
 <img align="right" src="https://github.com/abdfnx.png" width="200">
 
-#### ⌨️ Projects
+### ⌨️ Projects
 
-- [**resto**](https://github.com/abdfnx/resto)
+#### TUI
+
+- [**resto**](https://github.com/abdfnx/resto): a CLI app can send pretty HTTP & API requests with TUI
+
+#### Secrets management
+
 - [**secman**](https://github.com/scmn-dev/secman)
 - [**secman desktop**](https://github.com/scmn-dev/desktop)
-- [**ps**](https://github.com/scmn-dev/ps)
-- [**corgit**](https://github.com/abdfnx/corgit)
-- [**shell**](https://github.com/abdfnx/shell)
-- [**verx**](https://github.com/abdfnx/verx)
 
-#### 🏗️ Check out what I'm currently working on
+#### Bash/Powershell Tools
+
+- [**shell**](https://github.com/abdfnx/shell)
+
+#### Other Tools
+
+- [**corgit**](https://github.com/abdfnx/corgit)
+
+### 🏗️ Check out what I'm currently working on
 
 
 - [scmn-dev/editor](https://github.com/scmn-dev/editor) - The secman settings editor for secman cli. (today)
@@ -21,7 +30,7 @@
 - [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors. (2 days ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (2 days ago)
 
-#### 🔭 Latest releases I've contributed to
+### 🔭 Latest releases I've contributed to
 
 - [abdfnx/pxl](https://github.com/abdfnx/pxl) ([v0.0.1](https://github.com/abdfnx/pxl/releases/tag/v0.0.1), 2 days ago) - a package converts images to text
 - [scmn-dev/editor](https://github.com/scmn-dev/editor) ([v6.1.1](https://github.com/scmn-dev/editor/releases/tag/v6.1.1), 3 days ago) - The secman settings editor for secman cli.
