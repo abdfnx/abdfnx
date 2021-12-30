@@ -24,10 +24,10 @@
 
 
 - [scmn-dev/editor](https://github.com/scmn-dev/editor) - The secman settings editor for secman cli. (today)
+- [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (today)
 - [abdfnx/redui](https://github.com/abdfnx/redui) - 🎲 redis you know but with console user interface (1 day ago)
 - [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (2 days ago)
 - [abdfnx/secman-editor-builders](https://github.com/abdfnx/secman-editor-builders) - builders of @scmn-dev cli editors. (2 days ago)
-- [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
