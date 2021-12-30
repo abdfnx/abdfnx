@@ -7,6 +7,7 @@
 #### TUI
 
 - [**resto**](https://github.com/abdfnx/resto): a CLI app can send pretty HTTP & API requests with TUI
+- [**redui**](https://github.com/abdfnx/redui): 🎲 redis you know but with console user interface
 
 #### Secrets management
 
