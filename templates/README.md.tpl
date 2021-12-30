@@ -11,7 +11,7 @@
 #### Secrets management
 
 - [**secman**](https://github.com/scmn-dev/secman): 👊 Human-friendly and amazing secrets manager.
-- [**secman desktop**](https://github.com/scmn-dev/desktop): 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
+- [**secman desktop**](https://github.com/scmn-dev/desktop): 🖥️ Secman Desktop is the desktop client for secman.
 
 #### Bash/Powershell Tools
 
