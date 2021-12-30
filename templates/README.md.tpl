@@ -1,7 +1,5 @@
 ## Howdy 👋
 
-<img align="right" src="https://github.com/abdfnx.png" width="200">
-
 ### ⌨️ Projects
 
 #### TUI
