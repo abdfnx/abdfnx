@@ -16,9 +16,10 @@
 
 - [**shell**](https://github.com/abdfnx/shell): Run powershell and bash easly with go.
 
-#### Other Tools
+#### CLI Tools
 
 - [**corgit**](https://github.com/abdfnx/corgit): CorGit is a Cli program can automate init git, push commits and pull.
+- [**ps**](https://github.com/scmn-dev/ps): `docker ps` in go.
 
 ### 🏗️ Check out what I'm currently working on
 
