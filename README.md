@@ -4,7 +4,8 @@
 
 #### TUI
 
-- [**resto**](https://github.com/abdfnx/resto): a CLI app can send pretty HTTP & API requests with TUI
+- [**resto**](https://github.com/abdfnx/resto): a CLI app can send pretty HTTP & API requests with TUI.
+- [**doko**](https://github.com/abdfnx/doko): 🐳 docker you know but with console user interface.
 
 #### Secrets management
 
@@ -23,16 +24,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 day ago)
-- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with console user interface. (1 day ago)
+- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (today)
+- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with console user interface. (today)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
 - [scmn-dev/editor](https://github.com/scmn-dev/editor) - The secman settings editor for secman cli. (2 days ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - a CLI app can send pretty HTTP &amp; API requests with TUI (2 days ago)
-- [abdfnx-cemetery/redui](https://github.com/abdfnx-cemetery/redui) - 🎲 redis you know but with console user interface (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [scmn-dev/editor](https://github.com/scmn-dev/editor) ([v6.1.2](https://github.com/scmn-dev/editor/releases/tag/v6.1.2), today) - The secman settings editor for secman cli.
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.1.2](https://github.com/scmn-dev/secman/releases/tag/v6.1.2), today) - 👊 Human-friendly and amazing secrets manager.
 - [abdfnx/pxl](https://github.com/abdfnx/pxl) ([v0.0.1](https://github.com/abdfnx/pxl/releases/tag/v0.0.1), 4 days ago) - a package converts images to text
-- [scmn-dev/editor](https://github.com/scmn-dev/editor) ([v6.1.1](https://github.com/scmn-dev/editor/releases/tag/v6.1.1), 5 days ago) - The secman settings editor for secman cli.
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.1.1](https://github.com/scmn-dev/secman/releases/tag/v6.1.1), 5 days ago) - 👊 Human-friendly and amazing secrets manager.
 - [abdfnx/resto](https://github.com/abdfnx/resto) ([v0.1.5](https://github.com/abdfnx/resto/releases/tag/v0.1.5), 1 week ago) - a CLI app can send pretty HTTP &amp; API requests with TUI
 - [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) ([v0.1.5](https://github.com/abdfnx/gh-resto/releases/tag/v0.1.5), 1 week ago) - the github cli extension of resto - `a CLI app can send pretty HTTP and API requests with TUI`
