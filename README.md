@@ -24,10 +24,10 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
-- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (today)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with console user interface. (today)
-- [abdfnx-cemetery/redui](https://github.com/abdfnx-cemetery/redui) - 🎲 redis you know but with console user interface (2 days ago)
+- [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (today)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
+- [scmn-dev/editor](https://github.com/scmn-dev/editor) - The secman settings editor for secman cli. (2 days ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
