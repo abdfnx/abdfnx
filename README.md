@@ -36,4 +36,4 @@
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.1.2](https://github.com/scmn-dev/secman/releases/tag/v6.1.2), 2 days ago) - 👊 Human-friendly and amazing secrets manager.
 - [abdfnx/pxl](https://github.com/abdfnx/pxl) ([v0.0.1](https://github.com/abdfnx/pxl/releases/tag/v0.0.1), 6 days ago) - a package converts images to text
 - [abdfnx/resto](https://github.com/abdfnx/resto) ([v0.1.5](https://github.com/abdfnx/resto/releases/tag/v0.1.5), 1 week ago) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI
-- [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) ([v0.1.5](https://github.com/abdfnx/gh-resto/releases/tag/v0.1.5), 1 week ago) - the github cli extension of resto - `a CLI app can send pretty HTTP and API requests with TUI`
+- [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) ([v0.1.5](https://github.com/abdfnx/gh-resto/releases/tag/v0.1.5), 1 week ago) - the github cli extension of resto - `🔗 a CLI app can send pretty HTTP and API requests with TUI`
