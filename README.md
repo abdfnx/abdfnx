@@ -32,8 +32,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [abdfnx/resto](https://github.com/abdfnx/resto) ([v0.1.6](https://github.com/abdfnx/resto/releases/tag/v0.1.6), today) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI
 - [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) ([v0.1.6](https://github.com/abdfnx/gh-resto/releases/tag/v0.1.6), today) - the github cli extension of resto - `🔗 a CLI app can send pretty HTTP and API requests with TUI`
 - [scmn-dev/editor](https://github.com/scmn-dev/editor) ([v6.1.2](https://github.com/scmn-dev/editor/releases/tag/v6.1.2), 2 days ago) - The secman settings editor for secman cli.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.1.2](https://github.com/scmn-dev/secman/releases/tag/v6.1.2), 2 days ago) - 👊 Human-friendly and amazing secrets manager.
 - [abdfnx/pxl](https://github.com/abdfnx/pxl) ([v0.0.1](https://github.com/abdfnx/pxl/releases/tag/v0.0.1), 6 days ago) - a package converts images to text
-- [denoland/deno](https://github.com/denoland/deno) ([v1.17.1](https://github.com/denoland/deno/releases/tag/v1.17.1), 1 week ago) - A modern runtime for JavaScript and TypeScript.
