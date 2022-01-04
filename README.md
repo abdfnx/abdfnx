@@ -24,8 +24,8 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (today)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with console user interface. (today)
-- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (1 day ago)
 - [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) - the github cli extension of resto - `🔗 a CLI app can send pretty HTTP and API requests with TUI` (1 day ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
 - [scmn-dev/homebrew-secman](https://github.com/scmn-dev/homebrew-secman) - 🧬 Official @homebrew tap for secman. (3 days ago)
