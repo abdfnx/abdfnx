@@ -15,7 +15,7 @@
 #### Bash/Powershell Tools
 
 ##### Go Packages
-- [**shell**](https://github.com/abdfnx/shell): Run powershell and bash easly with go.
+- [**gosh**](https://github.com/abdfnx/gosh): Run powershell and bash commands easly in go.
 - [**looker**](https://github.com/abdfnx/looker): 🔍 find app path and print it.
 
 #### CLI Tools
