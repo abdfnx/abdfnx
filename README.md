@@ -26,11 +26,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with console user interface. (1 day ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) - Run powershell and bash commands easly in go. (1 day ago)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap (1 day ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (1 day ago)
-- [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) - the gh cli extension of resto - `🔗 a CLI app can send pretty HTTP and API requests with TUI` (3 days ago)
+- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with console user interface. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
