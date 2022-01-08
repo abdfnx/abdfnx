@@ -26,9 +26,9 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/get-latest-version](https://github.com/abdfnx/get-latest-version) - Get the latest version of a repo (today)
 - [abdfnx/resto-action](https://github.com/abdfnx/resto-action) - :octocat: GitHub action for Resto (today)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with console user interface. (1 day ago)
-- [abdfnx/gosh](https://github.com/abdfnx/gosh) - Run powershell and bash commands easly in go. (2 days ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (2 days ago)
 
