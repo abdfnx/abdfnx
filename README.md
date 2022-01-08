@@ -26,16 +26,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/get-latest-version](https://github.com/abdfnx/get-latest-version) - Get the latest version of a repo (today)
+- [abdfnx/get-latest-repo](https://github.com/abdfnx/get-latest-repo) - Get the latest version of a repo (today)
+- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (today)
 - [abdfnx/resto-action](https://github.com/abdfnx/resto-action) - :octocat: GitHub action for Resto (today)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with console user interface. (1 day ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
-- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [abdfnx/get-latest-repo](https://github.com/abdfnx/get-latest-repo) ([v0.1.0](https://github.com/abdfnx/get-latest-repo/releases/tag/v0.1.0), today) - Get the latest version of a repo
 - [denoland/deno](https://github.com/denoland/deno) ([v1.17.2](https://github.com/denoland/deno/releases/tag/v1.17.2), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) ([v0.3.5](https://github.com/abdfnx/gosh/releases/tag/v0.3.5), 3 days ago) - Run powershell and bash commands easly in go.
 - [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.0](https://github.com/abdfnx/doko/releases/tag/v0.1.0), 3 days ago) - 🐳 docker you know but with console user interface.
 - [abdfnx/resto](https://github.com/abdfnx/resto) ([v0.1.6](https://github.com/abdfnx/resto/releases/tag/v0.1.6), 5 days ago) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI
-- [abdfnx/gh-resto](https://github.com/abdfnx/gh-resto) ([v0.1.6](https://github.com/abdfnx/gh-resto/releases/tag/v0.1.6), 5 days ago) - the gh cli extension of resto - `🔗 a CLI app can send pretty HTTP and API requests with TUI`
