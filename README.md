@@ -26,16 +26,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/resto-action](https://github.com/abdfnx/resto-action) - :octocat: GitHub action for Resto (today)
-- [scmn-dev/get-latest-repo-version](https://github.com/scmn-dev/get-latest-repo-version) - Get the latest repository version (today)
+- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version (today)
 - [abdfnx/get-latest-repo](https://github.com/abdfnx/get-latest-repo) - Get the latest version of a repo (today)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (today)
+- [abdfnx/resto-action](https://github.com/abdfnx/resto-action) - :octocat: GitHub action for Resto (today)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with console user interface. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v2.0.0](https://github.com/dlvhdr/gh-prs/releases/tag/v2.0.0), today) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [abdfnx/get-latest-repo](https://github.com/abdfnx/get-latest-repo) ([v0.1.0](https://github.com/abdfnx/get-latest-repo/releases/tag/v0.1.0), today) - Get the latest version of a repo
 - [denoland/deno](https://github.com/denoland/deno) ([v1.17.2](https://github.com/denoland/deno/releases/tag/v1.17.2), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) ([v0.3.5](https://github.com/abdfnx/gosh/releases/tag/v0.3.5), 3 days ago) - Run powershell and bash commands easly in go.
 - [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.0](https://github.com/abdfnx/doko/releases/tag/v0.1.0), 3 days ago) - 🐳 docker you know but with console user interface.
-- [abdfnx/resto](https://github.com/abdfnx/resto) ([v0.1.6](https://github.com/abdfnx/resto/releases/tag/v0.1.6), 5 days ago) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI
