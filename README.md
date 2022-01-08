@@ -26,9 +26,9 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/resto-action](https://github.com/abdfnx/resto-action) - :octocat: GitHub action for Resto (today)
 - [abdfnx/get-latest-repo](https://github.com/abdfnx/get-latest-repo) - Get the latest version of a repo (today)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (today)
-- [abdfnx/resto-action](https://github.com/abdfnx/resto-action) - :octocat: GitHub action for Resto (today)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with console user interface. (1 day ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
 
