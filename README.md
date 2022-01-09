@@ -27,7 +27,7 @@
 
 
 - [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version (today)
-- [abdfnx/resto-action](https://github.com/abdfnx/resto-action) - :octocat: GitHub action for Resto (today)
+- [abdfnx-cemetery/resto-action](https://github.com/abdfnx-cemetery/resto-action) - :octocat: GitHub action for Resto (today)
 - [abdfnx/get-latest-repo](https://github.com/abdfnx/get-latest-repo) - Get the latest version of a repo (1 day ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (1 day ago)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with console user interface. (2 days ago)
