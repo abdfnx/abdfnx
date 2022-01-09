@@ -34,7 +34,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) ([v0.1.0](https://github.com/scmn-dev/get-latest/releases/tag/v0.1.0), 1 day ago) - Get the latest repository version
+- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) ([v0.1.1](https://github.com/scmn-dev/get-latest/releases/tag/v0.1.1), today) - Get the latest repository version
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v2.0.0](https://github.com/dlvhdr/gh-prs/releases/tag/v2.0.0), 1 day ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [abdfnx/get-latest-repo](https://github.com/abdfnx/get-latest-repo) ([v0.1.0](https://github.com/abdfnx/get-latest-repo/releases/tag/v0.1.0), 1 day ago) - Get the latest version of a repo
 - [denoland/deno](https://github.com/denoland/deno) ([v1.17.2](https://github.com/denoland/deno/releases/tag/v1.17.2), 4 days ago) - A modern runtime for JavaScript and TypeScript.
