@@ -26,16 +26,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version (1 day ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
 - [abdfnx-cemetery/resto-action](https://github.com/abdfnx-cemetery/resto-action) - :octocat: GitHub action for Resto (1 day ago)
+- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version (1 day ago)
 - [abdfnx/get-latest-repo](https://github.com/abdfnx/get-latest-repo) - Get the latest version of a repo (2 days ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (2 days ago)
-- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with console user interface. (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v2.0.1](https://github.com/dlvhdr/gh-prs/releases/tag/v2.0.1), today) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) ([v0.1.2](https://github.com/scmn-dev/get-latest/releases/tag/v0.1.2), 1 day ago) - Get the latest repository version
-- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v2.0.0](https://github.com/dlvhdr/gh-prs/releases/tag/v2.0.0), 2 days ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [abdfnx/get-latest-repo](https://github.com/abdfnx/get-latest-repo) ([v0.1.0](https://github.com/abdfnx/get-latest-repo/releases/tag/v0.1.0), 2 days ago) - Get the latest version of a repo
 - [denoland/deno](https://github.com/denoland/deno) ([v1.17.2](https://github.com/denoland/deno/releases/tag/v1.17.2), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) ([v0.3.5](https://github.com/abdfnx/gosh/releases/tag/v0.3.5), 5 days ago) - Run powershell and bash commands easly in go.
