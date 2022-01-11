@@ -26,7 +26,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 day ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
 - [abdfnx-cemetery/resto-action](https://github.com/abdfnx-cemetery/resto-action) - :octocat: GitHub action for Resto (2 days ago)
 - [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version (2 days ago)
 - [abdfnx/get-latest-repo](https://github.com/abdfnx/get-latest-repo) - Get the latest version of a repo (3 days ago)
