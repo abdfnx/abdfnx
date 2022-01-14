@@ -26,16 +26,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with TUI. (2 days ago)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
-- [abdfnx-cemetery/resto-action](https://github.com/abdfnx-cemetery/resto-action) - :octocat: GitHub action for Resto (4 days ago)
-- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version (4 days ago)
-- [abdfnx/get-latest-repo](https://github.com/abdfnx/get-latest-repo) - Get the latest version of a repo (5 days ago)
+- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with TUI. (3 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (3 days ago)
+- [abdfnx-cemetery/resto-action](https://github.com/abdfnx-cemetery/resto-action) - :octocat: GitHub action for Resto (5 days ago)
+- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version (5 days ago)
+- [abdfnx/get-latest-repo](https://github.com/abdfnx/get-latest-repo) - Get the latest version of a repo (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.17.3](https://github.com/denoland/deno/releases/tag/v1.17.3), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [scmn-dev/editor](https://github.com/scmn-dev/editor) ([v6.1.3](https://github.com/scmn-dev/editor/releases/tag/v6.1.3), 3 days ago) - The secman settings editor for secman cli.
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.1.3](https://github.com/scmn-dev/secman/releases/tag/v6.1.3), 3 days ago) - 👊 Human-friendly and amazing secrets manager.
-- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v2.0.1](https://github.com/dlvhdr/gh-prs/releases/tag/v2.0.1), 3 days ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
-- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) ([v0.1.2](https://github.com/scmn-dev/get-latest/releases/tag/v0.1.2), 4 days ago) - Get the latest repository version
+- [denoland/deno](https://github.com/denoland/deno) ([v1.17.3](https://github.com/denoland/deno/releases/tag/v1.17.3), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [scmn-dev/editor](https://github.com/scmn-dev/editor) ([v6.1.3](https://github.com/scmn-dev/editor/releases/tag/v6.1.3), 4 days ago) - The secman settings editor for secman cli.
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.1.3](https://github.com/scmn-dev/secman/releases/tag/v6.1.3), 4 days ago) - 👊 Human-friendly and amazing secrets manager.
+- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v2.0.1](https://github.com/dlvhdr/gh-prs/releases/tag/v2.0.1), 4 days ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
+- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) ([v0.1.2](https://github.com/scmn-dev/get-latest/releases/tag/v0.1.2), 5 days ago) - Get the latest repository version
