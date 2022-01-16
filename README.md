@@ -29,8 +29,8 @@
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 day ago)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with TUI. (5 days ago)
-- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version (1 week ago)
 - [abdfnx-cemetery/resto-action](https://github.com/abdfnx-cemetery/resto-action) - :octocat: GitHub action for Resto (1 week ago)
+- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
