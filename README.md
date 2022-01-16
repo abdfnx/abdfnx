@@ -26,7 +26,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 day ago)
+- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 day ago)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with TUI. (5 days ago)
 - [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version (1 week ago)
