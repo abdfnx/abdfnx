@@ -28,9 +28,9 @@
 
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with TUI. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
+- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (today)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 day ago)
 - [abdfnx-cemetery/resto-action](https://github.com/abdfnx-cemetery/resto-action) - :octocat: GitHub action for Resto (1 week ago)
-- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
