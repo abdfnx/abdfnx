@@ -26,16 +26,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
-- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with TUI. (3 days ago)
-- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (3 days ago)
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (4 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (3 days ago)
+- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with TUI. (4 days ago)
+- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (4 days ago)
+- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (5 days ago)
 - [abdfnx-cemetery/resto-action](https://github.com/abdfnx-cemetery/resto-action) - :octocat: GitHub action for Resto (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.1](https://github.com/abdfnx/doko/releases/tag/v0.1.1), 3 days ago) - 🐳 docker you know but with TUI.
-- [denoland/deno](https://github.com/denoland/deno) ([v1.18.0](https://github.com/denoland/deno/releases/tag/v1.18.0), 4 days ago) - A modern runtime for JavaScript and TypeScript.
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.1.0](https://github.com/scmn-dev/desktop/releases/tag/v1.1.0), 4 days ago) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
+- [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.1](https://github.com/abdfnx/doko/releases/tag/v0.1.1), 4 days ago) - 🐳 docker you know but with TUI.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.18.0](https://github.com/denoland/deno/releases/tag/v1.18.0), 5 days ago) - A modern runtime for JavaScript and TypeScript.
+- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.1.0](https://github.com/scmn-dev/desktop/releases/tag/v1.1.0), 5 days ago) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v2.1.0](https://github.com/dlvhdr/gh-prs/releases/tag/v2.1.0), 1 week ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [scmn-dev/editor](https://github.com/scmn-dev/editor) ([v6.1.3](https://github.com/scmn-dev/editor/releases/tag/v6.1.3), 2 weeks ago) - The secman settings editor for secman cli.
