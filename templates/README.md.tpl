@@ -17,6 +17,7 @@
 - [**gosh**](https://github.com/abdfnx/gosh): Run powershell and bash commands easly in go.
 - [**looker**](https://github.com/abdfnx/looker): 🔍 find app path and print it.
 - [**loga**](https://github.com/abdfnx/loga): 🖨️ Simple Golang logger.
+- [**pwcrypto**](https://github.com/abdfnx/pwcrypto): 🔐 Share secret password between room channels.
 
 #### CLI Tools
 
