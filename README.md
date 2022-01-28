@@ -27,9 +27,9 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
 - [abdfnx/loga](https://github.com/abdfnx/loga) - 🖨 Simple Golang logger. (today)
 - [abdfnx/pwcrypto](https://github.com/abdfnx/pwcrypto) - 🔐 Share secret password between room channels. (today)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (3 days ago)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with TUI. (1 week ago)
 
