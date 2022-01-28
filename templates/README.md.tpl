@@ -12,11 +12,11 @@
 - [**secman**](https://github.com/scmn-dev/secman): 👊 Human-friendly and amazing secrets manager.
 - [**secman desktop**](https://github.com/scmn-dev/desktop): 🖥️ Secman Desktop is the desktop client for secman.
 
-#### Bash/Powershell Tools
+#### Packages/Libraries
 
-##### Go Packages
 - [**gosh**](https://github.com/abdfnx/gosh): Run powershell and bash commands easly in go.
 - [**looker**](https://github.com/abdfnx/looker): 🔍 find app path and print it.
+- [**loga**](https://github.com/abdfnx/loga): 🖨️ Simple Golang logger.
 
 #### CLI Tools
 
