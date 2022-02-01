@@ -27,16 +27,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (3 days ago)
-- [abdfnx/pwcrypto](https://github.com/abdfnx/pwcrypto) - 🔐 Share secret password between room channels. (3 days ago)
-- [abdfnx/loga](https://github.com/abdfnx/loga) - 🖨 Simple Golang logger. (3 days ago)
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (6 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (4 days ago)
+- [abdfnx/pwcrypto](https://github.com/abdfnx/pwcrypto) - 🔐 Share secret password between room channels. (4 days ago)
+- [abdfnx/loga](https://github.com/abdfnx/loga) - 🖨 Simple Golang logger. (4 days ago)
+- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 week ago)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with TUI. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.18.1](https://github.com/denoland/deno/releases/tag/v1.18.1), 4 days ago) - A modern runtime for JavaScript and TypeScript.
-- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v2.1.1](https://github.com/dlvhdr/gh-prs/releases/tag/v2.1.1), 5 days ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.18.1](https://github.com/denoland/deno/releases/tag/v1.18.1), 5 days ago) - A modern runtime for JavaScript and TypeScript.
+- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v2.1.1](https://github.com/dlvhdr/gh-prs/releases/tag/v2.1.1), 6 days ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.1](https://github.com/abdfnx/doko/releases/tag/v0.1.1), 1 week ago) - 🐳 docker you know but with TUI.
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.1.0](https://github.com/scmn-dev/desktop/releases/tag/v1.1.0), 1 week ago) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
 - [scmn-dev/editor](https://github.com/scmn-dev/editor) ([v6.1.3](https://github.com/scmn-dev/editor/releases/tag/v6.1.3), 3 weeks ago) - The secman settings editor for secman cli.
