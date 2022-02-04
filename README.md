@@ -35,7 +35,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.18.1](https://github.com/denoland/deno/releases/tag/v1.18.1), 1 week ago) - A modern runtime for JavaScript and TypeScript.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.18.2](https://github.com/denoland/deno/releases/tag/v1.18.2), today) - A modern runtime for JavaScript and TypeScript.
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v2.1.1](https://github.com/dlvhdr/gh-prs/releases/tag/v2.1.1), 1 week ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.1](https://github.com/abdfnx/doko/releases/tag/v0.1.1), 2 weeks ago) - 🐳 docker you know but with TUI.
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.1.0](https://github.com/scmn-dev/desktop/releases/tag/v1.1.0), 2 weeks ago) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
