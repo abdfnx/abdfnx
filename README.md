@@ -28,10 +28,10 @@
 
 
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (today)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 week ago)
+- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (today)
+- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap (today)
 - [abdfnx/pwcrypto](https://github.com/abdfnx/pwcrypto) - 🔐 Share secret password between room channels. (1 week ago)
 - [abdfnx/loga](https://github.com/abdfnx/loga) - 🖨 Simple Golang logger. (1 week ago)
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
