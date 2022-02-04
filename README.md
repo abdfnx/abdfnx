@@ -27,11 +27,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 week ago)
 - [abdfnx/pwcrypto](https://github.com/abdfnx/pwcrypto) - 🔐 Share secret password between room channels. (1 week ago)
 - [abdfnx/loga](https://github.com/abdfnx/loga) - 🖨 Simple Golang logger. (1 week ago)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 week ago)
-- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 docker you know but with TUI. (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
