@@ -27,7 +27,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 day ago)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (today)
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (3 days ago)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap (3 days ago)
 - [abdfnx/pwcrypto](https://github.com/abdfnx/pwcrypto) - 🔐 Share secret password between room channels. (1 week ago)
