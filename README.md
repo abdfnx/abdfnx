@@ -35,8 +35,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.0](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.0), today) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
 - [denoland/deno](https://github.com/denoland/deno) ([v1.18.2](https://github.com/denoland/deno/releases/tag/v1.18.2), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v2.1.1](https://github.com/dlvhdr/gh-prs/releases/tag/v2.1.1), 1 week ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.1](https://github.com/abdfnx/doko/releases/tag/v0.1.1), 2 weeks ago) - 🐳 docker you know but with TUI.
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.1.0](https://github.com/scmn-dev/desktop/releases/tag/v1.1.0), 2 weeks ago) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
-- [scmn-dev/editor](https://github.com/scmn-dev/editor) ([v6.1.3](https://github.com/scmn-dev/editor/releases/tag/v6.1.3), 4 weeks ago) - The secman settings editor for secman cli.
