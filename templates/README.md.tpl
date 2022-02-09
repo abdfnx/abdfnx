@@ -5,6 +5,7 @@
 #### TUI
 
 - [**resto**](https://github.com/abdfnx/resto): 🔗 a CLI app can send pretty HTTP & API requests with TUI.
+- [**tran**](https://github.com/abdfnx/tran): 🖥 Securely transfer and send anything between computers with TUI.
 - [**doko**](https://github.com/abdfnx/doko): 🐳 docker you know but with console user interface.
 
 #### Secrets management
@@ -17,7 +18,6 @@
 - [**gosh**](https://github.com/abdfnx/gosh): Run powershell and bash commands easly in go.
 - [**looker**](https://github.com/abdfnx/looker): 🔍 find app path and print it.
 - [**loga**](https://github.com/abdfnx/loga): 🖨️ Simple Golang logger.
-- [**pwcrypto**](https://github.com/abdfnx/pwcrypto): 🔐 Share secret password between room channels.
 
 #### CLI Tools
 
