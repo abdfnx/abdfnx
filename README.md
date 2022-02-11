@@ -27,10 +27,10 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/tran-git](https://github.com/abdfnx/tran-git) - 📦 Git Config for tran (today)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 day ago)
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (1 week ago)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap (1 week ago)
-- [abdfnx/pwcrypto](https://github.com/abdfnx/pwcrypto) - 🔐 Share secret password between room channels. (2 weeks ago)
 - [abdfnx/loga](https://github.com/abdfnx/loga) - 🖨 Simple Golang logger. (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
