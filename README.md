@@ -27,16 +27,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/gosh](https://github.com/abdfnx/gosh) - Run powershell and bash commands easly in go. (today)
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (1 day ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 day ago)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap (1 week ago)
 - [abdfnx/loga](https://github.com/abdfnx/loga) - 🖨 Simple Golang logger. (2 weeks ago)
-- [abdfnx/pwcrypto](https://github.com/abdfnx/pwcrypto) - 🔐 Share secret password between room channels. (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [abdfnx/gosh](https://github.com/abdfnx/gosh) ([v0.3.6](https://github.com/abdfnx/gosh/releases/tag/v0.3.6), today) - Run powershell and bash commands easly in go.
 - [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.1](https://github.com/abdfnx/tran/releases/tag/v0.1.1), 1 day ago) - 🖥 Securely transfer and send anything between computers with TUI.
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.1](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.1), 1 day ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
 - [denoland/deno](https://github.com/denoland/deno) ([v1.18.2](https://github.com/denoland/deno/releases/tag/v1.18.2), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) ([v2.1.1](https://github.com/dlvhdr/gh-prs/releases/tag/v2.1.1), 2 weeks ago) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
-- [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.1](https://github.com/abdfnx/doko/releases/tag/v0.1.1), 3 weeks ago) - 🐳 docker you know but with TUI.
