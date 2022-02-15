@@ -15,7 +15,7 @@
 
 #### Packages/Libraries
 
-- [**gosh**](https://github.com/abdfnx/gosh): Run powershell and bash commands easly in go.
+- [**gosh**](https://github.com/abdfnx/gosh): ⌨ A golang library for executing bash & powershell commands easly.
 - [**looker**](https://github.com/abdfnx/looker): 🔍 find app path and print it.
 - [**loga**](https://github.com/abdfnx/loga): 🖨️ Simple Golang logger.
 
