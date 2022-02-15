@@ -27,7 +27,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/gosh](https://github.com/abdfnx/gosh) - Run powershell and bash commands easly in go. (2 days ago)
+- [abdfnx/gosh](https://github.com/abdfnx/gosh) - A golang library for executing bash &amp; powershell commands easly. (today)
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (3 days ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (3 days ago)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap (1 week ago)
@@ -35,7 +35,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/gosh](https://github.com/abdfnx/gosh) ([v0.3.6](https://github.com/abdfnx/gosh/releases/tag/v0.3.6), 2 days ago) - Run powershell and bash commands easly in go.
+- [abdfnx/gosh](https://github.com/abdfnx/gosh) ([v0.3.6](https://github.com/abdfnx/gosh/releases/tag/v0.3.6), 2 days ago) - A golang library for executing bash &amp; powershell commands easly.
 - [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.1](https://github.com/abdfnx/tran/releases/tag/v0.1.1), 3 days ago) - 🖥 Securely transfer and send anything between computers with TUI.
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.1](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.1), 3 days ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
 - [denoland/deno](https://github.com/denoland/deno) ([v1.18.2](https://github.com/denoland/deno/releases/tag/v1.18.2), 1 week ago) - A modern runtime for JavaScript and TypeScript.
