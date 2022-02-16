@@ -28,16 +28,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (today)
+- [abdfnx/instal](https://github.com/abdfnx/instal) - 🛰 Install any binary app from a script URL. (today)
 - [abdfnx/gh-instal](https://github.com/abdfnx/gh-instal) - the github extension of instal - `🛰️ Install any binary app from a script URL` (today)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap (today)
-- [abdfnx/instal](https://github.com/abdfnx/instal) - 🛰 Install any binary app from a script URL. (today)
+- [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (today)
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [abdfnx/instal](https://github.com/abdfnx/instal) ([v0.1.0](https://github.com/abdfnx/instal/releases/tag/v0.1.0), today) - 🛰 Install any binary app from a script URL.
 - [abdfnx/gh-instal](https://github.com/abdfnx/gh-instal) ([v0.1.0](https://github.com/abdfnx/gh-instal/releases/tag/v0.1.0), today) - the github extension of instal - `🛰️ Install any binary app from a script URL`
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) ([v0.3.8](https://github.com/abdfnx/gosh/releases/tag/v0.3.8), today) - ⌨ A golang library for executing bash &amp; powershell commands easly.
 - [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.1](https://github.com/abdfnx/tran/releases/tag/v0.1.1), 4 days ago) - 🖥 Securely transfer and send anything between computers with TUI.
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.1](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.1), 4 days ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
-- [denoland/deno](https://github.com/denoland/deno) ([v1.18.2](https://github.com/denoland/deno/releases/tag/v1.18.2), 1 week ago) - A modern runtime for JavaScript and TypeScript.
