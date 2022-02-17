@@ -28,16 +28,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (today)
-- [abdfnx/instal](https://github.com/abdfnx/instal) - 🛰 Install any binary app from a script URL. (today)
-- [abdfnx/gh-instal](https://github.com/abdfnx/gh-instal) - the github extension of instal - `🛰️ Install any binary app from a script URL` (today)
-- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap (today)
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (today)
+- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (1 day ago)
+- [abdfnx/instal](https://github.com/abdfnx/instal) - 🛰 Install any binary app from a script URL. (1 day ago)
+- [abdfnx/gh-instal](https://github.com/abdfnx/gh-instal) - the github extension of instal - `🛰️ Install any binary app from a script URL` (1 day ago)
+- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap (1 day ago)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/instal](https://github.com/abdfnx/instal) ([v0.1.0](https://github.com/abdfnx/instal/releases/tag/v0.1.0), today) - 🛰 Install any binary app from a script URL.
-- [abdfnx/gh-instal](https://github.com/abdfnx/gh-instal) ([v0.1.0](https://github.com/abdfnx/gh-instal/releases/tag/v0.1.0), today) - the github extension of instal - `🛰️ Install any binary app from a script URL`
-- [abdfnx/gosh](https://github.com/abdfnx/gosh) ([v0.3.8](https://github.com/abdfnx/gosh/releases/tag/v0.3.8), today) - ⌨ A golang library for executing bash &amp; powershell commands easly.
-- [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.1](https://github.com/abdfnx/tran/releases/tag/v0.1.1), 4 days ago) - 🖥 Securely transfer and send anything between computers with TUI.
-- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.1](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.1), 4 days ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
+- [abdfnx/instal](https://github.com/abdfnx/instal) ([v0.1.0](https://github.com/abdfnx/instal/releases/tag/v0.1.0), 1 day ago) - 🛰 Install any binary app from a script URL.
+- [abdfnx/gh-instal](https://github.com/abdfnx/gh-instal) ([v0.1.0](https://github.com/abdfnx/gh-instal/releases/tag/v0.1.0), 1 day ago) - the github extension of instal - `🛰️ Install any binary app from a script URL`
+- [abdfnx/gosh](https://github.com/abdfnx/gosh) ([v0.3.8](https://github.com/abdfnx/gosh/releases/tag/v0.3.8), 1 day ago) - ⌨ A golang library for executing bash &amp; powershell commands easly.
+- [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.1](https://github.com/abdfnx/tran/releases/tag/v0.1.1), 5 days ago) - 🖥 Securely transfer and send anything between computers with TUI.
+- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.1](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.1), 5 days ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
