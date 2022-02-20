@@ -30,9 +30,9 @@
 
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (2 days ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (2 days ago)
-- [abdfnx/instal](https://github.com/abdfnx/instal) - 🛰 Install any binary app from a script URL. (4 days ago)
-- [abdfnx/gh-instal](https://github.com/abdfnx/gh-instal) - the github extension of instal - `🛰️ Install any binary app from a script URL` (4 days ago)
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (4 days ago)
+- [abdfnx/gh-instal](https://github.com/abdfnx/gh-instal) - the github extension of instal - `🛰️ Install any binary app from a script URL` (4 days ago)
+- [abdfnx/instal](https://github.com/abdfnx/instal) - 🛰 Install any binary app from a script URL. (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
