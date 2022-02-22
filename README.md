@@ -28,11 +28,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (today)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (4 days ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (4 days ago)
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (6 days ago)
 - [abdfnx/gh-instal](https://github.com/abdfnx/gh-instal) - the github extension of instal - `🛰️ Install any binary app from a script URL` (6 days ago)
-- [abdfnx/instal](https://github.com/abdfnx/instal) - 🛰 Install any binary app from a script URL. (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
