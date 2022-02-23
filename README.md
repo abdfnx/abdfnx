@@ -28,11 +28,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (1 day ago)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (5 days ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (5 days ago)
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (1 week ago)
-- [abdfnx/gh-instal](https://github.com/abdfnx/gh-instal) - the github extension of instal - `🛰️ Install any binary app from a script URL` (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
