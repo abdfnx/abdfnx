@@ -28,15 +28,15 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (3 days ago)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (4 days ago)
-- [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (5 days ago)
+- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (4 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (5 days ago)
+- [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (6 days ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 week ago)
 - [abdfnx/instal](https://github.com/abdfnx/instal) - 🛰 Install any binary app from a script URL. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.19.1](https://github.com/denoland/deno/releases/tag/v1.19.1), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.19.1](https://github.com/denoland/deno/releases/tag/v1.19.1), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.2](https://github.com/abdfnx/tran/releases/tag/v0.1.2), 1 week ago) - 🖥 Securely transfer and send anything between computers with TUI.
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.2](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.2), 1 week ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
 - [abdfnx/instal](https://github.com/abdfnx/instal) ([v0.1.0](https://github.com/abdfnx/instal/releases/tag/v0.1.0), 1 week ago) - 🛰 Install any binary app from a script URL.
