@@ -30,13 +30,13 @@
 
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (1 week ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 week ago)
-- [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (1 week ago)
+- [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (2 weeks ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (2 weeks ago)
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.19.2](https://github.com/denoland/deno/releases/tag/v1.19.2), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.19.2](https://github.com/denoland/deno/releases/tag/v1.19.2), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.2](https://github.com/abdfnx/tran/releases/tag/v0.1.2), 2 weeks ago) - 🖥 Securely transfer and send anything between computers with TUI.
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.2](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.2), 2 weeks ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
 - [abdfnx/instal](https://github.com/abdfnx/instal) ([v0.1.0](https://github.com/abdfnx/instal/releases/tag/v0.1.0), 2 weeks ago) - 🛰 Install any binary app from a script URL.
