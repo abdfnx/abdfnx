@@ -36,8 +36,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [denoland/deno](https://github.com/denoland/deno) ([v1.19.3](https://github.com/denoland/deno/releases/tag/v1.19.3), today) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.3](https://github.com/abdfnx/tran/releases/tag/v0.1.3), 2 days ago) - 🖥 Securely transfer and send anything between computers with TUI.
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.3](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.3), 2 days ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
-- [denoland/deno](https://github.com/denoland/deno) ([v1.19.2](https://github.com/denoland/deno/releases/tag/v1.19.2), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/instal](https://github.com/abdfnx/instal) ([v0.1.0](https://github.com/abdfnx/instal/releases/tag/v0.1.0), 3 weeks ago) - 🛰 Install any binary app from a script URL.
 - [abdfnx/gh-instal](https://github.com/abdfnx/gh-instal) ([v0.1.0](https://github.com/abdfnx/gh-instal/releases/tag/v0.1.0), 3 weeks ago) - the github extension of instal - `🛰️ Install any binary app from a script URL`
