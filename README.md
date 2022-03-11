@@ -28,11 +28,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (today)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (1 day ago)
 - [scmn-dev/homebrew-tap](https://github.com/scmn-dev/homebrew-tap) - 🍺 Our homebrew tap. (2 days ago)
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (3 days ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (3 days ago)
-- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
