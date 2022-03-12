@@ -28,16 +28,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (today)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (today)
-- [scmn-dev/install](https://github.com/scmn-dev/install) - 📦 Secman CLI installer. (today)
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (today)
-- [scmn-dev/homebrew-tap](https://github.com/scmn-dev/homebrew-tap) - 🍺 Our homebrew tap. (2 days ago)
+- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (1 day ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (1 day ago)
+- [scmn-dev/install](https://github.com/scmn-dev/install) - 📦 Secman CLI installer. (1 day ago)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 day ago)
+- [scmn-dev/homebrew-tap](https://github.com/scmn-dev/homebrew-tap) - 🍺 Our homebrew tap. (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.19.3](https://github.com/denoland/deno/releases/tag/v1.19.3), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.3](https://github.com/abdfnx/tran/releases/tag/v0.1.3), 3 days ago) - 🖥 Securely transfer and send anything between computers with TUI.
-- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.3](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.3), 3 days ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
+- [denoland/deno](https://github.com/denoland/deno) ([v1.19.3](https://github.com/denoland/deno/releases/tag/v1.19.3), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.3](https://github.com/abdfnx/tran/releases/tag/v0.1.3), 4 days ago) - 🖥 Securely transfer and send anything between computers with TUI.
+- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.3](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.3), 4 days ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
 - [abdfnx/instal](https://github.com/abdfnx/instal) ([v0.1.0](https://github.com/abdfnx/instal/releases/tag/v0.1.0), 3 weeks ago) - 🛰 Install any binary app from a script URL.
 - [abdfnx/gh-instal](https://github.com/abdfnx/gh-instal) ([v0.1.0](https://github.com/abdfnx/gh-instal/releases/tag/v0.1.0), 3 weeks ago) - the github extension of instal - `🛰️ Install any binary app from a script URL`
