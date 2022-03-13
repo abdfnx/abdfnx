@@ -31,7 +31,7 @@
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (today)
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 Official docker image for secman. (today)
 - [scmn-dev/scoop](https://github.com/scmn-dev/scoop) - 📥 scoop packaging for secman. (today)
-- [scmn-dev/install](https://github.com/scmn-dev/install) - 📦 Secman CLI installer. (1 day ago)
+- [scmn-dev/install](https://github.com/scmn-dev/install) - 📦 Secman CLI installer. (today)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
