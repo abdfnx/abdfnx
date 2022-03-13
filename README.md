@@ -28,11 +28,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/install](https://github.com/scmn-dev/install) - 📦 Secman CLI installer. (1 day ago)
+- [scmn-dev/scoop](https://github.com/scmn-dev/scoop) - 📥 scoop packaging for secman. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (1 day ago)
-- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (2 days ago)
+- [scmn-dev/install](https://github.com/scmn-dev/install) - 📦 Secman CLI installer. (1 day ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (2 days ago)
-- [scmn-dev/homebrew-tap](https://github.com/scmn-dev/homebrew-tap) - 🍺 Secman&#39;s homebrew tap. (4 days ago)
+- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
