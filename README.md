@@ -28,7 +28,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (1 day ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (today)
 - [scmn-dev/install](https://github.com/scmn-dev/install) - 📦 Secman CLI installer. (1 day ago)
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 Official docker image for secman. (5 days ago)
 - [scmn-dev/scoop](https://github.com/scmn-dev/scoop) - 📥 scoop packaging for secman. (6 days ago)
