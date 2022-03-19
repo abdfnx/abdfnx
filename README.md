@@ -29,10 +29,10 @@
 
 
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (today)
-- [scmn-dev/homebrew-tap](https://github.com/scmn-dev/homebrew-tap) - 🍺 Secman&#39;s homebrew tap. (today)
+- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (today)
 - [scmn-dev/scoop](https://github.com/scmn-dev/scoop) - 📥 scoop packaging for secman. (today)
+- [scmn-dev/homebrew-tap](https://github.com/scmn-dev/homebrew-tap) - 🍺 Secman&#39;s homebrew tap. (today)
 - [scmn-dev/.github](https://github.com/scmn-dev/.github) - :octocat: Default @scmn-dev metadata (today)
-- [scmn-dev/install](https://github.com/scmn-dev/install) - 📦 Secman CLI installer. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
