@@ -28,16 +28,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (today)
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (today)
-- [scmn-dev/scoop](https://github.com/scmn-dev/scoop) - 📥 scoop packaging for secman. (today)
-- [scmn-dev/homebrew-tap](https://github.com/scmn-dev/homebrew-tap) - 🍺 Secman&#39;s homebrew tap. (today)
-- [scmn-dev/.github](https://github.com/scmn-dev/.github) - :octocat: Default @scmn-dev metadata (today)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (1 day ago)
+- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 day ago)
+- [scmn-dev/scoop](https://github.com/scmn-dev/scoop) - 📥 scoop packaging for secman. (1 day ago)
+- [scmn-dev/homebrew-tap](https://github.com/scmn-dev/homebrew-tap) - 🍺 Secman&#39;s homebrew tap. (1 day ago)
+- [scmn-dev/.github](https://github.com/scmn-dev/.github) - :octocat: Default @scmn-dev metadata (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.2.1](https://github.com/scmn-dev/secman/releases/tag/v6.2.1), 1 day ago) - 👊 Human-friendly and amazing TUI secrets manager.
-- [denoland/deno](https://github.com/denoland/deno) ([v1.20.1](https://github.com/denoland/deno/releases/tag/v1.20.1), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.4.1](https://github.com/scmn-dev/docker/releases/tag/v0.4.1), 5 days ago) - 🐳 Official docker image for secman.
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.2.1](https://github.com/scmn-dev/secman/releases/tag/v6.2.1), 2 days ago) - 👊 Human-friendly and amazing TUI secrets manager.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.20.1](https://github.com/denoland/deno/releases/tag/v1.20.1), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.4.1](https://github.com/scmn-dev/docker/releases/tag/v0.4.1), 6 days ago) - 🐳 Official docker image for secman.
 - [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.3](https://github.com/abdfnx/tran/releases/tag/v0.1.3), 1 week ago) - 🖥 Securely transfer and send anything between computers with TUI.
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.3](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.3), 1 week ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
