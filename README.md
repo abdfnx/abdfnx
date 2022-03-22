@@ -28,11 +28,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (2 days ago)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (2 days ago)
 - [scmn-dev/homebrew-tap](https://github.com/scmn-dev/homebrew-tap) - 🍺 Secman&#39;s homebrew tap. (3 days ago)
 - [scmn-dev/scoop](https://github.com/scmn-dev/scoop) - 📥 scoop packaging for secman. (3 days ago)
-- [scmn-dev/.github](https://github.com/scmn-dev/.github) - :octocat: Default @scmn-dev metadata (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
