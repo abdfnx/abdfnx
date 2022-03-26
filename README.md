@@ -28,7 +28,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (2 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (today)
 - [scmn-dev/scoop](https://github.com/scmn-dev/scoop) - 📥 scoop packaging for secman. (2 days ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (4 days ago)
 - [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (6 days ago)
