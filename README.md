@@ -28,16 +28,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing TUI secrets manager. (3 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
+- [secman-archive/desktop](https://github.com/secman-archive/desktop) - Moved to https://github.com/scmn-dev/secman/tree/main/desktop (today)
 - [scmn-dev/scoop](https://github.com/scmn-dev/scoop) - 📥 scoop packaging for secman. (5 days ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 week ago)
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev. (1 week ago)
 - [scmn-dev/homebrew-tap](https://github.com/scmn-dev/homebrew-tap) - 🍺 Secman&#39;s homebrew tap. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 - [denoland/deno](https://github.com/denoland/deno) ([v1.20.3](https://github.com/denoland/deno/releases/tag/v1.20.3), 4 days ago) - A modern runtime for JavaScript and TypeScript.
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.2.2](https://github.com/scmn-dev/secman/releases/tag/v6.2.2), 5 days ago) - 👊 Human-friendly and amazing TUI secrets manager.
-- [scmn-dev/desktop](https://github.com/scmn-dev/desktop) ([v1.1.1](https://github.com/scmn-dev/desktop/releases/tag/v1.1.1), 1 week ago) - 🖥️ Secman Desktop is the desktop client for secman. powered by @scmn-dev.
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.2.2](https://github.com/scmn-dev/secman/releases/tag/v6.2.2), 5 days ago) - 👊 Human-friendly and amazing secrets manager.
+- [secman-archive/desktop](https://github.com/secman-archive/desktop) ([v1.1.1](https://github.com/secman-archive/desktop/releases/tag/v1.1.1), 1 week ago) - Moved to https://github.com/scmn-dev/secman/tree/main/desktop
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.4.1](https://github.com/scmn-dev/docker/releases/tag/v0.4.1), 2 weeks ago) - 🐳 Official docker image for secman.
 - [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.3](https://github.com/abdfnx/tran/releases/tag/v0.1.3), 3 weeks ago) - 🖥 Securely transfer and send anything between computers with TUI.
