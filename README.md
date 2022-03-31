@@ -35,7 +35,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.20.3](https://github.com/denoland/deno/releases/tag/v1.20.3), 6 days ago) - A modern runtime for JavaScript and TypeScript.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.20.4](https://github.com/denoland/deno/releases/tag/v1.20.4), today) - A modern runtime for JavaScript and TypeScript.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.2.2](https://github.com/scmn-dev/secman/releases/tag/v6.2.2), 1 week ago) - 👊 Human-friendly and amazing secrets manager.
 - [secman-archive/desktop](https://github.com/secman-archive/desktop) ([v1.1.1](https://github.com/secman-archive/desktop/releases/tag/v1.1.1), 1 week ago) - Moved to https://github.com/scmn-dev/secman/tree/main/desktop
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.4.1](https://github.com/scmn-dev/docker/releases/tag/v0.4.1), 2 weeks ago) - 🐳 Official docker image for secman.
