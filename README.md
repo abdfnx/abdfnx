@@ -27,11 +27,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 Official docker image for secman. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (5 days ago)
 - [secman-archive/desktop](https://github.com/secman-archive/desktop) - Moved to https://github.com/scmn-dev/secman/tree/main/desktop (6 days ago)
 - [scmn-dev/scoop](https://github.com/scmn-dev/scoop) - 📥 scoop packaging for secman. (1 week ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 week ago)
-- [scmn-dev/homebrew-tap](https://github.com/scmn-dev/homebrew-tap) - 🍺 Secman&#39;s homebrew tap. (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
