@@ -27,16 +27,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
-- [scmn-dev/.github](https://github.com/scmn-dev/.github) - :octocat: Default @scmn-dev metadata (today)
-- [secman-archive/desktop](https://github.com/secman-archive/desktop) - Moved to https://github.com/scmn-dev/secman/tree/main/hub (1 day ago)
-- [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 Official docker image for secman. (3 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 day ago)
+- [scmn-dev/.github](https://github.com/scmn-dev/.github) - :octocat: Default @scmn-dev metadata (1 day ago)
+- [secman-archive/desktop](https://github.com/secman-archive/desktop) - Moved to https://github.com/scmn-dev/secman/tree/main/hub (2 days ago)
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 Official docker image for secman. (4 days ago)
 - [scmn-dev/scoop](https://github.com/scmn-dev/scoop) - 📥 scoop packaging for secman. (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.20.5](https://github.com/denoland/deno/releases/tag/v1.20.5), today) - A modern runtime for JavaScript and TypeScript.
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.2.3](https://github.com/scmn-dev/secman/releases/tag/v6.2.3), today) - 👊 Human-friendly and amazing secrets manager.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.0.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.0.0), 6 days ago) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.20.5](https://github.com/denoland/deno/releases/tag/v1.20.5), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.2.3](https://github.com/scmn-dev/secman/releases/tag/v6.2.3), 1 day ago) - 👊 Human-friendly and amazing secrets manager.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.0.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.0.0), 1 week ago) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 - [secman-archive/desktop](https://github.com/secman-archive/desktop) ([v1.1.1](https://github.com/secman-archive/desktop/releases/tag/v1.1.1), 2 weeks ago) - Moved to https://github.com/scmn-dev/secman/tree/main/hub
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.4.1](https://github.com/scmn-dev/docker/releases/tag/v0.4.1), 3 weeks ago) - 🐳 Official docker image for secman.
