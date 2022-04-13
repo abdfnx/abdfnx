@@ -27,11 +27,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (today)
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 Official docker image for secman. moved to https://github.com/scmn-dev/secman/tree/main/docker (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
 - [scmn-dev/.github](https://github.com/scmn-dev/.github) - :octocat: Default @scmn-dev metadata (6 days ago)
 - [secman-archive/desktop](https://github.com/secman-archive/desktop) - Moved to https://github.com/scmn-dev/secman/tree/main/hub (1 week ago)
-- [scmn-dev/scoop](https://github.com/scmn-dev/scoop) - 📥 scoop packaging for secman. (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
