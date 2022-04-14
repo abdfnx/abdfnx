@@ -28,10 +28,10 @@
 
 
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (today)
+- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (today)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (today)
 - [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 Official docker image for secman. moved to https://github.com/scmn-dev/secman/tree/main/docker (1 day ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 day ago)
-- [scmn-dev/.github](https://github.com/scmn-dev/.github) - :octocat: Default @scmn-dev metadata (1 week ago)
-- [secman-archive/desktop](https://github.com/secman-archive/desktop) - Moved to https://github.com/scmn-dev/secman/tree/main/hub (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
