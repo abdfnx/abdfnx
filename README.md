@@ -27,16 +27,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (today)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
-- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (today)
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (today)
-- [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 Official docker image for secman. moved to https://github.com/scmn-dev/secman/tree/main/docker (1 day ago)
+- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (1 day ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (1 day ago)
+- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (1 day ago)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 day ago)
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) - 🐳 Official docker image for secman. moved to https://github.com/scmn-dev/secman/tree/main/docker (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.20.6](https://github.com/denoland/deno/releases/tag/v1.20.6), today) - A modern runtime for JavaScript and TypeScript.
-- [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.2](https://github.com/abdfnx/doko/releases/tag/v0.1.2), today) - 🐳 The docker you know but with TUI.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.20.6](https://github.com/denoland/deno/releases/tag/v1.20.6), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.2](https://github.com/abdfnx/doko/releases/tag/v0.1.2), 1 day ago) - 🐳 The docker you know but with TUI.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.2.3](https://github.com/scmn-dev/secman/releases/tag/v6.2.3), 1 week ago) - 👊 Human-friendly and amazing secrets manager.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.0.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.0.0), 1 week ago) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.0.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.0.0), 2 weeks ago) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 - [secman-archive/desktop](https://github.com/secman-archive/desktop) ([v1.1.1](https://github.com/secman-archive/desktop/releases/tag/v1.1.1), 3 weeks ago) - Moved to https://github.com/scmn-dev/secman/tree/main/hub
