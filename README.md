@@ -35,8 +35,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.31](https://github.com/abdfnx/tran/releases/tag/v0.1.31), today) - 🖥 Securely transfer and send anything between computers with TUI.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.20.6](https://github.com/denoland/deno/releases/tag/v1.20.6), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.2](https://github.com/abdfnx/doko/releases/tag/v0.1.2), 4 days ago) - 🐳 The docker you know but with TUI.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.2.3](https://github.com/scmn-dev/secman/releases/tag/v6.2.3), 1 week ago) - 👊 Human-friendly and amazing secrets manager.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.0.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.0.0), 2 weeks ago) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
-- [secman-archive/desktop](https://github.com/secman-archive/desktop) ([v1.1.1](https://github.com/secman-archive/desktop/releases/tag/v1.1.1), 4 weeks ago) - Moved to https://github.com/scmn-dev/secman/tree/main/hub
