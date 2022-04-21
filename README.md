@@ -35,8 +35,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [denoland/deno](https://github.com/denoland/deno) ([v1.21.0](https://github.com/denoland/deno/releases/tag/v1.21.0), today) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.31](https://github.com/abdfnx/tran/releases/tag/v0.1.31), 3 days ago) - 🖥 Securely transfer and send anything between computers with TUI.
-- [denoland/deno](https://github.com/denoland/deno) ([v1.20.6](https://github.com/denoland/deno/releases/tag/v1.20.6), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.2](https://github.com/abdfnx/doko/releases/tag/v0.1.2), 1 week ago) - 🐳 The docker you know but with TUI.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.2.3](https://github.com/scmn-dev/secman/releases/tag/v6.2.3), 2 weeks ago) - 👊 Human-friendly and amazing secrets manager.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.0.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.0.0), 2 weeks ago) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
