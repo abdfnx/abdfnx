@@ -27,7 +27,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (today)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (1 week ago)
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.` (1 week ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 week ago)
