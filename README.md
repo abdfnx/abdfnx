@@ -27,9 +27,9 @@
 
 
 - [abdfnx/gomo-installer](https://github.com/abdfnx/gomo-installer) - gomo installer (today)
-- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (today)
-- [abdfnx/tagger](https://github.com/abdfnx/tagger) - git tag tool (today)
 - [abdfnx/gomo](https://github.com/abdfnx/gomo) - 📐 Simple Golang multi modules tool. inspired from turborepo. (today)
+- [abdfnx/tagger](https://github.com/abdfnx/tagger) - git tag tool (today)
+- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
