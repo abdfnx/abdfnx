@@ -34,7 +34,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/gomo](https://github.com/abdfnx/gomo) ([v0.0.1](https://github.com/abdfnx/gomo/releases/tag/v0.0.1), today) - 📐 Simple Golang multi modules tool. inspired from turborepo.
+- [abdfnx/gomo](https://github.com/abdfnx/gomo) ([v0.0.2](https://github.com/abdfnx/gomo/releases/tag/v0.0.2), today) - 📐 Simple Golang multi modules tool. inspired from turborepo.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.21.0](https://github.com/denoland/deno/releases/tag/v1.21.0), 2 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.31](https://github.com/abdfnx/tran/releases/tag/v0.1.31), 5 days ago) - 🖥 Securely transfer and send anything between computers with TUI.
 - [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.2](https://github.com/abdfnx/doko/releases/tag/v0.1.2), 1 week ago) - 🐳 The docker you know but with TUI.
