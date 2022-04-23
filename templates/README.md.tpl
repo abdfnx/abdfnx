@@ -21,8 +21,7 @@
 
 #### CLI Tools
 
-- [**corgit**](https://github.com/abdfnx/corgit): CorGit is a Cli program can automate init git, push commits and pull.
-- [**ps**](https://github.com/scmn-dev/ps): `docker ps` in go.
+- [**gomo**](https://github.com/abdfnx/gomo): 📐 Simple Golang multi modules tool.
 
 ### 🏗️ Check out what I'm currently working on
 
