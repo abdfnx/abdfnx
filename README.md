@@ -26,16 +26,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (2 days ago)
-- [abdfnx/gomo](https://github.com/abdfnx/gomo) - 📐 Simple Golang multi modules tool. inspired from turborepo. (2 days ago)
-- [abdfnx/tagger](https://github.com/abdfnx/tagger) - git tag tool (2 days ago)
-- [abdfnx/gomo-installer](https://github.com/abdfnx/gomo-installer) - gomo installer (2 days ago)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (4 days ago)
+- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (3 days ago)
+- [abdfnx/gomo](https://github.com/abdfnx/gomo) - 📐 Simple Golang multi modules tool. inspired from turborepo. (3 days ago)
+- [abdfnx/tagger](https://github.com/abdfnx/tagger) - git tag tool (3 days ago)
+- [abdfnx/gomo-installer](https://github.com/abdfnx/gomo-installer) - gomo installer (3 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - 👊 Human-friendly and amazing secrets manager. (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/gomo](https://github.com/abdfnx/gomo) ([v0.0.2](https://github.com/abdfnx/gomo/releases/tag/v0.0.2), 2 days ago) - 📐 Simple Golang multi modules tool. inspired from turborepo.
-- [denoland/deno](https://github.com/denoland/deno) ([v1.21.0](https://github.com/denoland/deno/releases/tag/v1.21.0), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [abdfnx/gomo](https://github.com/abdfnx/gomo) ([v0.0.2](https://github.com/abdfnx/gomo/releases/tag/v0.0.2), 3 days ago) - 📐 Simple Golang multi modules tool. inspired from turborepo.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.21.0](https://github.com/denoland/deno/releases/tag/v1.21.0), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.31](https://github.com/abdfnx/tran/releases/tag/v0.1.31), 1 week ago) - 🖥 Securely transfer and send anything between computers with TUI.
 - [abdfnx/doko](https://github.com/abdfnx/doko) ([v0.1.2](https://github.com/abdfnx/doko/releases/tag/v0.1.2), 1 week ago) - 🐳 The docker you know but with TUI.
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.2.3](https://github.com/scmn-dev/secman/releases/tag/v6.2.3), 2 weeks ago) - 👊 Human-friendly and amazing secrets manager.
