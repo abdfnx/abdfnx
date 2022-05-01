@@ -26,11 +26,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (5 days ago)
-- [abdfnx/gomo](https://github.com/abdfnx/gomo) - 📐 Simple Golang multi modules tool. inspired from turborepo. (1 week ago)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (1 week ago)
-- [abdfnx/gomo-installer](https://github.com/abdfnx/gomo-installer) - gomo installer (1 week ago)
 - [abdfnx/tagger](https://github.com/abdfnx/tagger) - git tag tool (1 week ago)
+- [abdfnx/gomo](https://github.com/abdfnx/gomo) - 📐 Simple Golang multi modules tool. inspired from turborepo. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
