@@ -30,12 +30,12 @@
 - [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - [Archived] 👊 Human-friendly and amazing secrets manager. (3 days ago)
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (1 week ago)
-- [abdfnx/tagger](https://github.com/abdfnx/tagger) - git tag tool (1 week ago)
+- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) ([v0.1.3](https://github.com/scmn-dev/get-latest/releases/tag/v0.1.3), today) - Get the latest repository version.
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.0-beta](https://github.com/abdfnx/botway/releases/tag/v0.1.0-beta), 1 day ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.21.1](https://github.com/denoland/deno/releases/tag/v1.21.1), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) ([v0.3.9](https://github.com/abdfnx/gosh/releases/tag/v0.3.9), 1 week ago) - ⌨ A golang library for executing bash &amp; powershell commands easly.
 - [abdfnx/gomo](https://github.com/abdfnx/gomo) ([v0.0.2](https://github.com/abdfnx/gomo/releases/tag/v0.0.2), 1 week ago) - 📐 Simple Golang multi modules tool. inspired from turborepo.
-- [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.31](https://github.com/abdfnx/tran/releases/tag/v0.1.31), 2 weeks ago) - 🖥 Securely transfer and send anything between computers with TUI.
