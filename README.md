@@ -27,9 +27,9 @@
 
 
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
+- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - [Archived] 👊 Human-friendly and amazing secrets manager. (3 days ago)
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (1 week ago)
-- [abdfnx/gomo](https://github.com/abdfnx/gomo) - 📐 Simple Golang multi modules tool. inspired from turborepo. (1 week ago)
 - [abdfnx/tagger](https://github.com/abdfnx/tagger) - git tag tool (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
