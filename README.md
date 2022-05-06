@@ -29,8 +29,8 @@
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (today)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - [Archived] 👊 Human-friendly and amazing secrets manager. (today)
 - [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version. (1 day ago)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - [Archived] 👊 Human-friendly and amazing secrets manager. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
