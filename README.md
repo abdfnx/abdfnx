@@ -26,16 +26,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
-- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (1 day ago)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - [Archived] 👊 Human-friendly and amazing secrets manager. (1 day ago)
-- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version. (2 days ago)
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
+- [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (2 days ago)
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) - [Archived] 👊 Human-friendly and amazing secrets manager. (2 days ago)
+- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) - Get the latest repository version. (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.0-beta.1](https://github.com/abdfnx/botway/releases/tag/v0.1.0-beta.1), today) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.2](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.2), today) - Golang client package for Botway.
-- [denoland/deno](https://github.com/denoland/deno) ([v1.21.2](https://github.com/denoland/deno/releases/tag/v1.21.2), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.3.0](https://github.com/scmn-dev/secman/releases/tag/v6.3.0), 2 days ago) - [Archived] 👊 Human-friendly and amazing secrets manager.
-- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) ([v0.1.3](https://github.com/scmn-dev/get-latest/releases/tag/v0.1.3), 2 days ago) - Get the latest repository version.
+- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.0-beta.1](https://github.com/abdfnx/botway/releases/tag/v0.1.0-beta.1), 1 day ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.2](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.2), 1 day ago) - Golang client package for Botway.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.21.2](https://github.com/denoland/deno/releases/tag/v1.21.2), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.3.0](https://github.com/scmn-dev/secman/releases/tag/v6.3.0), 3 days ago) - [Archived] 👊 Human-friendly and amazing secrets manager.
+- [scmn-dev/get-latest](https://github.com/scmn-dev/get-latest) ([v0.1.3](https://github.com/scmn-dev/get-latest/releases/tag/v0.1.3), 3 days ago) - Get the latest repository version.
