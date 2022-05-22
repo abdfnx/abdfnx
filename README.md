@@ -26,7 +26,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (5 days ago)
 - [railwayapp/cli](https://github.com/railwayapp/cli) - Railway CLI (1 week ago)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - [Archived] 👊 Human-friendly and amazing secrets manager. (2 weeks ago)
@@ -34,7 +34,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.0-beta.6](https://github.com/abdfnx/botway/releases/tag/v0.1.0-beta.6), 1 day ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
+- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.0-beta.7](https://github.com/abdfnx/botway/releases/tag/v0.1.0-beta.7), today) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 - [railwayapp/cli](https://github.com/railwayapp/cli) ([v1.6.0](https://github.com/railwayapp/cli/releases/tag/v1.6.0), 2 days ago) - Railway CLI
 - [denoland/deno](https://github.com/denoland/deno) ([v1.22.0](https://github.com/denoland/deno/releases/tag/v1.22.0), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.3), 5 days ago) - Golang client package for Botway.
