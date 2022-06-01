@@ -26,7 +26,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (5 days ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (6 days ago)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (2 weeks ago)
 - [railwayapp/cli](https://github.com/railwayapp/cli) - Railway CLI (2 weeks ago)
 - [abdfnx/homebrew-tap](https://github.com/abdfnx/homebrew-tap) - @abdfnx&#39;s homebrew tap 🍺 (3 weeks ago)
@@ -34,8 +34,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v1.7.4](https://github.com/railwayapp/cli/releases/tag/v1.7.4), today) - Railway CLI
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.1.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.1.2), 3 days ago) - A beautiful CLI dashboard for GitHub 🚀 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.22.1](https://github.com/denoland/deno/releases/tag/v1.22.1), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v1.7.4](https://github.com/railwayapp/cli/releases/tag/v1.7.4), 1 day ago) - Railway CLI
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.1.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.1.2), 4 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [denoland/deno](https://github.com/denoland/deno) ([v1.22.1](https://github.com/denoland/deno/releases/tag/v1.22.1), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.0-beta.7](https://github.com/abdfnx/botway/releases/tag/v0.1.0-beta.7), 1 week ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.3), 2 weeks ago) - Golang client package for Botway.
