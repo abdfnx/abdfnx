@@ -26,7 +26,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
 - [abdfnx/botway-installer](https://github.com/abdfnx/botway-installer) - botway installer files (2 days ago)
 - [abdfnx/instal](https://github.com/abdfnx/instal) - 🛰 Install any binary app from a script URL. (2 days ago)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (2 weeks ago)
