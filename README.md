@@ -35,7 +35,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [railwayapp/cli](https://github.com/railwayapp/cli) ([v1.8.0](https://github.com/railwayapp/cli/releases/tag/v1.8.0), today) - Railway CLI
-- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.0](https://github.com/abdfnx/botway/releases/tag/v0.1.0), 3 days ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.22.2](https://github.com/denoland/deno/releases/tag/v1.22.2), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.1.3](https://github.com/dlvhdr/gh-dash/releases/tag/v3.1.3), 5 days ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.3), 3 weeks ago) - Golang client package for Botway.
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.3.0](https://github.com/scmn-dev/secman/releases/tag/v6.3.0), 1 month ago) - [Archived] 👊 Human-friendly and amazing secrets manager.
