@@ -26,11 +26,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/discord-rust](https://github.com/botwayorg/discord-rust) - Botway Discord Rust Bot Template. (today)
-- [botwayorg/discord-python](https://github.com/botwayorg/discord-python) - Botway Discord Python Bot Template. (today)
-- [botwayorg/telegram-ruby](https://github.com/botwayorg/telegram-ruby) - Botway Telegram Ruby Bot Template. (today)
 - [botwayorg/discord-deno](https://github.com/botwayorg/discord-deno) - Botway Discord Deno Bot Template. (today)
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (today)
+- [botwayorg/discord-ruby](https://github.com/botwayorg/discord-ruby) - Botway Discord Ruby Bot Template. (today)
 - [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (today)
+- [botwayorg/discord-go](https://github.com/botwayorg/discord-go) - Botway Discord Golang Bot Template. (today)
 
 ### 🔭 Latest releases I've contributed to
 
