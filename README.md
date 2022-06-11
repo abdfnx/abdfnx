@@ -26,11 +26,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/discord-ruby](https://github.com/botwayorg/discord-ruby) - Botway Discord Ruby Bot Template. (today)
-- [botwayorg/slack-python-pip](https://github.com/botwayorg/slack-python-pip) - Botway Slack Python with Pip package manager Bot Template. (today)
-- [botwayorg/telegram-python-pip](https://github.com/botwayorg/telegram-python-pip) - Botway Telegram Python with Pip package manager Bot Template. (today)
-- [botwayorg/telegram-nodejs-yarn](https://github.com/botwayorg/telegram-nodejs-yarn) - Botway Telegram Nodejs with Yarn package manager Bot Template. (today)
+- [botwayorg/slack-nodejs-pnpm](https://github.com/botwayorg/slack-nodejs-pnpm) - Botway Slack Nodejs with PNPM package manager Bot Template. (today)
+- [botwayorg/telegram-ruby](https://github.com/botwayorg/telegram-ruby) - Botway Telegram Ruby Bot Template. (today)
 - [botwayorg/discord-deno](https://github.com/botwayorg/discord-deno) - Botway Discord Deno Bot Template. (today)
+- [botwayorg/telegram-python-pipenv](https://github.com/botwayorg/telegram-python-pipenv) - Botway Telegram Python with Pipenv package manager Bot Template. (today)
+- [botwayorg/discord-nodejs-npm](https://github.com/botwayorg/discord-nodejs-npm) - Botway Discord Nodejs with NPM package manager Bot Template. (today)
 
 ### 🔭 Latest releases I've contributed to
 
