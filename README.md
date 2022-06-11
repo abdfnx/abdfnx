@@ -26,11 +26,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (1 day ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
-- [abdfnx/instal](https://github.com/abdfnx/instal) - 🛰 Install any binary app from a script URL. (1 week ago)
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (3 weeks ago)
-- [railwayapp/cli](https://github.com/railwayapp/cli) - Railway CLI (4 weeks ago)
+- [botwayorg/discord-ruby](https://github.com/botwayorg/discord-ruby) - Botway Discord Ruby Bot Template. (today)
+- [botwayorg/slack-python-pip](https://github.com/botwayorg/slack-python-pip) - Botway Slack Python with Pip package manager Bot Template. (today)
+- [botwayorg/telegram-python-pip](https://github.com/botwayorg/telegram-python-pip) - Botway Telegram Python with Pip package manager Bot Template. (today)
+- [botwayorg/telegram-nodejs-yarn](https://github.com/botwayorg/telegram-nodejs-yarn) - Botway Telegram Nodejs with Yarn package manager Bot Template. (today)
+- [botwayorg/discord-deno](https://github.com/botwayorg/discord-deno) - Botway Discord Deno Bot Template. (today)
 
 ### 🔭 Latest releases I've contributed to
 
