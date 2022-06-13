@@ -26,11 +26,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (today)
 - [botwayorg/discord-ruby](https://github.com/botwayorg/discord-ruby) - Botway Discord Ruby Bot Template. (2 days ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (2 days ago)
-- [botwayorg/telegram-python](https://github.com/botwayorg/telegram-python) - Botway Telegram Python Bot Template. (2 days ago)
-- [botwayorg/telegram-rust](https://github.com/botwayorg/telegram-rust) - Botway Telegram Rust Bot Template. (2 days ago)
-- [botwayorg/telegram-ruby](https://github.com/botwayorg/telegram-ruby) - Botway Telegram Ruby Bot Template. (2 days ago)
+- [botwayorg/discord-rust](https://github.com/botwayorg/discord-rust) - Botway Discord Rust Bot Template. (2 days ago)
+- [botwayorg/discord-python](https://github.com/botwayorg/discord-python) - Botway Discord Python Bot Template. (2 days ago)
+- [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
