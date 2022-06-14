@@ -26,9 +26,9 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/discord-deno](https://github.com/botwayorg/discord-deno) - Botway Discord Deno Bot Template. (today)
 - [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (1 day ago)
 - [botwayorg/discord-ruby](https://github.com/botwayorg/discord-ruby) - Botway Discord Ruby Bot Template. (3 days ago)
-- [botwayorg/discord-rust](https://github.com/botwayorg/discord-rust) - Botway Discord Rust Bot Template. (3 days ago)
 - [botwayorg/discord-python](https://github.com/botwayorg/discord-python) - Botway Discord Python Bot Template. (3 days ago)
 - [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (3 days ago)
 
