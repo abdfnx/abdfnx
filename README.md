@@ -30,8 +30,8 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
 - [botwayorg/git](https://github.com/botwayorg/git) - 📦 Git config for Botway (3 days ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (3 days ago)
 - [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (3 days ago)
 - [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (3 days ago)
 - [botwayorg/discord-deno](https://github.com/botwayorg/discord-deno) - Botway Discord Deno Bot Template. (3 days ago)
