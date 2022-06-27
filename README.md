@@ -30,16 +30,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework (3 days ago)
-- [botwayorg/discord-deno](https://github.com/botwayorg/discord-deno) - Botway Discord Deno Bot Template. (6 days ago)
-- [botwayorg/telegram-deno](https://github.com/botwayorg/telegram-deno) - Botway Telegram Deno Bot Template. (6 days ago)
-- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (6 days ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
+- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework (4 days ago)
+- [botwayorg/discord-deno](https://github.com/botwayorg/discord-deno) - Botway Discord Deno Bot Template. (1 week ago)
+- [botwayorg/telegram-deno](https://github.com/botwayorg/telegram-deno) - Botway Telegram Deno Bot Template. (1 week ago)
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.3](https://github.com/abdfnx/botway/releases/tag/v0.1.3), 1 day ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
-- [denoland/deno](https://github.com/denoland/deno) ([v1.23.1](https://github.com/denoland/deno/releases/tag/v1.23.1), 3 days ago) - A modern runtime for JavaScript and TypeScript.
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.4](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.4), 6 days ago) - Golang client package for Botway.
+- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.3](https://github.com/abdfnx/botway/releases/tag/v0.1.3), 2 days ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.23.1](https://github.com/denoland/deno/releases/tag/v1.23.1), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.4](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.4), 1 week ago) - Golang client package for Botway.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.1.4](https://github.com/dlvhdr/gh-dash/releases/tag/v3.1.4), 2 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [railwayapp/cli](https://github.com/railwayapp/cli) ([v1.8.0](https://github.com/railwayapp/cli/releases/tag/v1.8.0), 2 weeks ago) - Railway CLI
