@@ -30,15 +30,15 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
 - [abdfnx/botwaycr](https://github.com/abdfnx/botwaycr) - Crystal client package for Botway. (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
+- [botwayorg/discord-crystal](https://github.com/botwayorg/discord-crystal) - Botway Discord Crystal Bot Template. (today)
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework (5 days ago)
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 week ago)
-- [botwayorg/telegram-deno](https://github.com/botwayorg/telegram-deno) - Botway Telegram Deno Bot Template. (1 week ago)
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/botwaycr](https://github.com/abdfnx/botwaycr) ([v0.1.0](https://github.com/abdfnx/botwaycr/releases/tag/v0.1.0), today) - Crystal client package for Botway.
+- [abdfnx/botwaycr](https://github.com/abdfnx/botwaycr) ([v0.1.1](https://github.com/abdfnx/botwaycr/releases/tag/v0.1.1), today) - Crystal client package for Botway.
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.3](https://github.com/abdfnx/botway/releases/tag/v0.1.3), 3 days ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.23.1](https://github.com/denoland/deno/releases/tag/v1.23.1), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.4](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.4), 1 week ago) - Golang client package for Botway.
