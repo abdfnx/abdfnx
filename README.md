@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (today)
+- [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (today)
 - [botwayorg/discord-csharp](https://github.com/botwayorg/discord-csharp) - Botway Discord C# Bot Template. (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 day ago)
-- [abdfnx/botwaycr](https://github.com/abdfnx/botwaycr) - Crystal client package for Botway. (1 day ago)
-- [abdfnx/instal](https://github.com/abdfnx/instal) - 🛰 Install any binary app from a script URL. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
