@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/botway-lua](https://github.com/abdfnx/botway-lua) - Lua client package for Botway. (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
-- [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (1 day ago)
-- [botwayorg/discord-csharp](https://github.com/botwayorg/discord-csharp) - Botway Discord C# Bot Template. (1 day ago)
-- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (1 day ago)
 - [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (1 day ago)
+- [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (1 day ago)
+- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
