@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (today)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
-- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (today)
-- [botwayorg/discord-dart](https://github.com/botwayorg/discord-dart) - Botway Discord Dart Bot Template. (today)
 - [abdfnx/botway-lua](https://github.com/abdfnx/botway-lua) - Lua client package for Botway. (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
+- [botwayorg/discord-python](https://github.com/botwayorg/discord-python) - Botway Discord Python Bot Template. (today)
+- [botwayorg/discord-dart](https://github.com/botwayorg/discord-dart) - Botway Discord Dart Bot Template. (today)
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (today)
 
 ### 🔭 Latest releases I've contributed to
 
