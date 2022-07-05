@@ -38,7 +38,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v1.8.2](https://github.com/railwayapp/cli/releases/tag/v1.8.2), 1 day ago) - Railway CLI
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v1.8.3](https://github.com/railwayapp/cli/releases/tag/v1.8.3), today) - Railway CLI
 - [denoland/deno](https://github.com/denoland/deno) ([v1.23.2](https://github.com/denoland/deno/releases/tag/v1.23.2), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/botwaycr](https://github.com/abdfnx/botwaycr) ([v0.1.2](https://github.com/abdfnx/botwaycr/releases/tag/v0.1.2), 5 days ago) - Crystal client package for Botway.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.5](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.5), 5 days ago) - Golang client package for Botway.
