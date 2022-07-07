@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/telegram-dart](https://github.com/botwayorg/telegram-dart) - Botway Telegram Dart Bot Template. (1 day ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
-- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (1 day ago)
+- [botwayorg/telegram-dart](https://github.com/botwayorg/telegram-dart) - Botway Telegram Dart Bot Template. (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
+- [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (today)
+- [botwayorg/discord-dart](https://github.com/botwayorg/discord-dart) - Botway Discord Dart Bot Template. (1 day ago)
 - [abdfnx/vcpkg-installer](https://github.com/abdfnx/vcpkg-installer) - Vcpkg installer (1 day ago)
-- [botwayorg/telegram-csharp](https://github.com/botwayorg/telegram-csharp) - Botway Telegram C# Bot Template. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
