@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/bwclj](https://github.com/abdfnx/bwclj) - Clojure client package for Botway. (today)
-- [botwayorg/telegram-dart](https://github.com/botwayorg/telegram-dart) - Botway Telegram Dart Bot Template. (1 day ago)
+- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
 - [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (1 day ago)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (1 day ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
+- [botwayorg/telegram-dart](https://github.com/botwayorg/telegram-dart) - Botway Telegram Dart Bot Template. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
