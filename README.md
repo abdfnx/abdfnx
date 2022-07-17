@@ -34,7 +34,7 @@
 - [botwayorg/discord-python](https://github.com/botwayorg/discord-python) - Botway Discord Python Bot Template. (today)
 - [botwayorg/telegram-rust](https://github.com/botwayorg/telegram-rust) - Botway Telegram Rust Bot Template. (1 day ago)
 - [botwayorg/discord-rust](https://github.com/botwayorg/discord-rust) - Botway Discord Rust Bot Template. (1 day ago)
-- [botwayorg/telegram-nodejs](https://github.com/botwayorg/telegram-nodejs) - Botway Telegram Nodejs Bot Template. (3 days ago)
+- [botwayorg/discord-bun](https://github.com/botwayorg/discord-bun) - Botway Discord Bun Bot Template. (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
