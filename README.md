@@ -31,15 +31,15 @@
 
 
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
 - [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (1 day ago)
 - [botwayorg/discord-python](https://github.com/botwayorg/discord-python) - Botway Discord Python Bot Template. (1 day ago)
 - [botwayorg/telegram-rust](https://github.com/botwayorg/telegram-rust) - Botway Telegram Rust Bot Template. (2 days ago)
-- [botwayorg/discord-rust](https://github.com/botwayorg/discord-rust) - Botway Discord Rust Bot Template. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.6](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.6), today) - Golang client package for Botway.
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.6](https://github.com/abdfnx/botway/releases/tag/v0.1.6), today) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.23.4](https://github.com/denoland/deno/releases/tag/v1.23.4), 6 days ago) - A modern runtime for JavaScript and TypeScript.
 - [railwayapp/cli](https://github.com/railwayapp/cli) ([v1.8.3](https://github.com/railwayapp/cli/releases/tag/v1.8.3), 1 week ago) - Railway CLI
 - [abdfnx/botwaycr](https://github.com/abdfnx/botwaycr) ([v0.1.2](https://github.com/abdfnx/botwaycr/releases/tag/v0.1.2), 2 weeks ago) - Crystal client package for Botway.
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.5](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.5), 2 weeks ago) - Golang client package for Botway.
