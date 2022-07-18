@@ -38,7 +38,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/bw-php](https://github.com/abdfnx/bw-php) ([v0.1.0](https://github.com/abdfnx/bw-php/releases/tag/v0.1.0), today) - PHP client package for Botway.
+- [abdfnx/bw-php](https://github.com/abdfnx/bw-php) ([v0.1.1](https://github.com/abdfnx/bw-php/releases/tag/v0.1.1), today) - PHP client package for Botway.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.6](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.6), today) - Golang client package for Botway.
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.6](https://github.com/abdfnx/botway/releases/tag/v0.1.6), today) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.23.4](https://github.com/denoland/deno/releases/tag/v1.23.4), 6 days ago) - A modern runtime for JavaScript and TypeScript.
