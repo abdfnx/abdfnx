@@ -30,15 +30,15 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/bw-php](https://github.com/abdfnx/bw-php) - PHP client package for Botway. (today)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 day ago)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
 - [botwayorg/discord-php](https://github.com/botwayorg/discord-php) - Botway Discord PHP Bot Template. (1 day ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (1 day ago)
-- [abdfnx/bw-php](https://github.com/abdfnx/bw-php) - PHP client package for Botway. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/bw-php](https://github.com/abdfnx/bw-php) ([v0.1.1](https://github.com/abdfnx/bw-php/releases/tag/v0.1.1), 1 day ago) - PHP client package for Botway.
+- [abdfnx/bw-php](https://github.com/abdfnx/bw-php) ([v0.1.3](https://github.com/abdfnx/bw-php/releases/tag/v0.1.3), today) - PHP client package for Botway.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.6](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.6), 1 day ago) - Golang client package for Botway.
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.6](https://github.com/abdfnx/botway/releases/tag/v0.1.6), 1 day ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.23.4](https://github.com/denoland/deno/releases/tag/v1.23.4), 1 week ago) - A modern runtime for JavaScript and TypeScript.
