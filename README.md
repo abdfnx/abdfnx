@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/bw-php](https://github.com/abdfnx/bw-php) - PHP client package for Botway. (today)
 - [botwayorg/discord-php](https://github.com/botwayorg/discord-php) - Botway Discord PHP Bot Template. (today)
+- [abdfnx/bw-php](https://github.com/abdfnx/bw-php) - PHP client package for Botway. (today)
+- [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (today)
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 day ago)
-- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
