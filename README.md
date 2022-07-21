@@ -30,9 +30,9 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (today)
+- [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (today)
 - [botwayorg/discord-java](https://github.com/botwayorg/discord-java) - Botway Discord Java Bot Template. (1 day ago)
-- [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (1 day ago)
-- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (2 days ago)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (2 days ago)
 - [abdfnx/bw-php](https://github.com/abdfnx/bw-php) - PHP client package for Botway. (2 days ago)
 
