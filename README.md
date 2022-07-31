@@ -38,8 +38,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.24.1](https://github.com/denoland/deno/releases/tag/v1.24.1), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v1.8.4](https://github.com/railwayapp/cli/releases/tag/v1.8.4), 3 days ago) - Railway CLI
+- [denoland/deno](https://github.com/denoland/deno) ([v1.24.1](https://github.com/denoland/deno/releases/tag/v1.24.1), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v1.8.4](https://github.com/railwayapp/cli/releases/tag/v1.8.4), 4 days ago) - Railway CLI
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.2.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.2.0), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [abdfnx/bw-php](https://github.com/abdfnx/bw-php) ([v0.1.4](https://github.com/abdfnx/bw-php/releases/tag/v0.1.4), 1 week ago) - PHP client package for Botway.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.6](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.6), 1 week ago) - Golang client package for Botway.
