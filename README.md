@@ -30,16 +30,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/dpp-installer](https://github.com/botwayorg/dpp-installer) - D&#43;&#43; Installer for all platforms (Windows, OSX, Linux) (today)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
-- [abdfnx/vcpkg-installer](https://github.com/abdfnx/vcpkg-installer) - Vcpkg installer (1 day ago)
-- [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (1 day ago)
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 day ago)
+- [botwayorg/dpp-installer](https://github.com/botwayorg/dpp-installer) - D&#43;&#43; Installer for all platforms (Windows, OSX, Linux) (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (2 days ago)
+- [abdfnx/vcpkg-installer](https://github.com/abdfnx/vcpkg-installer) - Vcpkg installer (2 days ago)
+- [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (2 days ago)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.41](https://github.com/abdfnx/tran/releases/tag/v0.1.41), 1 day ago) - 🖥 Securely transfer and send anything between computers with TUI.
-- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.41](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.41), 1 day ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
-- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.7](https://github.com/abdfnx/botway/releases/tag/v0.1.7), 1 day ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
-- [denoland/deno](https://github.com/denoland/deno) ([v1.24.1](https://github.com/denoland/deno/releases/tag/v1.24.1), 4 days ago) - A modern runtime for JavaScript and TypeScript.
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v1.8.4](https://github.com/railwayapp/cli/releases/tag/v1.8.4), 5 days ago) - Railway CLI
+- [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.41](https://github.com/abdfnx/tran/releases/tag/v0.1.41), 2 days ago) - 🖥 Securely transfer and send anything between computers with TUI.
+- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.41](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.41), 2 days ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
+- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.7](https://github.com/abdfnx/botway/releases/tag/v0.1.7), 2 days ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.24.1](https://github.com/denoland/deno/releases/tag/v1.24.1), 5 days ago) - A modern runtime for JavaScript and TypeScript.
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v1.8.4](https://github.com/railwayapp/cli/releases/tag/v1.8.4), 6 days ago) - Railway CLI
