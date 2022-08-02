@@ -32,9 +32,9 @@
 
 - [botwayorg/dpp-installer](https://github.com/botwayorg/dpp-installer) - D&#43;&#43; Installer for all platforms (Windows, OSX, Linux) (today)
 - [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (today)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (today)
 - [abdfnx/botway-lua](https://github.com/abdfnx/botway-lua) - Lua client package for Botway. (today)
 - [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (2 days ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
