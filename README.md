@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway-lua](https://github.com/abdfnx/botway-lua) - Lua client package for Botway. (1 day ago)
-- [botwayorg/dpp-installer](https://github.com/botwayorg/dpp-installer) - D&#43;&#43; Installer for all platforms (Windows, OSX, Linux) (1 day ago)
-- [botwayorg/discord-c](https://github.com/botwayorg/discord-c) - Botway Discord C Bot Template. (1 day ago)
-- [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (1 day ago)
+- [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (today)
+- [botwayorg/discord-c](https://github.com/botwayorg/discord-c) - Botway Discord C Bot Template. (today)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 day ago)
+- [abdfnx/botway-lua](https://github.com/abdfnx/botway-lua) - Lua client package for Botway. (1 day ago)
+- [botwayorg/dpp-installer](https://github.com/botwayorg/dpp-installer) - D&#43;&#43; Installer for Unix platforms (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
