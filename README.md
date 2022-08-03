@@ -38,7 +38,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.0.2](https://github.com/railwayapp/cli/releases/tag/v2.0.2), today) - Railway CLI
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.0.5](https://github.com/railwayapp/cli/releases/tag/v2.0.5), today) - Railway CLI
 - [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.42](https://github.com/abdfnx/tran/releases/tag/v0.1.42), 1 day ago) - 🖥 Securely transfer and send anything between computers with TUI.
 - [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.42](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.42), 1 day ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.7](https://github.com/abdfnx/botway/releases/tag/v0.1.7), 3 days ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
