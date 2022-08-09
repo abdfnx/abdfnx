@@ -30,16 +30,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
-- [botwayorg/discord-c](https://github.com/botwayorg/discord-c) - Botway Discord C Bot Template. (3 days ago)
-- [abdfnx/botnim](https://github.com/abdfnx/botnim) - Nim client package for Botway. (4 days ago)
-- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (4 days ago)
-- [botwayorg/discord-nim](https://github.com/botwayorg/discord-nim) - Botway Discord Nim Bot Template. (4 days ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (2 days ago)
+- [botwayorg/discord-c](https://github.com/botwayorg/discord-c) - Botway Discord C Bot Template. (4 days ago)
+- [abdfnx/botnim](https://github.com/abdfnx/botnim) - Nim client package for Botway. (5 days ago)
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (5 days ago)
+- [botwayorg/discord-nim](https://github.com/botwayorg/discord-nim) - Botway Discord Nim Bot Template. (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.0.7](https://github.com/railwayapp/cli/releases/tag/v2.0.7), 3 days ago) - Railway CLI
-- [denoland/deno](https://github.com/denoland/deno) ([v1.24.2](https://github.com/denoland/deno/releases/tag/v1.24.2), 4 days ago) - A modern runtime for JavaScript and TypeScript.
-- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.81](https://github.com/abdfnx/botway/releases/tag/v0.1.81), 4 days ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
-- [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.43](https://github.com/abdfnx/tran/releases/tag/v0.1.43), 4 days ago) - 🖥 Securely transfer and send anything between computers with TUI.
-- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.43](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.43), 4 days ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.0.7](https://github.com/railwayapp/cli/releases/tag/v2.0.7), 4 days ago) - Railway CLI
+- [denoland/deno](https://github.com/denoland/deno) ([v1.24.2](https://github.com/denoland/deno/releases/tag/v1.24.2), 5 days ago) - A modern runtime for JavaScript and TypeScript.
+- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.81](https://github.com/abdfnx/botway/releases/tag/v0.1.81), 5 days ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
+- [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.43](https://github.com/abdfnx/tran/releases/tag/v0.1.43), 5 days ago) - 🖥 Securely transfer and send anything between computers with TUI.
+- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.43](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.43), 5 days ago) - the gh cli extension of tran `🖥 Securely transfer and send anything between computers with TUI.`
