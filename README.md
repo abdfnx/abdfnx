@@ -30,7 +30,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (2 days ago)
 - [botwayorg/discord-c](https://github.com/botwayorg/discord-c) - Botway Discord C Bot Template. (6 days ago)
 - [abdfnx/botnim](https://github.com/abdfnx/botnim) - Nim client package for Botway. (1 week ago)
