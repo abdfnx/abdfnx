@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/discord-c](https://github.com/botwayorg/discord-c) - Botway Discord C Bot Template. (today)
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
+- [botwayorg/discord-c](https://github.com/botwayorg/discord-c) - Botway Discord C Bot Template. (today)
 - [abdfnx/botway-swift](https://github.com/abdfnx/botway-swift) - Swift Client Package For Botway. (1 day ago)
-- [botwayorg/telegram-kotlin](https://github.com/botwayorg/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (1 day ago)
-- [botwayorg/discord-nim](https://github.com/botwayorg/discord-nim) - Botway Discord Nim Bot Template. (1 day ago)
+- [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
