@@ -32,9 +32,9 @@
 
 - [botwayorg/telegram-cpp](https://github.com/botwayorg/telegram-cpp) - Botway Telegram C&#43;&#43; Bot Template. (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
-- [botwayorg/git](https://github.com/botwayorg/git) - 📦 Git config for Botway (today)
 - [abdfnx/botway-swift](https://github.com/abdfnx/botway-swift) - Swift Client Package For Botway. (today)
-- [botwayorg/discord-c](https://github.com/botwayorg/discord-c) - Botway Discord C Bot Template. (1 day ago)
+- [botwayorg/git](https://github.com/botwayorg/git) - 📦 Git config for Botway (today)
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
