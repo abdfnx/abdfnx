@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/discord-java](https://github.com/botwayorg/discord-java) - Botway Discord Java Bot Template. (today)
 - [botwayorg/telegram-cpp](https://github.com/botwayorg/telegram-cpp) - Botway Telegram C&#43;&#43; Bot Template. (1 day ago)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
 - [botwayorg/git](https://github.com/botwayorg/git) - 📦 Git config for Botway (1 day ago)
 - [botwayorg/telegram-swift](https://github.com/botwayorg/telegram-swift) - Botway Telegram Swift Bot Template. (1 day ago)
-- [abdfnx/botway-swift](https://github.com/abdfnx/botway-swift) - Swift Client Package For Botway. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
