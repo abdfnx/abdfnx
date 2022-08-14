@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/telegram-php](https://github.com/botwayorg/telegram-php) - Botway Telegram PHP Bot Template. (today)
-- [botwayorg/discord-java](https://github.com/botwayorg/discord-java) - Botway Discord Java Bot Template. (today)
 - [botwayorg/telegram-kotlin](https://github.com/botwayorg/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (today)
 - [botwayorg/discord-php](https://github.com/botwayorg/discord-php) - Botway Discord PHP Bot Template. (today)
-- [botwayorg/telegram-java](https://github.com/botwayorg/telegram-java) - Botway Telegram Java Bot Template. (today)
+- [botwayorg/discord-java](https://github.com/botwayorg/discord-java) - Botway Discord Java Bot Template. (today)
+- [botwayorg/telegram-nim](https://github.com/botwayorg/telegram-nim) - Botway Telegram Nim Bot Template. (today)
+- [botwayorg/discord-nim](https://github.com/botwayorg/discord-nim) - Botway Discord Nim Bot Template. (today)
 
 ### 🔭 Latest releases I've contributed to
 
