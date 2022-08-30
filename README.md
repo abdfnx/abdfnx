@@ -30,8 +30,8 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
 - [botwayorg/discord-csharp](https://github.com/botwayorg/discord-csharp) - Botway Discord C# Bot Template. (1 day ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 day ago)
 - [botwayorg/discord-python](https://github.com/botwayorg/discord-python) - Botway Discord Python Bot Template. (1 week ago)
 - [abdfnx/botway-test-bot](https://github.com/abdfnx/botway-test-bot) - My Awesome bot (1 week ago)
