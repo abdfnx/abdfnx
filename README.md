@@ -30,15 +30,15 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
+- [botwayorg/fleet-docker](https://github.com/botwayorg/fleet-docker) - Fleet Docker Image (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - [Archived] 👊 Human-friendly and amazing secrets manager. (1 day ago)
 - [scmn-dev/core](https://github.com/scmn-dev/core) - 📡️ Backend infrastructure for a password manager products. (forked from scmn-dev/sm-core) (5 days ago)
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - Get the latest repository version. (1 week ago)
-- [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.25.1](https://github.com/denoland/deno/releases/tag/v1.25.1), 1 week ago) - A modern runtime for JavaScript and TypeScript.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.25.2](https://github.com/denoland/deno/releases/tag/v1.25.2), today) - A modern runtime for JavaScript and TypeScript.
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.4](https://github.com/botwayorg/get-latest/releases/tag/v0.1.4), 1 week ago) - Get the latest repository version.
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.9](https://github.com/abdfnx/botway/releases/tag/v0.1.9), 1 week ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.9](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.9), 1 week ago) - Golang client package for Botway.
