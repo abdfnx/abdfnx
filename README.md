@@ -30,9 +30,9 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
 - [scmn-dev/secman](https://github.com/scmn-dev/secman) - [Archived] 👊 Human-friendly and amazing secrets manager. (1 day ago)
 - [scmn-dev/core](https://github.com/scmn-dev/core) - 📡️ Backend infrastructure for a password manager products. (forked from scmn-dev/sm-core) (5 days ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (6 days ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - Get the latest repository version. (1 week ago)
 - [botwayorg/dockerfiles](https://github.com/botwayorg/dockerfiles) - 🐋 Dockerfiles of Botway&#39;s templates. (1 week ago)
 
