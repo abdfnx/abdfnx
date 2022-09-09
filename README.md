@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
+- [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
+- [botwayorg/discord-nodejs-ts](https://github.com/botwayorg/discord-nodejs-ts) - Botway Discord Nodejs (Typescript) Bot Template (today)
 - [botwayorg/fleet-docker](https://github.com/botwayorg/fleet-docker) - Fleet Docker Image (today)
-- [scmn-dev/secman](https://github.com/scmn-dev/secman) - [Archived] 👊 Human-friendly and amazing secrets manager. (1 day ago)
-- [scmn-dev/core](https://github.com/scmn-dev/core) - 📡️ Backend infrastructure for a password manager products. (forked from scmn-dev/sm-core) (5 days ago)
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
 
 ### 🔭 Latest releases I've contributed to
 
