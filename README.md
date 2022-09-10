@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (today)
 - [botwayorg/discord-nodejs-ts](https://github.com/botwayorg/discord-nodejs-ts) - Botway Discord Nodejs (Typescript) Bot Template (today)
-- [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (today)
 - [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (today)
-- [botwayorg/fleet-docker](https://github.com/botwayorg/fleet-docker) - Fleet Docker Image (1 day ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
+- [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (today)
+- [botwayorg/telegram-nodejs](https://github.com/botwayorg/telegram-nodejs) - Botway Telegram Nodejs Bot Template. (today)
 
 ### 🔭 Latest releases I've contributed to
 
