@@ -30,15 +30,15 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (today)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
-- [botwayorg/discord-nodejs-ts](https://github.com/botwayorg/discord-nodejs-ts) - Botway Discord Nodejs (Typescript) Bot Template (today)
-- [botwayorg/fleet-docker](https://github.com/botwayorg/fleet-docker) - Fleet Docker Image (today)
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
+- [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
+- [botwayorg/discord-nodejs-ts](https://github.com/botwayorg/discord-nodejs-ts) - Botway Discord Nodejs (Typescript) Bot Template (1 day ago)
+- [botwayorg/fleet-docker](https://github.com/botwayorg/fleet-docker) - Fleet Docker Image (1 day ago)
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.25.2](https://github.com/denoland/deno/releases/tag/v1.25.2), today) - A modern runtime for JavaScript and TypeScript.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.25.2](https://github.com/denoland/deno/releases/tag/v1.25.2), 1 day ago) - A modern runtime for JavaScript and TypeScript.
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.4](https://github.com/botwayorg/get-latest/releases/tag/v0.1.4), 1 week ago) - Get the latest repository version.
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.9](https://github.com/abdfnx/botway/releases/tag/v0.1.9), 1 week ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.9](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.9), 1 week ago) - Golang client package for Botway.
