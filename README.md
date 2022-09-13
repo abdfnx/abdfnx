@@ -38,8 +38,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.0.11](https://github.com/railwayapp/cli/releases/tag/v2.0.11), today) - Railway CLI
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.3.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.3.0), 3 days ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [denoland/deno](https://github.com/denoland/deno) ([v1.25.2](https://github.com/denoland/deno/releases/tag/v1.25.2), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.4](https://github.com/botwayorg/get-latest/releases/tag/v0.1.4), 1 week ago) - Get the latest repository version.
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.9](https://github.com/abdfnx/botway/releases/tag/v0.1.9), 1 week ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.0.9](https://github.com/abdfnx/botwaygo/releases/tag/v0.0.9), 2 weeks ago) - Golang client package for Botway.
