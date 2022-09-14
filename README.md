@@ -30,16 +30,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [scmn-dev/core](https://github.com/scmn-dev/core) - 📡️ Backend infrastructure for a password manager products. (forked from scmn-dev/sm-core) (1 day ago)
-- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (3 days ago)
-- [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (3 days ago)
-- [botwayorg/telegram-kotlin](https://github.com/botwayorg/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (3 days ago)
-- [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (3 days ago)
+- [scmn-dev/core](https://github.com/scmn-dev/core) - 📡️ Backend infrastructure for a password manager products. (forked from scmn-dev/sm-core) (2 days ago)
+- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (4 days ago)
+- [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (4 days ago)
+- [botwayorg/telegram-kotlin](https://github.com/botwayorg/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (4 days ago)
+- [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.0.11](https://github.com/railwayapp/cli/releases/tag/v2.0.11), today) - Railway CLI
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.3.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.3.0), 3 days ago) - A beautiful CLI dashboard for GitHub 🚀 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.25.2](https://github.com/denoland/deno/releases/tag/v1.25.2), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.0.11](https://github.com/railwayapp/cli/releases/tag/v2.0.11), 1 day ago) - Railway CLI
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.3.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.3.0), 4 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [denoland/deno](https://github.com/denoland/deno) ([v1.25.2](https://github.com/denoland/deno/releases/tag/v1.25.2), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.4](https://github.com/botwayorg/get-latest/releases/tag/v0.1.4), 1 week ago) - Get the latest repository version.
-- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.9](https://github.com/abdfnx/botway/releases/tag/v0.1.9), 1 week ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
+- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.9](https://github.com/abdfnx/botway/releases/tag/v0.1.9), 2 weeks ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
