@@ -30,16 +30,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (2 days ago)
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
 - [scmn-dev/core](https://github.com/scmn-dev/core) - 📡️ Backend infrastructure for a password manager products. (forked from scmn-dev/sm-core) (5 days ago)
-- [botwayorg/discord-java](https://github.com/botwayorg/discord-java) - Botway Discord Java Bot Template. (1 week ago)
-- [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (1 week ago)
+- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (1 week ago)
+- [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.1](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.1), today) - Golang client package for Botway.
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.1.92](https://github.com/abdfnx/botway/releases/tag/v0.1.92), 1 day ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.25.3](https://github.com/denoland/deno/releases/tag/v1.25.3), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.0](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.0), 2 days ago) - Golang client package for Botway.
 - [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.0.11](https://github.com/railwayapp/cli/releases/tag/v2.0.11), 4 days ago) - Railway CLI
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.3.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.3.0), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
