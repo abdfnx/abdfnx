@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botwaycr](https://github.com/abdfnx/botwaycr) - Crystal client package for Botway. (today)
+- [botwayorg/discord-ruby](https://github.com/botwayorg/discord-ruby) - Botway Discord Ruby Bot Template. (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
-- [scmn-dev/core](https://github.com/scmn-dev/core) - 📡️ Backend infrastructure for a password manager products. (forked from scmn-dev/sm-core) (5 days ago)
-- [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (1 week ago)
+- [abdfnx/botwaycr](https://github.com/abdfnx/botwaycr) - Crystal client package for Botway. (today)
+- [botwayorg/telegram-ruby](https://github.com/botwayorg/telegram-ruby) - Botway Telegram Ruby Bot Template. (today)
 
 ### 🔭 Latest releases I've contributed to
 
