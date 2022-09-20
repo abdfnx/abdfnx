@@ -31,9 +31,9 @@
 
 
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
-- [botwayorg/discord-ruby](https://github.com/botwayorg/discord-ruby) - Botway Discord Ruby Bot Template. (3 days ago)
-- [abdfnx/botwaycr](https://github.com/abdfnx/botwaycr) - Crystal client package for Botway. (3 days ago)
+- [botwayorg/fleet-docker](https://github.com/botwayorg/fleet-docker) - Fleet Docker Image (today)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (3 days ago)
+- [botwayorg/discord-ruby](https://github.com/botwayorg/discord-ruby) - Botway Discord Ruby Bot Template. (3 days ago)
 - [botwayorg/telegram-ruby](https://github.com/botwayorg/telegram-ruby) - Botway Telegram Ruby Bot Template. (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
