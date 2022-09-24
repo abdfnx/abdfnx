@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/discord-java](https://github.com/botwayorg/discord-java) - Botway Discord Java Bot Template. (today)
+- [botwayorg/twitch-python](https://github.com/botwayorg/twitch-python) - Botway Twitch Python Bot Template. (today)
+- [botwayorg/discord-nodejs-ts](https://github.com/botwayorg/discord-nodejs-ts) - Botway Discord Nodejs (Typescript) Bot Template (today)
+- [botwayorg/discord-rust](https://github.com/botwayorg/discord-rust) - Botway Discord Rust Bot Template. (today)
 - [botwayorg/telegram-dart](https://github.com/botwayorg/telegram-dart) - Botway Telegram Dart Bot Template. (today)
-- [botwayorg/twitch-nodejs](https://github.com/botwayorg/twitch-nodejs) - Botway Twitch Nodejs Bot Template. (today)
-- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (today)
-- [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (today)
+- [botwayorg/telegram-java](https://github.com/botwayorg/telegram-java) - Botway Telegram Java Bot Template. (today)
 
 ### 🔭 Latest releases I've contributed to
 
