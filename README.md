@@ -30,9 +30,9 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - Get the latest repository version. (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
 - [botwayorg/twitch-python](https://github.com/botwayorg/twitch-python) - Botway Twitch Python Bot Template. (1 day ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (1 day ago)
-- [botwayorg/discord-rust](https://github.com/botwayorg/discord-rust) - Botway Discord Rust Bot Template. (1 day ago)
 - [botwayorg/telegram-dart](https://github.com/botwayorg/telegram-dart) - Botway Telegram Dart Bot Template. (1 day ago)
 - [botwayorg/telegram-java](https://github.com/botwayorg/telegram-java) - Botway Telegram Java Bot Template. (1 day ago)
 
