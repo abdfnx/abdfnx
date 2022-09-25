@@ -31,10 +31,10 @@
 
 
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - Get the latest repository version. (today)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
-- [botwayorg/telegram-dart](https://github.com/botwayorg/telegram-dart) - Botway Telegram Dart Bot Template. (today)
-- [botwayorg/twitch-deno](https://github.com/botwayorg/twitch-deno) - Botway Twitch Deno Bot Template. (today)
 - [botwayorg/discord-dart](https://github.com/botwayorg/discord-dart) - Botway Discord Dart Bot Template. (today)
+- [botwayorg/telegram-dart](https://github.com/botwayorg/telegram-dart) - Botway Telegram Dart Bot Template. (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (today)
+- [botwayorg/twitch-deno](https://github.com/botwayorg/twitch-deno) - Botway Twitch Deno Bot Template. (today)
 
 ### 🔭 Latest releases I've contributed to
 
