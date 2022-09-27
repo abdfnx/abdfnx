@@ -30,11 +30,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (today)
 - [botwayorg/twitch-java](https://github.com/botwayorg/twitch-java) - Botway Twitch Java Bot Template. (1 day ago)
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - Get the latest repository version. (2 days ago)
 - [botwayorg/discord-dart](https://github.com/botwayorg/discord-dart) - Botway Discord Dart Bot Template. (2 days ago)
 - [botwayorg/twitch-deno](https://github.com/botwayorg/twitch-deno) - Botway Twitch Deno Bot Template. (2 days ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack. (2 days ago)
-- [botwayorg/telegram-dart](https://github.com/botwayorg/telegram-dart) - Botway Telegram Dart Bot Template. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
