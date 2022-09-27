@@ -34,7 +34,7 @@
 - [botwayorg/templates](https://github.com/botwayorg/templates) - Botway Templates (today)
 - [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (today)
 - [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (today)
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
 
 ### 🔭 Latest releases I've contributed to
 
