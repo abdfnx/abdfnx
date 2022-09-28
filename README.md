@@ -30,10 +30,10 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/slack-python](https://github.com/botwayorg/slack-python) - Botway Slack Python Bot Template. (1 day ago)
+- [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase docker image (today)
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 day ago)
 - [botwayorg/templates](https://github.com/botwayorg/templates) - Botway Templates (1 day ago)
 - [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (1 day ago)
-- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (1 day ago)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
