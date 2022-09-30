@@ -38,8 +38,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.4.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.1), today) - A beautiful CLI dashboard for GitHub 🚀 
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.2.0](https://github.com/abdfnx/botway/releases/tag/v0.2.0), today) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.26.0](https://github.com/denoland/deno/releases/tag/v1.26.0), 2 days ago) - A modern runtime for JavaScript and TypeScript.
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.4](https://github.com/botwayorg/templates/releases/tag/v0.0.4), 3 days ago) - Botway Templates
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.4.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.0), 3 days ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.2](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.2), 3 days ago) - Golang client package for Botway.
