@@ -32,8 +32,8 @@
 
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (2 days ago)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase docker image (3 days ago)
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (5 days ago)
 - [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (5 days ago)
-- [botwayorg/templates](https://github.com/botwayorg/templates) - Botway Templates (5 days ago)
 - [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
