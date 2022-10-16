@@ -16,6 +16,7 @@
 #### 🔐 Secrets management
 
 - [**secman**](https://github.com/scmn-dev/secman): 👊 Human-friendly and amazing secrets manager.
+- [**secman core**](https://github.com/scmn-dev/core): 📡️ Backend infrastructure for a password manager products. (forked from scmn-dev/sm-core).
 
 #### 📚 Packages/Libraries
 
