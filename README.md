@@ -39,8 +39,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [botwayorg/vitgo](https://github.com/botwayorg/vitgo) ([v0.1.0](https://github.com/botwayorg/vitgo/releases/tag/v0.1.0), today) - Vite &#43; Go &#43; No Deps
 - [denoland/deno](https://github.com/denoland/deno) ([v1.26.2](https://github.com/denoland/deno/releases/tag/v1.26.2), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.4.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.2), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.0.13](https://github.com/railwayapp/cli/releases/tag/v2.0.13), 2 weeks ago) - Railway CLI
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.2.0](https://github.com/abdfnx/botway/releases/tag/v0.2.0), 3 weeks ago) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch.
-- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.4](https://github.com/botwayorg/templates/releases/tag/v0.0.4), 3 weeks ago) - Botway Templates
