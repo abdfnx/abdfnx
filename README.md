@@ -34,8 +34,8 @@
 - [botwayorg/vitgo](https://github.com/botwayorg/vitgo) - Vite &#43; Go &#43; No Deps (1 day ago)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (5 days ago)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase docker image (3 weeks ago)
-- [botwayorg/templates](https://github.com/botwayorg/templates) - Botway Templates (3 weeks ago)
 - [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (3 weeks ago)
+- [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
