@@ -32,8 +32,8 @@
 
 
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
 - [botwayorg/vitgo](https://github.com/botwayorg/vitgo) - Vite &#43; Go &#43; No Deps (1 week ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (2 weeks ago)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase docker image (1 month ago)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 month ago)
 
