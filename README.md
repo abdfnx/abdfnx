@@ -31,16 +31,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - Get the latest repository version. (today)
 - [botwayorg/deno-json](https://github.com/botwayorg/deno-json) - 🦕 Json Reader for Deno (1 day ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (2 days ago)
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (1 week ago)
-- [botwayorg/vitgo](https://github.com/botwayorg/vitgo) - Vite &#43; Go &#43; No Deps (3 weeks ago)
-- [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase docker image (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.5](https://github.com/botwayorg/get-latest/releases/tag/v0.1.5), today) - Get the latest repository version.
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.3), today) - Golang client package for Botway.
 - [botwayorg/deno-json](https://github.com/botwayorg/deno-json) ([v0.0.1](https://github.com/botwayorg/deno-json/releases/tag/v0.0.1), 1 day ago) - 🦕 Json Reader for Deno
 - [denoland/deno](https://github.com/denoland/deno) ([v1.27.2](https://github.com/denoland/deno/releases/tag/v1.27.2), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) ([v0.4.0](https://github.com/abdfnx/gosh/releases/tag/v0.4.0), 1 week ago) - ⌨ A golang library for executing bash &amp; powershell commands easly.
-- [botwayorg/vitgo](https://github.com/botwayorg/vitgo) ([v0.1.0](https://github.com/botwayorg/vitgo/releases/tag/v0.1.0), 3 weeks ago) - Vite &#43; Go &#43; No Deps
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.4.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.2), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
