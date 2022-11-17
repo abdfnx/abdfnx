@@ -31,16 +31,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (4 days ago)
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (4 days ago)
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - Get the latest repository version. (4 days ago)
-- [botwayorg/deno-json](https://github.com/botwayorg/deno-json) - 🦕 Json Reader for Deno (5 days ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (5 days ago)
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (5 days ago)
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - Get the latest repository version. (5 days ago)
+- [botwayorg/deno-json](https://github.com/botwayorg/deno-json) - 🦕 Json Reader for Deno (6 days ago)
 - [abdfnx/gosh](https://github.com/abdfnx/gosh) - ⌨ A golang library for executing bash &amp; powershell commands easly. (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1), 2 days ago) - A beautiful CLI dashboard for GitHub 🚀 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.28.0](https://github.com/denoland/deno/releases/tag/v1.28.0), 3 days ago) - A modern runtime for JavaScript and TypeScript.
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.5](https://github.com/botwayorg/get-latest/releases/tag/v0.1.5), 4 days ago) - Get the latest repository version.
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.3), 4 days ago) - Golang client package for Botway.
-- [botwayorg/deno-json](https://github.com/botwayorg/deno-json) ([v0.0.1](https://github.com/botwayorg/deno-json/releases/tag/v0.0.1), 5 days ago) - 🦕 Json Reader for Deno
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1), 3 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [denoland/deno](https://github.com/denoland/deno) ([v1.28.0](https://github.com/denoland/deno/releases/tag/v1.28.0), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.5](https://github.com/botwayorg/get-latest/releases/tag/v0.1.5), 5 days ago) - Get the latest repository version.
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.3), 5 days ago) - Golang client package for Botway.
+- [botwayorg/deno-json](https://github.com/botwayorg/deno-json) ([v0.0.1](https://github.com/botwayorg/deno-json/releases/tag/v0.0.1), 6 days ago) - 🦕 Json Reader for Deno
