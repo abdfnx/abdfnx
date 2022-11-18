@@ -31,7 +31,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (6 days ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (6 days ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - Get the latest repository version. (6 days ago)
 - [botwayorg/deno-json](https://github.com/botwayorg/deno-json) - 🦕 Json Reader for Deno (1 week ago)
