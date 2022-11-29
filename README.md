@@ -31,11 +31,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/templates](https://github.com/botwayorg/templates) - Botway Templates (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
 - [botwayorg/bwc](https://github.com/botwayorg/bwc) - 📡 Botway Core (1 day ago)
 - [botwayorg/runner](https://github.com/botwayorg/runner) - Botway UI API Runner 📡 (1 day ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
 - [abdfnx/testx](https://github.com/abdfnx/testx) - Created with CodeSandbox (6 days ago)
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
