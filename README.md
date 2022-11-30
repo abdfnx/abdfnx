@@ -31,7 +31,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
 - [botwayorg/templates](https://github.com/botwayorg/templates) - Botway Templates (1 day ago)
 - [botwayorg/twitch-java](https://github.com/botwayorg/twitch-java) - Botway Twitch Java Bot Template. (1 day ago)
 - [botwayorg/runner](https://github.com/botwayorg/runner) - Botway UI API Runner 📡 (2 days ago)
