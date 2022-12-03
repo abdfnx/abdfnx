@@ -40,7 +40,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [denoland/deno](https://github.com/denoland/deno) ([v1.28.3](https://github.com/denoland/deno/releases/tag/v1.28.3), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1), 2 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.5](https://github.com/botwayorg/get-latest/releases/tag/v0.1.5), 3 weeks ago) - Get the latest repository version.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.3), 3 weeks ago) - Golang client package for Botway.
 - [botwayorg/deno-json](https://github.com/botwayorg/deno-json) ([v0.0.1](https://github.com/botwayorg/deno-json/releases/tag/v0.0.1), 3 weeks ago) - 🦕 Json Reader for Deno
+- [abdfnx/gosh](https://github.com/abdfnx/gosh) ([v0.4.0](https://github.com/abdfnx/gosh/releases/tag/v0.4.0), 1 month ago) - ⌨ A golang library for executing bash &amp; powershell commands easly.
