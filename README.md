@@ -31,11 +31,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/twitch-nodejs-ts](https://github.com/botwayorg/twitch-nodejs-ts) - Botway Twitch Nodejs (TypeScript) Bot Template (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 day ago)
 - [botwayorg/templates](https://github.com/botwayorg/templates) - Botway Templates (1 week ago)
 - [botwayorg/twitch-java](https://github.com/botwayorg/twitch-java) - Botway Twitch Java Bot Template. (2 weeks ago)
-- [botwayorg/bwc](https://github.com/botwayorg/bwc) - 📡 Botway Core (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
