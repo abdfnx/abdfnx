@@ -32,7 +32,7 @@
 
 
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - Get the latest repository version. (today)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
 - [botwayorg/runner](https://github.com/botwayorg/runner) - Botway UI API Runner 📡 (4 days ago)
 - [botwayorg/twitch-nodejs-ts](https://github.com/botwayorg/twitch-nodejs-ts) - Botway Twitch Nodejs (TypeScript) Bot Template (1 week ago)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 week ago)
