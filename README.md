@@ -5,6 +5,7 @@
 #### 🤖 Bots
 
 - [**botway**](https://github.com/abdfnx/botway): 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch..
+- [**create-botway-bot**](https://github.com/abdfnx/create-botway-bot): 🏗️ Setup a botway bot.
 
 #### 🖥 TUI
 
