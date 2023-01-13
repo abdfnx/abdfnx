@@ -32,7 +32,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
 - [abdfnx/doko](https://github.com/abdfnx/doko) - 🐳 The docker you know but with TUI. (1 week ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 week ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (1 week ago)
@@ -40,7 +40,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.1.0](https://github.com/railwayapp/cli/releases/tag/v2.1.0), 1 day ago) - Railway CLI
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.1.0](https://github.com/railwayapp/cli/releases/tag/v2.1.0), 2 days ago) - Railway CLI
 - [denoland/deno](https://github.com/denoland/deno) ([v1.29.2](https://github.com/denoland/deno/releases/tag/v1.29.2), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.5](https://github.com/botwayorg/get-latest/releases/tag/v0.1.5), 2 months ago) - Get the latest repository version.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.3), 2 months ago) - Golang client package for Botway.
