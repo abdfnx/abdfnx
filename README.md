@@ -32,16 +32,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/templates](https://github.com/botwayorg/templates) - Botway Templates. (today)
-- [abdfnx/botxyz](https://github.com/abdfnx/botxyz) - My Awesome bot (today)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - Get the latest repository version. (1 day ago)
+- [botwayorg/templates](https://github.com/botwayorg/templates) - Botway Templates. (1 day ago)
+- [abdfnx/botxyz](https://github.com/abdfnx/botxyz) - My Awesome bot (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - Get the latest repository version. (2 days ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.5](https://github.com/botwayorg/templates/releases/tag/v0.0.5), today) - Botway Templates.
-- [denoland/deno](https://github.com/denoland/deno) ([v1.29.3](https://github.com/denoland/deno/releases/tag/v1.29.3), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.61](https://github.com/botwayorg/get-latest/releases/tag/v0.1.61), 1 day ago) - Get the latest repository version.
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.1.0](https://github.com/railwayapp/cli/releases/tag/v2.1.0), 3 days ago) - Railway CLI
+- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.5](https://github.com/botwayorg/templates/releases/tag/v0.0.5), 1 day ago) - Botway Templates.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.29.3](https://github.com/denoland/deno/releases/tag/v1.29.3), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.61](https://github.com/botwayorg/get-latest/releases/tag/v0.1.61), 2 days ago) - Get the latest repository version.
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.1.0](https://github.com/railwayapp/cli/releases/tag/v2.1.0), 4 days ago) - Railway CLI
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.3), 2 months ago) - Golang client package for Botway.
