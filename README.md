@@ -32,16 +32,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/templates](https://github.com/botwayorg/templates) - Botway Templates. (today)
-- [botwayorg/telegram-nodejs](https://github.com/botwayorg/telegram-nodejs) - Botway Telegram Nodejs Bot Template. (today)
-- [botwayorg/twitch-nodejs-ts](https://github.com/botwayorg/twitch-nodejs-ts) - Botway Twitch Nodejs (TypeScript) Bot Template (today)
-- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (today)
 - [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (today)
+- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (today)
+- [botwayorg/twitch-nodejs](https://github.com/botwayorg/twitch-nodejs) - Botway Twitch Nodejs Bot Template. (today)
+- [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (today)
+- [botwayorg/telegram-nodejs](https://github.com/botwayorg/telegram-nodejs) - Botway Telegram Nodejs Bot Template. (today)
 
 ### 🔭 Latest releases I've contributed to
 
-- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.6](https://github.com/botwayorg/templates/releases/tag/v0.0.6), today) - Botway Templates.
+- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.6](https://github.com/botwayorg/templates/releases/tag/v0.0.6), today) - 🎲 Botway Templates.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.29.3](https://github.com/denoland/deno/releases/tag/v1.29.3), 3 days ago) - A modern runtime for JavaScript and TypeScript.
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.61](https://github.com/botwayorg/get-latest/releases/tag/v0.1.61), 3 days ago) - Get the latest repository version.
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.61](https://github.com/botwayorg/get-latest/releases/tag/v0.1.61), 3 days ago) - 🛰️ Get the latest repository version.
 - [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.1.0](https://github.com/railwayapp/cli/releases/tag/v2.1.0), 5 days ago) - Railway CLI
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.3), 2 months ago) - Golang client package for Botway.
