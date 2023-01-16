@@ -32,11 +32,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/discord-nodejs-ts](https://github.com/botwayorg/discord-nodejs-ts) - Botway Discord Nodejs (Typescript) Bot Template (today)
-- [botwayorg/telegram-deno](https://github.com/botwayorg/telegram-deno) - Botway Telegram Deno Bot Template. (today)
-- [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (today)
-- [botwayorg/twitch-deno](https://github.com/botwayorg/twitch-deno) - Botway Twitch Deno Bot Template. (today)
+- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (today)
 - [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (today)
+- [botwayorg/twitch-nodejs](https://github.com/botwayorg/twitch-nodejs) - Botway Twitch Nodejs Bot Template. (today)
+- [botwayorg/discord-deno](https://github.com/botwayorg/discord-deno) - Botway Discord Deno Bot Template. (today)
+- [botwayorg/telegram-nodejs](https://github.com/botwayorg/telegram-nodejs) - Botway Telegram Nodejs Bot Template. (today)
 
 ### 🔭 Latest releases I've contributed to
 
