@@ -32,11 +32,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (1 day ago)
-- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (1 day ago)
-- [botwayorg/twitch-nodejs](https://github.com/botwayorg/twitch-nodejs) - Botway Twitch Nodejs Bot Template. (1 day ago)
-- [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (1 day ago)
-- [botwayorg/telegram-nodejs](https://github.com/botwayorg/telegram-nodejs) - Botway Telegram Nodejs Bot Template. (1 day ago)
+- [botwayorg/app-core](https://github.com/botwayorg/app-core) - 📡 Botway UI App Core (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
+- [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates. (1 day ago)
+- [botwayorg/twitch-deno](https://github.com/botwayorg/twitch-deno) - Botway Twitch Deno Bot Template. (1 day ago)
+- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
