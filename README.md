@@ -35,7 +35,7 @@
 - [botwayorg/slack-nodejs-ts](https://github.com/botwayorg/slack-nodejs-ts) - Botway Slack Nodejs (Typescript) Bot Template (1 day ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (1 day ago)
 - [botwayorg/twitch-nodejs](https://github.com/botwayorg/twitch-nodejs) - Botway Twitch Nodejs Bot Template. (1 day ago)
-- [botwayorg/discord-nodejs-ts](https://github.com/botwayorg/discord-nodejs-ts) - Botway Discord Nodejs (Typescript) Bot Template (1 day ago)
+- [botwayorg/slack-nodejs](https://github.com/botwayorg/slack-nodejs) - Botway Slack Nodejs Bot Template. (1 day ago)
 - [botwayorg/telegram-nodejs](https://github.com/botwayorg/telegram-nodejs) - Botway Telegram Nodejs Bot Template. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
