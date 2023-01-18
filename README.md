@@ -32,16 +32,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/app-core](https://github.com/botwayorg/app-core) - 📡 Botway UI App Core (today)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
-- [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates. (1 day ago)
-- [botwayorg/twitch-deno](https://github.com/botwayorg/twitch-deno) - Botway Twitch Deno Bot Template. (1 day ago)
-- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (1 day ago)
+- [botwayorg/app-core](https://github.com/botwayorg/app-core) - 📡 Botway UI App Core (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
+- [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates. (2 days ago)
+- [botwayorg/twitch-deno](https://github.com/botwayorg/twitch-deno) - Botway Twitch Deno Bot Template. (2 days ago)
+- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.29.4](https://github.com/denoland/deno/releases/tag/v1.29.4), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.6](https://github.com/botwayorg/templates/releases/tag/v0.0.6), 1 day ago) - 🎲 Botway Templates.
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.61](https://github.com/botwayorg/get-latest/releases/tag/v0.1.61), 4 days ago) - 🛰️ Get the latest repository version.
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.1.0](https://github.com/railwayapp/cli/releases/tag/v2.1.0), 6 days ago) - Railway CLI
+- [denoland/deno](https://github.com/denoland/deno) ([v1.29.4](https://github.com/denoland/deno/releases/tag/v1.29.4), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.6](https://github.com/botwayorg/templates/releases/tag/v0.0.6), 2 days ago) - 🎲 Botway Templates.
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.61](https://github.com/botwayorg/get-latest/releases/tag/v0.1.61), 5 days ago) - 🛰️ Get the latest repository version.
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.1.0](https://github.com/railwayapp/cli/releases/tag/v2.1.0), 1 week ago) - Railway CLI
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.3), 2 months ago) - Golang client package for Botway.
