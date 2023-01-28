@@ -32,15 +32,15 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/app-core](https://github.com/botwayorg/app-core) - 📡 Botway UI App Core (4 days ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (4 days ago)
+- [botwayorg/app-core](https://github.com/botwayorg/app-core) - 📡 Botway UI App Core (5 days ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (5 days ago)
 - [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (1 week ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 week ago)
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.30.0](https://github.com/denoland/deno/releases/tag/v1.30.0), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.30.0](https://github.com/denoland/deno/releases/tag/v1.30.0), 2 days ago) - A modern runtime for JavaScript and TypeScript.
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.6](https://github.com/botwayorg/templates/releases/tag/v0.0.6), 1 week ago) - 🎲 Botway Templates.
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.61](https://github.com/botwayorg/get-latest/releases/tag/v0.1.61), 2 weeks ago) - 🛰️ Get the latest repository version.
 - [railwayapp/cli](https://github.com/railwayapp/cli) ([v2.1.0](https://github.com/railwayapp/cli/releases/tag/v2.1.0), 2 weeks ago) - Railway CLI
