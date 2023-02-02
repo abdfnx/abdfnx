@@ -32,11 +32,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/telegram-java](https://github.com/botwayorg/telegram-java) - Botway Telegram Java Bot Template. (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
 - [botwayorg/app-core](https://github.com/botwayorg/app-core) - 📡 Botway UI App Core (1 week ago)
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (2 weeks ago)
 - [botwayorg/resources](https://github.com/botwayorg/resources) - 📚 All Botway templates resources. (2 weeks ago)
-- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (2 weeks ago)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
