@@ -33,8 +33,8 @@
 
 
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
-- [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (today)
 - [abdfnx/botway-lua](https://github.com/abdfnx/botway-lua) - Lua client package for Botway. (today)
+- [botwayorg/app-core](https://github.com/botwayorg/app-core) - 📡 Botway UI App Core (today)
 - [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates. (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
 
