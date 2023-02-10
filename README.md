@@ -36,7 +36,7 @@
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 week ago)
 - [botwayorg/app-core](https://github.com/botwayorg/app-core) - 📡 Botway UI App Core (1 week ago)
 - [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates. (1 week ago)
-- [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (1 week ago)
+- [abdfnx/botwaycr](https://github.com/abdfnx/botwaycr) - Crystal client package for Botway. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
