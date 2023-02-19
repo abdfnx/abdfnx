@@ -32,7 +32,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (6 days ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 week ago)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (2 weeks ago)
 - [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (2 weeks ago)
 - [botwayorg/app-core](https://github.com/botwayorg/app-core) - 📡 Botway UI App Core (2 weeks ago)
