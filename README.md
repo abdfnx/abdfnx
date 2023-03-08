@@ -40,7 +40,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v3.0.6](https://github.com/railwayapp/cli/releases/tag/v3.0.6), 2 days ago) - Railway CLI
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v3.0.7](https://github.com/railwayapp/cli/releases/tag/v3.0.7), today) - Railway CLI
 - [denoland/deno](https://github.com/denoland/deno) ([v1.31.1](https://github.com/denoland/deno/releases/tag/v1.31.1), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.6](https://github.com/botwayorg/templates/releases/tag/v0.0.6), 1 month ago) - 🎲 Botway Templates.
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.61](https://github.com/botwayorg/get-latest/releases/tag/v0.1.61), 1 month ago) - 🛰️ Get the latest repository version.
