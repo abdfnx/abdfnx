@@ -40,7 +40,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v3.0.13](https://github.com/railwayapp/cli/releases/tag/v3.0.13), 4 days ago) - Railway CLI
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v3.0.13](https://github.com/railwayapp/cli/releases/tag/v3.0.13), 5 days ago) - Railway CLI
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.6](https://github.com/botwayorg/templates/releases/tag/v0.0.6), 2 months ago) - 🎲 Botway Templates.
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.61](https://github.com/botwayorg/get-latest/releases/tag/v0.1.61), 2 months ago) - 🛰️ Get the latest repository version.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.3), 4 months ago) - Golang client package for Botway.
