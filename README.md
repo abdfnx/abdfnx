@@ -32,16 +32,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates. (today)
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase docker image (today)
+- [botwayorg/app-core](https://github.com/botwayorg/app-core) - 📡 Botway UI App Core (today)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (today)
-- [botwayorg/telegram-java](https://github.com/botwayorg/telegram-java) - Botway Telegram Java Bot Template. (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.7](https://github.com/botwayorg/get-latest/releases/tag/v0.1.7), today) - 🛰️ Get the latest repository version.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.4](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.4), today) - Golang client package for Botway.
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.7](https://github.com/botwayorg/templates/releases/tag/v0.0.7), today) - 🎲 Botway Templates.
 - [railwayapp/cli](https://github.com/railwayapp/cli) ([v3.0.19](https://github.com/railwayapp/cli/releases/tag/v3.0.19), 5 days ago) - Railway CLI
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.61](https://github.com/botwayorg/get-latest/releases/tag/v0.1.61), 2 months ago) - 🛰️ Get the latest repository version.
 - [botwayorg/deno-json](https://github.com/botwayorg/deno-json) ([v0.0.1](https://github.com/botwayorg/deno-json/releases/tag/v0.0.1), 4 months ago) - 🦕 Json Reader for Deno
