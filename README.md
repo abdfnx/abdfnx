@@ -32,15 +32,15 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/twitch-java](https://github.com/botwayorg/twitch-java) - Botway Twitch Java Bot Template. (today)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
-- [botwayorg/telegram-java](https://github.com/botwayorg/telegram-java) - Botway Telegram Java Bot Template. (today)
-- [botwayorg/discord-java](https://github.com/botwayorg/discord-java) - Botway Discord Java Bot Template. (1 day ago)
-- [botwayorg/telegram-kotlin](https://github.com/botwayorg/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (1 day ago)
+- [botwayorg/twitch-java](https://github.com/botwayorg/twitch-java) - Botway Twitch Java Bot Template. (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
+- [botwayorg/telegram-java](https://github.com/botwayorg/telegram-java) - Botway Telegram Java Bot Template. (1 day ago)
+- [botwayorg/discord-java](https://github.com/botwayorg/discord-java) - Botway Discord Java Bot Template. (2 days ago)
+- [botwayorg/telegram-kotlin](https://github.com/botwayorg/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v3.0.19](https://github.com/railwayapp/cli/releases/tag/v3.0.19), 4 days ago) - Railway CLI
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v3.0.19](https://github.com/railwayapp/cli/releases/tag/v3.0.19), 5 days ago) - Railway CLI
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.6](https://github.com/botwayorg/templates/releases/tag/v0.0.6), 2 months ago) - 🎲 Botway Templates.
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.61](https://github.com/botwayorg/get-latest/releases/tag/v0.1.61), 2 months ago) - 🛰️ Get the latest repository version.
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.3](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.3), 4 months ago) - Golang client package for Botway.
