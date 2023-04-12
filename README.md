@@ -32,15 +32,15 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (2 days ago)
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (6 days ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (3 days ago)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 week ago)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase docker image (1 week ago)
 - [botwayorg/app-core](https://github.com/botwayorg/app-core) - 📡 Botway UI App Core (1 week ago)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v3.0.21](https://github.com/railwayapp/cli/releases/tag/v3.0.21), 3 days ago) - Railway CLI
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v3.0.21](https://github.com/railwayapp/cli/releases/tag/v3.0.21), 4 days ago) - Railway CLI
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.7](https://github.com/botwayorg/get-latest/releases/tag/v0.1.7), 1 week ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.4](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.4), 1 week ago) - Golang client package for Botway.
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.7](https://github.com/botwayorg/templates/releases/tag/v0.0.7), 1 week ago) - 🎲 Botway Templates.
