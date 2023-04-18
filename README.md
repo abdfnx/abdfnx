@@ -32,7 +32,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (4 days ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 week ago)
 - [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates. (2 weeks ago)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase docker image (2 weeks ago)
