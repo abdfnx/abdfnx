@@ -33,10 +33,10 @@
 
 
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP &amp; API requests with TUI (today)
+- [botwayorg/integrations](https://github.com/botwayorg/integrations) - 📦 Botway Integrations (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (3 days ago)
 - [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates. (3 weeks ago)
-- [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase docker image (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
