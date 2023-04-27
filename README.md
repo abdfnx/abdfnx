@@ -32,11 +32,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/mindsdb-docker](https://github.com/botwayorg/mindsdb-docker) - MindsDB Docker Image (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
-- [botwayorg/mindsdb-docker](https://github.com/botwayorg/mindsdb-docker) - MindsDB Docker Image (1 day ago)
 - [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (1 day ago)
 - [botwayorg/telegram-java](https://github.com/botwayorg/telegram-java) - Botway Telegram Java Bot Template. (2 days ago)
-- [botwayorg/telegram-kotlin](https://github.com/botwayorg/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (2 days ago)
+- [botwayorg/discord-java](https://github.com/botwayorg/discord-java) - Botway Discord Java Bot Template. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
