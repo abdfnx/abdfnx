@@ -32,10 +32,10 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/strg](https://github.com/botwayorg/strg) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account (1 day ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (4 days ago)
-- [botwayorg/mindsdb-docker](https://github.com/botwayorg/mindsdb-docker) - MindsDB Docker Image (4 days ago)
+- [botwayorg/strg](https://github.com/botwayorg/strg) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account (today)
 - [botwayorg/mage-ai-docker](https://github.com/botwayorg/mage-ai-docker) - Mage AI Docker Image (4 days ago)
+- [botwayorg/mindsdb-docker](https://github.com/botwayorg/mindsdb-docker) - MindsDB Docker Image (4 days ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (4 days ago)
 - [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
