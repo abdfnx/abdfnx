@@ -32,16 +32,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/strg](https://github.com/botwayorg/strg) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account (today)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (3 days ago)
-- [botwayorg/mindsdb-docker](https://github.com/botwayorg/mindsdb-docker) - MindsDB Docker Image (3 days ago)
-- [botwayorg/mage-ai-docker](https://github.com/botwayorg/mage-ai-docker) - Mage AI Docker Image (3 days ago)
-- [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (4 days ago)
+- [botwayorg/strg](https://github.com/botwayorg/strg) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (4 days ago)
+- [botwayorg/mindsdb-docker](https://github.com/botwayorg/mindsdb-docker) - MindsDB Docker Image (4 days ago)
+- [botwayorg/mage-ai-docker](https://github.com/botwayorg/mage-ai-docker) - Mage AI Docker Image (4 days ago)
+- [botwayorg/discord-kotlin](https://github.com/botwayorg/discord-kotlin) - Botway Discord Kotlin Bot Template. (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [railwayapp/cli](https://github.com/railwayapp/cli) ([v3.3.1](https://github.com/railwayapp/cli/releases/tag/v3.3.1), 3 days ago) - Railway CLI
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.7](https://github.com/botwayorg/get-latest/releases/tag/v0.1.7), 4 weeks ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.4](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.4), 4 weeks ago) - Golang client package for Botway.
-- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.7](https://github.com/botwayorg/templates/releases/tag/v0.0.7), 4 weeks ago) - 🎲 Botway Templates.
+- [railwayapp/cli](https://github.com/railwayapp/cli) ([v3.3.1](https://github.com/railwayapp/cli/releases/tag/v3.3.1), 4 days ago) - Railway CLI
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.7](https://github.com/botwayorg/get-latest/releases/tag/v0.1.7), 1 month ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.4](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.4), 1 month ago) - Golang client package for Botway.
+- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.0.7](https://github.com/botwayorg/templates/releases/tag/v0.0.7), 1 month ago) - 🎲 Botway Templates.
 - [botwayorg/deno-json](https://github.com/botwayorg/deno-json) ([v0.0.1](https://github.com/botwayorg/deno-json/releases/tag/v0.0.1), 5 months ago) - 🦕 Json Reader for Deno
