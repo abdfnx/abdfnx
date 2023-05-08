@@ -35,8 +35,8 @@
 - [botwayorg/strg](https://github.com/botwayorg/strg) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account (today)
 - [botwayorg/gh-cli](https://github.com/botwayorg/gh-cli) - Install GitHub CLI using npm (1 day ago)
 - [botwayorg/strg-legacy](https://github.com/botwayorg/strg-legacy) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account (2 days ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 week ago)
 - [botwayorg/mindsdb-docker](https://github.com/botwayorg/mindsdb-docker) - MindsDB Docker Image (1 week ago)
+- [botwayorg/mage-ai-docker](https://github.com/botwayorg/mage-ai-docker) - Mage AI Docker Image (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
