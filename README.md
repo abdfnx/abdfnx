@@ -32,7 +32,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/strg](https://github.com/botwayorg/strg) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account (1 day ago)
+- [botwayorg/strg](https://github.com/botwayorg/strg) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account (today)
 - [botwayorg/gh-cmd](https://github.com/botwayorg/gh-cmd) - Install GitHub CLI using npm (1 day ago)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (1 day ago)
 - [botwayorg/strg-legacy](https://github.com/botwayorg/strg-legacy) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account (4 days ago)
