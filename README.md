@@ -37,7 +37,7 @@
 
 
 - [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (today)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
 - [botwayorg/strg](https://github.com/botwayorg/strg) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account (1 week ago)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (1 week ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (2 weeks ago)
