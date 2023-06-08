@@ -36,11 +36,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/telegram-java](https://github.com/botwayorg/telegram-java) - Botway Telegram Java Bot Template. (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (5 days ago)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (6 days ago)
 - [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (1 week ago)
 - [botwayorg/strg](https://github.com/botwayorg/strg) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account (2 weeks ago)
-- [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
