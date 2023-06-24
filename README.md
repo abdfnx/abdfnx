@@ -29,16 +29,12 @@
 
 - [**gomo**](https://github.com/abdfnx/gomo): 📐 Simple Golang multi modules tool.
 
-#### 🐳 Docker
-
-- [**strg**](https://github.com/botwayorg/strg): 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account.
-
 ### 🏗️ Check out what I'm currently working on
 
 
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (today)
 - [abdfnx/botway-I-2X](https://github.com/abdfnx/botway-I-2X) -  (1 day ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (2 weeks ago)
 - [botwayorg/telegram-java](https://github.com/botwayorg/telegram-java) - Botway Telegram Java Bot Template. (2 weeks ago)
 
