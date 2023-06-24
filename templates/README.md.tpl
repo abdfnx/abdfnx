@@ -29,10 +29,6 @@
 
 - [**gomo**](https://github.com/abdfnx/gomo): 📐 Simple Golang multi modules tool.
 
-#### 🐳 Docker
-
-- [**strg**](https://github.com/botwayorg/strg): 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account.
-
 ### 🏗️ Check out what I'm currently working on
 
 {{range recentContributions 5}}
