@@ -36,11 +36,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (2 weeks ago)
 - [botwayorg/telegram-java](https://github.com/botwayorg/telegram-java) - Botway Telegram Java Bot Template. (2 weeks ago)
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) - Golang client package for Botway. (3 weeks ago)
-- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
