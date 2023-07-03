@@ -33,9 +33,9 @@
 
 
 - [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates Handler (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
 - [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (2 days ago)
 - [botwayorg/demo-templates](https://github.com/botwayorg/demo-templates) - Demo Templates (2 days ago)
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (2 days ago)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
