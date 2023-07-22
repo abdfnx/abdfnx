@@ -34,13 +34,13 @@
 
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 week ago)
 - [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates Handler (2 weeks ago)
-- [botwayorg/demo-templates](https://github.com/botwayorg/demo-templates) - Demo Templates (2 weeks ago)
-- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (2 weeks ago)
-- [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (3 weeks ago)
+- [botwayorg/demo-templates](https://github.com/botwayorg/demo-templates) - Demo Templates (3 weeks ago)
+- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (3 weeks ago)
+- [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (4 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.1.0](https://github.com/botwayorg/templates/releases/tag/v0.1.0), 2 weeks ago) - 🎲 Botway Templates Handler
+- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.1.0](https://github.com/botwayorg/templates/releases/tag/v0.1.0), 3 weeks ago) - 🎲 Botway Templates Handler
 - [botwayorg/strg](https://github.com/botwayorg/strg) ([v0.1.4](https://github.com/botwayorg/strg/releases/tag/v0.1.4), 2 months ago) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.7](https://github.com/botwayorg/get-latest/releases/tag/v0.1.7), 3 months ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.4](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.4), 3 months ago) - Golang client package for Botway.
