@@ -32,11 +32,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
-- [botwayorg/discord-nodejs-ts](https://github.com/botwayorg/discord-nodejs-ts) - Botway Discord Nodejs (Typescript) Bot Template (2 days ago)
-- [abdfnx/botway-lua](https://github.com/abdfnx/botway-lua) - Lua client package for Botway. (2 days ago)
-- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (2 days ago)
-- [botwayorg/demo-templates](https://github.com/botwayorg/demo-templates) - Demo Templates (2 days ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
+- [botwayorg/discord-nodejs-ts](https://github.com/botwayorg/discord-nodejs-ts) - Botway Discord Nodejs (Typescript) Bot Template (3 days ago)
+- [abdfnx/botway-lua](https://github.com/abdfnx/botway-lua) - Lua client package for Botway. (3 days ago)
+- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (3 days ago)
+- [botwayorg/demo-templates](https://github.com/botwayorg/demo-templates) - Demo Templates (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -44,4 +44,4 @@
 - [botwayorg/strg](https://github.com/botwayorg/strg) ([v0.1.4](https://github.com/botwayorg/strg/releases/tag/v0.1.4), 2 months ago) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.7](https://github.com/botwayorg/get-latest/releases/tag/v0.1.7), 4 months ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.4](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.4), 4 months ago) - Golang client package for Botway.
-- [botwayorg/deno-json](https://github.com/botwayorg/deno-json) ([v0.0.1](https://github.com/botwayorg/deno-json/releases/tag/v0.0.1), 8 months ago) - 🦕 Json Reader for Deno
+- [botwayorg/deno-json](https://github.com/botwayorg/deno-json) ([v0.0.1](https://github.com/botwayorg/deno-json/releases/tag/v0.0.1), 9 months ago) - 🦕 Json Reader for Deno
