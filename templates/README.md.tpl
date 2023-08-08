@@ -23,7 +23,7 @@
 
 - [**gosh**](https://github.com/abdfnx/gosh): ⌨ A golang library for executing bash & powershell commands easly.
 - [**looker**](https://github.com/abdfnx/looker): 🔍 find app path and print it.
-- [**get-latest**](https://github.com/scmn-dev/get-latest): Get the latest repository version.
+- [**get-latest**](https://github.com/scmn-dev/get-latest): 🛰️ Get the latest repository version. Written in Deno Fresh.
 
 #### 💻 CLI Tools 
 
