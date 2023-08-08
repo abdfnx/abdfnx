@@ -23,7 +23,7 @@
 
 - [**gosh**](https://github.com/abdfnx/gosh): ⌨ A golang library for executing bash & powershell commands easly.
 - [**looker**](https://github.com/abdfnx/looker): 🔍 find app path and print it.
-- [**get-latest**](https://github.com/scmn-dev/get-latest): Get the latest repository version.
+- [**get-latest**](https://github.com/scmn-dev/get-latest): 🛰️ Get the latest repository version. Written in Deno Fresh.
 
 #### 💻 CLI Tools 
 
@@ -34,9 +34,9 @@
 
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (today)
 - [botwayorg/demo-templates](https://github.com/botwayorg/demo-templates) - Demo Templates (today)
-- [abdfnx-cemetery/soketi](https://github.com/abdfnx-cemetery/soketi) - Soketi on Botway (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
 - [zeabur/cli](https://github.com/zeabur/cli) - Zeabur&#39;s official command line tool (1 day ago)
+- [abdfnx/botway-lua](https://github.com/abdfnx/botway-lua) - Lua client package for Botway. (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
