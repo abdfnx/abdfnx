@@ -33,8 +33,8 @@
 
 
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (today)
-- [botwayorg/soketi](https://github.com/botwayorg/soketi) - Soketi on Botway (today)
 - [botwayorg/demo-templates](https://github.com/botwayorg/demo-templates) - Demo Templates (today)
+- [abdfnx-cemetery/soketi](https://github.com/abdfnx-cemetery/soketi) - Soketi on Botway (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
 - [zeabur/cli](https://github.com/zeabur/cli) - Zeabur&#39;s official command line tool (1 day ago)
 
