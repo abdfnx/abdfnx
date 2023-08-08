@@ -32,11 +32,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/n8n](https://github.com/botwayorg/n8n) - N8N on Botway (today)
 - [zeabur/cli](https://github.com/zeabur/cli) - Zeabur&#39;s official command line tool (1 day ago)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
-- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (3 days ago)
 - [botwayorg/discord-nodejs-ts](https://github.com/botwayorg/discord-nodejs-ts) - Botway Discord Nodejs (Typescript) Bot Template (3 days ago)
-- [abdfnx/botway-lua](https://github.com/abdfnx/botway-lua) - Lua client package for Botway. (3 days ago)
+- [botwayorg/discord-nodejs](https://github.com/botwayorg/discord-nodejs) - Botway Discord Nodejs Bot Template. (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
