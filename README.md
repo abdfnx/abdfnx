@@ -35,8 +35,8 @@
 - [botway-templates/discord-csharp](https://github.com/botway-templates/discord-csharp) - Botway Discord C# Bot Template. (today)
 - [botway-templates/.github](https://github.com/botway-templates/.github) - :octocat: Default @botway-templates metadata (today)
 - [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates Handler (1 day ago)
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (3 days ago)
 - [botwayorg/demo-templates](https://github.com/botwayorg/demo-templates) - Demo Templates (3 days ago)
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
