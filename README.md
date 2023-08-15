@@ -32,16 +32,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botway-templates/.github](https://github.com/botway-templates/.github) - :octocat: Default @botway-templates metadata (3 days ago)
-- [botway-templates/discord-csharp](https://github.com/botway-templates/discord-csharp) - Botway Discord C# Bot Template. (3 days ago)
-- [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates Handler (4 days ago)
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (6 days ago)
-- [botwayorg/demo-templates](https://github.com/botwayorg/demo-templates) - Demo Templates (6 days ago)
+- [botway-templates/.github](https://github.com/botway-templates/.github) - :octocat: Default @botway-templates metadata (4 days ago)
+- [botway-templates/discord-csharp](https://github.com/botway-templates/discord-csharp) - Botway Discord C# Bot Template. (4 days ago)
+- [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates Handler (5 days ago)
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (1 week ago)
+- [botwayorg/demo-templates](https://github.com/botwayorg/demo-templates) - Demo Templates (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.5](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.5), 4 days ago) - Golang client package for Botway.
-- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.1.1](https://github.com/botwayorg/templates/releases/tag/v0.1.1), 4 days ago) - 🎲 Botway Templates Handler
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.8](https://github.com/botwayorg/get-latest/releases/tag/v0.1.8), 6 days ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
+- [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.5](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.5), 5 days ago) - Golang client package for Botway.
+- [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.1.1](https://github.com/botwayorg/templates/releases/tag/v0.1.1), 5 days ago) - 🎲 Botway Templates Handler
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.8](https://github.com/botwayorg/get-latest/releases/tag/v0.1.8), 1 week ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
 - [zeabur/cli](https://github.com/zeabur/cli) ([v0.0.2](https://github.com/zeabur/cli/releases/tag/v0.0.2), 1 week ago) - Zeabur&#39;s official command line tool
 - [botwayorg/strg](https://github.com/botwayorg/strg) ([v0.1.4](https://github.com/botwayorg/strg/releases/tag/v0.1.4), 2 months ago) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account
