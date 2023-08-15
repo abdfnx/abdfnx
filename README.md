@@ -32,11 +32,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botway-templates/.github](https://github.com/botway-templates/.github) - :octocat: Default @botway-templates metadata (4 days ago)
+- [zeabur/cli](https://github.com/zeabur/cli) - Zeabur&#39;s official command line tool (1 day ago)
 - [botway-templates/discord-csharp](https://github.com/botway-templates/discord-csharp) - Botway Discord C# Bot Template. (4 days ago)
+- [botway-templates/.github](https://github.com/botway-templates/.github) - :octocat: Default @botway-templates metadata (4 days ago)
 - [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates Handler (5 days ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (1 week ago)
-- [botwayorg/demo-templates](https://github.com/botwayorg/demo-templates) - Demo Templates (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
