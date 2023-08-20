@@ -35,8 +35,8 @@
 - [zeabur/cli](https://github.com/zeabur/cli) - Zeabur&#39;s official command line tool (1 day ago)
 - [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (1 day ago)
 - [zeabur/zeabur](https://github.com/zeabur/zeabur) - A platform that helps you deploy services with one click. (3 days ago)
-- [botway-templates/discord-csharp](https://github.com/botway-templates/discord-csharp) - Botway Discord C# Bot Template. (1 week ago)
 - [botway-templates/.github](https://github.com/botway-templates/.github) - :octocat: Default @botway-templates metadata (1 week ago)
+- [botway-templates/discord-csharp](https://github.com/botway-templates/discord-csharp) - Botway Discord C# Bot Template. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
