@@ -32,9 +32,9 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
-- [zeabur/cli](https://github.com/zeabur/cli) - Zeabur&#39;s official command line tool (1 week ago)
-- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (1 week ago)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 day ago)
+- [zeabur/cli](https://github.com/zeabur/cli) - Zeabur&#39;s official command line tool (2 weeks ago)
+- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (2 weeks ago)
 - [zeabur/zeabur](https://github.com/zeabur/zeabur) - A platform that helps you deploy services with one click. (2 weeks ago)
 - [botway-templates/.github](https://github.com/botway-templates/.github) - :octocat: Default @botway-templates metadata (3 weeks ago)
 
