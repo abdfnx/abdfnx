@@ -33,8 +33,8 @@
 
 
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 week ago)
-- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (4 weeks ago)
-- [zeabur/cli](https://github.com/zeabur/cli) - Zeabur&#39;s official command line tool (4 weeks ago)
+- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (1 month ago)
+- [zeabur/cli](https://github.com/zeabur/cli) - Zeabur&#39;s official command line tool (1 month ago)
 - [zeabur/zeabur](https://github.com/zeabur/zeabur) - A platform that helps you deploy services with one click. (1 month ago)
 - [botway-templates/discord-csharp](https://github.com/botway-templates/discord-csharp) - Botway Discord C# Bot Template. (1 month ago)
 
@@ -44,4 +44,4 @@
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.5](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.5), 1 month ago) - Golang client package for Botway.
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.1.1](https://github.com/botwayorg/templates/releases/tag/v0.1.1), 1 month ago) - 🎲 Botway Templates Handler
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.8](https://github.com/botwayorg/get-latest/releases/tag/v0.1.8), 1 month ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
-- [botwayorg/strg](https://github.com/botwayorg/strg) ([v0.1.4](https://github.com/botwayorg/strg/releases/tag/v0.1.4), 3 months ago) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account
+- [botwayorg/strg](https://github.com/botwayorg/strg) ([v0.1.4](https://github.com/botwayorg/strg/releases/tag/v0.1.4), 4 months ago) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account
