@@ -32,11 +32,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates Handler (4 days ago)
+- [botwayorg/templates](https://github.com/botwayorg/templates) - 🎲 Botway Templates Handler (5 days ago)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (2 weeks ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (2 weeks ago)
-- [zeabur/cli](https://github.com/zeabur/cli) - Zeabur&#39;s official command line tool (1 month ago)
-- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (1 month ago)
+- [zeabur/cli](https://github.com/zeabur/cli) - Zeabur&#39;s official command line tool (2 months ago)
+- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -44,4 +44,4 @@
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.5](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.5), 2 months ago) - Golang client package for Botway.
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.1.1](https://github.com/botwayorg/templates/releases/tag/v0.1.1), 2 months ago) - 🎲 Botway Templates Handler
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.8](https://github.com/botwayorg/get-latest/releases/tag/v0.1.8), 2 months ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
-- [botwayorg/strg](https://github.com/botwayorg/strg) ([v0.1.4](https://github.com/botwayorg/strg/releases/tag/v0.1.4), 4 months ago) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account
+- [botwayorg/strg](https://github.com/botwayorg/strg) ([v0.1.4](https://github.com/botwayorg/strg/releases/tag/v0.1.4), 5 months ago) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account
