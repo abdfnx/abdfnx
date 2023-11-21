@@ -32,16 +32,16 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (today)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (today)
-- [botway-templates/telegram-java](https://github.com/botway-templates/telegram-java) - Botway Telegram Java Bot Template. (3 weeks ago)
 - [botway-templates/twitch-java](https://github.com/botway-templates/twitch-java) - Botway Twitch Java Bot Template. (3 weeks ago)
+- [botway-templates/telegram-java](https://github.com/botway-templates/telegram-java) - Botway Telegram Java Bot Template. (3 weeks ago)
 - [botway-templates/discord-kotlin](https://github.com/botway-templates/discord-kotlin) - Botway Discord Kotlin Bot Template. (3 weeks ago)
-- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.2.0](https://github.com/botwayorg/get-latest/releases/tag/v0.2.0), today) - 🛰️ Get the latest repository version. Written in Deno Fresh
 - [zeabur/cli](https://github.com/zeabur/cli) ([v0.0.6](https://github.com/zeabur/cli/releases/tag/v0.0.6), 2 months ago) - Zeabur&#39;s official command line tool
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.5](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.5), 3 months ago) - Golang client package for Botway.
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.1.1](https://github.com/botwayorg/templates/releases/tag/v0.1.1), 3 months ago) - 🎲 Botway Templates Handler
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.1.8](https://github.com/botwayorg/get-latest/releases/tag/v0.1.8), 3 months ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
 - [botwayorg/strg](https://github.com/botwayorg/strg) ([v0.1.4](https://github.com/botwayorg/strg/releases/tag/v0.1.4), 6 months ago) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account
