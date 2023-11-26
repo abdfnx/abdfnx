@@ -34,8 +34,8 @@
 
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (3 days ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (5 days ago)
-- [botway-templates/twitch-java](https://github.com/botway-templates/twitch-java) - Botway Twitch Java Bot Template. (3 weeks ago)
 - [botway-templates/telegram-java](https://github.com/botway-templates/telegram-java) - Botway Telegram Java Bot Template. (3 weeks ago)
+- [botway-templates/twitch-java](https://github.com/botway-templates/twitch-java) - Botway Twitch Java Bot Template. (3 weeks ago)
 - [botway-templates/discord-kotlin](https://github.com/botway-templates/discord-kotlin) - Botway Discord Kotlin Bot Template. (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
