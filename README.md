@@ -32,7 +32,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botway-templates/vs-templates](https://github.com/botway-templates/vs-templates) - Templates for Botway Visual (2 days ago)
+- [botway-templates/vs-templates](https://github.com/botway-templates/vs-templates) - Templates for Botway Visual (3 days ago)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (1 week ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (1 week ago)
 - [botway-templates/telegram-java](https://github.com/botway-templates/telegram-java) - Botway Telegram Java Bot Template. (1 month ago)
