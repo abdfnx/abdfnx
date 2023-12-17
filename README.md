@@ -44,4 +44,4 @@
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.2.0](https://github.com/botwayorg/get-latest/releases/tag/v0.2.0), 3 weeks ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.5](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.5), 4 months ago) - Golang client package for Botway.
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.1.1](https://github.com/botwayorg/templates/releases/tag/v0.1.1), 4 months ago) - 🎲 Botway Templates Handler
-- [botwayorg/strg](https://github.com/botwayorg/strg) ([v0.1.4](https://github.com/botwayorg/strg/releases/tag/v0.1.4), 6 months ago) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account
+- [botwayorg/strg](https://github.com/botwayorg/strg) ([v0.1.4](https://github.com/botwayorg/strg/releases/tag/v0.1.4), 7 months ago) - 📦 A persistent storage solution that syncs database files located in a Docker container under your GitHub account
