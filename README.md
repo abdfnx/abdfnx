@@ -32,11 +32,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [logx-ai/log-stats](https://github.com/logx-ai/log-stats) - LogX Stats Handler 📊 (today)
 - [botway-templates/vs-templates](https://github.com/botway-templates/vs-templates) - Templates for Botway Visual (2 months ago)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch. (2 months ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (2 months ago)
-- [botway-templates/telegram-java](https://github.com/botway-templates/telegram-java) - Botway Telegram Java Bot Template. (3 months ago)
-- [botway-templates/discord-kotlin](https://github.com/botway-templates/discord-kotlin) - Botway Discord Kotlin Bot Template. (3 months ago)
+- [botway-templates/twitch-java](https://github.com/botway-templates/twitch-java) - Botway Twitch Java Bot Template. (3 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
