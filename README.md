@@ -40,7 +40,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [zeabur/cli](https://github.com/zeabur/cli) ([v0.2.2](https://github.com/zeabur/cli/releases/tag/v0.2.2), 4 days ago) - Zeabur&#39;s official command line tool
+- [zeabur/cli](https://github.com/zeabur/cli) ([v0.2.2-beta1](https://github.com/zeabur/cli/releases/tag/v0.2.2-beta1), today) - Zeabur&#39;s official command line tool
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.2.0](https://github.com/botwayorg/get-latest/releases/tag/v0.2.0), 2 months ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
 - [abdfnx/botwaygo](https://github.com/abdfnx/botwaygo) ([v0.1.5](https://github.com/abdfnx/botwaygo/releases/tag/v0.1.5), 6 months ago) - Golang client package for Botway.
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.1.1](https://github.com/botwayorg/templates/releases/tag/v0.1.1), 6 months ago) - 🎲 Botway Templates Handler
