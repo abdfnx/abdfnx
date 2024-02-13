@@ -2,9 +2,13 @@
 
 ### ⌨️ Projects
 
+#### ✨ AI
+
+- [**logx**](https://lx.hop.sh): 🌴 A Math Project about Logarithms With AI, You can Build Data analytics, you can Create Researches with AI using LogSearch, you can Chat with LogAI, and more.
+
 #### 🤖 Bots
 
-- [**botway**](https://github.com/abdfnx/botway): 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch.
+- [**botway**](https://github.com/abdfnx/botway): 🤖 Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack.
 - [**create-botway-bot**](https://github.com/abdfnx/create-botway-bot): 🏗️ Setup a botway bot.
 
 #### 🖥 TUI
