@@ -29,7 +29,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack (today)
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack (1 day ago)
 - [botway-templates/vs-templates](https://github.com/botway-templates/vs-templates) - Templates for Botway Visual (3 months ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (3 months ago)
 - [botway-templates/twitch-java](https://github.com/botway-templates/twitch-java) - Botway Twitch Java Bot Template. (4 months ago)
