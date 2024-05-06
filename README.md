@@ -33,7 +33,7 @@
 - [botway-templates/vs-templates](https://github.com/botway-templates/vs-templates) - Templates for Botway Visual (5 months ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (5 months ago)
 - [botway-templates/twitch-java](https://github.com/botway-templates/twitch-java) - Botway Twitch Java Bot Template. (6 months ago)
-- [botway-templates/discord-kotlin](https://github.com/botway-templates/discord-kotlin) - Botway Discord Kotlin Bot Template. (6 months ago)
+- [botway-templates/telegram-java](https://github.com/botway-templates/telegram-java) - Botway Telegram Java Bot Template. (6 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
