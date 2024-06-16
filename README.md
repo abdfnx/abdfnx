@@ -29,11 +29,11 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (today)
 - [logx-ai/research-ai](https://github.com/logx-ai/research-ai) - Make your own Academic Research using AI ✨ (1 week ago)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack (1 month ago)
 - [botway-templates/vs-templates](https://github.com/botway-templates/vs-templates) - Templates for Botway Visual (6 months ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (6 months ago)
-- [botway-templates/twitch-java](https://github.com/botway-templates/twitch-java) - Botway Twitch Java Bot Template. (7 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
