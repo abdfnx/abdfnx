@@ -4,7 +4,7 @@
 
 #### ✨ AI & Bots
 
-- [**logx**](https://lx.hop.sh): A Math Project about Logarithms With AI, you can Build Data analytics, you can Create Researches with AI using LogSearch, you can Chat with LogAI, and more ✨
+- [**research-ai**](https://github.com/logx-ai/research-ai): Make your own Academic Research using AI ✨
 - [**botway**](https://github.com/abdfnx/botway): Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack 🤖
 - [**create-botway-bot**](https://github.com/abdfnx/create-botway-bot): Setup a botway bot 🏗️
 
