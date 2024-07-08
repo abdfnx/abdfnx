@@ -4,7 +4,7 @@
 
 #### ✨ AI & Bots
 
-- [**research-ai**](https://github.com/logx-ai/research-ai): Make your own Academic Research using AI ✨
+- [**paber-ai**](https://github.com/paber-ai/paber-ai): Make your own Academic Research Paper using AI ✨
 - [**botway**](https://github.com/abdfnx/botway): Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack 🤖
 - [**create-botway-bot**](https://github.com/abdfnx/create-botway-bot): Setup a botway bot 🏗️
 
@@ -29,8 +29,8 @@
 ### 🏗️ Check out what I'm currently working on
 
 
+- [paber-ai/paber-ai](https://github.com/paber-ai/paber-ai) - Make your own Academic Research Paper using AI ✨ (today)
 - [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (3 weeks ago)
-- [logx-ai/paber-ai](https://github.com/logx-ai/paber-ai) - Make your own Academic Research Paper using AI ✨ (1 month ago)
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack (2 months ago)
 - [botway-templates/vs-templates](https://github.com/botway-templates/vs-templates) - Templates for Botway Visual (7 months ago)
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) - 🛰️ Get the latest repository version. Written in Deno Fresh (7 months ago)
