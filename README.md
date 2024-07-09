@@ -4,7 +4,7 @@
 
 #### ✨ AI & Bots
 
-- [**paber-ai**](https://github.com/paber-ai/paber-ai): Make your own Academic Research Paper using AI ✨
+- [**paber-ai**](https://github.com/paber-ai/paber): Make your own Academic Research Paper using AI ✨
 - [**botway**](https://github.com/abdfnx/botway): Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack 🤖
 - [**create-botway-bot**](https://github.com/abdfnx/create-botway-bot): Setup a botway bot 🏗️
 
