@@ -29,8 +29,8 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botway-templates/discord-java](https://github.com/botway-templates/discord-java) - Botway Discord Java Bot Template. (today)
 - [botway-templates/telegram-kotlin](https://github.com/botway-templates/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (today)
+- [botway-templates/discord-java](https://github.com/botway-templates/discord-java) - Botway Discord Java Bot Template. (today)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (4 days ago)
 - [paber-ai/paber](https://github.com/paber-ai/paber) - Make your own Academic Research Paper using AI ✨ (1 week ago)
 - [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (1 month ago)
