@@ -31,8 +31,8 @@
 
 - [botway-templates/telegram-kotlin](https://github.com/botway-templates/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (1 week ago)
 - [botway-templates/discord-java](https://github.com/botway-templates/discord-java) - Botway Discord Java Bot Template. (1 week ago)
-- [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (1 week ago)
-- [paber-ai/paber](https://github.com/paber-ai/paber) - Make your own Academic Research Paper using AI ✨ (2 weeks ago)
+- [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (2 weeks ago)
+- [paber-ai/paber](https://github.com/paber-ai/paber) - Make your own Academic Research Paper using AI ✨ (3 weeks ago)
 - [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
