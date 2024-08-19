@@ -29,15 +29,15 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botway-templates/discord-java](https://github.com/botway-templates/discord-java) - Botway Discord Java Bot Template. (3 weeks ago)
-- [botway-templates/telegram-kotlin](https://github.com/botway-templates/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (3 weeks ago)
+- [botway-templates/discord-java](https://github.com/botway-templates/discord-java) - Botway Discord Java Bot Template. (4 weeks ago)
+- [botway-templates/telegram-kotlin](https://github.com/botway-templates/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (4 weeks ago)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (1 month ago)
 - [paber-ai/paber](https://github.com/paber-ai/paber) - Make your own Academic Research Paper using AI ✨ (1 month ago)
 - [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [zeabur/cli](https://github.com/zeabur/cli) ([v0.3.4](https://github.com/zeabur/cli/releases/tag/v0.3.4), 2 days ago) - Zeabur&#39;s official command line tool
+- [zeabur/cli](https://github.com/zeabur/cli) ([v0.3.4](https://github.com/zeabur/cli/releases/tag/v0.3.4), 3 days ago) - Zeabur&#39;s official command line tool
 - [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.2.0](https://github.com/botwayorg/get-latest/releases/tag/v0.2.0), 9 months ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
 - [botwayorg/templates](https://github.com/botwayorg/templates) ([v0.1.1](https://github.com/botwayorg/templates/releases/tag/v0.1.1), 1 year ago) - 🎲 Botway Templates Handler
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.2.0](https://github.com/abdfnx/botway/releases/tag/v0.2.0), 2 years ago) - 🤖 Generate, build, handle and deploy your own Bot with your favorite language, for Discord, or Telegram, or even Slack
