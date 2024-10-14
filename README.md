@@ -33,7 +33,7 @@
 - [botway-templates/discord-java](https://github.com/botway-templates/discord-java) - Botway Discord Java Bot Template. (2 months ago)
 - [botway-templates/telegram-kotlin](https://github.com/botway-templates/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (2 months ago)
 - [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (2 months ago)
-- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (3 months ago)
+- [botwayorg/ce](https://github.com/botwayorg/ce) - Botway Code Editor (Built on top of Coder) (4 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
