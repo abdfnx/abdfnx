@@ -33,9 +33,9 @@
 - [botwayorg/mage-ai-docker](https://github.com/botwayorg/mage-ai-docker) - Mage AI Docker Image (1 month ago)
 - [botway-templates/telegram-kotlin](https://github.com/botway-templates/telegram-kotlin) - Botway Telegram Kotlin Bot Template. (3 months ago)
 - [botway-templates/discord-java](https://github.com/botway-templates/discord-java) - Botway Discord Java Bot Template. (3 months ago)
-- [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (3 months ago)
+- [botwayorg/pocketbase](https://github.com/botwayorg/pocketbase) - PocketBase Docker Image (4 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.2.0](https://github.com/botwayorg/get-latest/releases/tag/v0.2.0), 11 months ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
+- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.2.0](https://github.com/botwayorg/get-latest/releases/tag/v0.2.0), 1 year ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.2.0](https://github.com/abdfnx/botway/releases/tag/v0.2.0), 2 years ago) - 🤖 Generate, build, handle and deploy your own Bot with your favorite language, for Discord, or Telegram, or even Slack
