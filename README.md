@@ -37,5 +37,4 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [botwayorg/get-latest](https://github.com/botwayorg/get-latest) ([v0.2.0](https://github.com/botwayorg/get-latest/releases/tag/v0.2.0), 1 year ago) - 🛰️ Get the latest repository version. Written in Deno Fresh
 - [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.2.0](https://github.com/abdfnx/botway/releases/tag/v0.2.0), 2 years ago) - 🤖 Generate, build, handle and deploy your own Bot with your favorite language, for Discord, or Telegram, or even Slack
