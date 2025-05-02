@@ -37,4 +37,3 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [abdfnx/botway](https://github.com/abdfnx/botway) ([v0.2.0](https://github.com/abdfnx/botway/releases/tag/v0.2.0), 2 years ago) - 🤖 Generate, build, handle and deploy your own Bot with your favorite language, for Discord, or Telegram, or even Slack
