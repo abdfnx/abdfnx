@@ -29,7 +29,6 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [botwayorg/dagster-docker](https://github.com/botwayorg/dagster-docker) - An orchestration platform for the development, production, and observation of data assets. (today)
 - [botwayorg/dashpress-docker](https://github.com/botwayorg/dashpress-docker) - DashPress Docker Image (10 months ago)
 - [botwayorg/mage-ai-docker](https://github.com/botwayorg/mage-ai-docker) - Mage AI Docker Image (11 months ago)
 
