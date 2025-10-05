@@ -30,7 +30,6 @@
 
 
 - [botwayorg/dashpress-docker](https://github.com/botwayorg/dashpress-docker) - DashPress Docker Image (11 months ago)
-- [botwayorg/mage-ai-docker](https://github.com/botwayorg/mage-ai-docker) - Mage AI Docker Image (1 year ago)
 
 ### 🔭 Latest releases I've contributed to
 
