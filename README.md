@@ -29,7 +29,7 @@
 ### 🏗️ Check out what I'm currently working on
 
 
-- [paber-ai/p-linear](https://github.com/paber-ai/p-linear) - Lightweight query-gating model that predicts routing signals from user query (4 weeks ago)
+- [paber-ai/p-linear](https://github.com/paber-ai/p-linear) - Lightweight query-gating model that predicts routing signals from user query (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
