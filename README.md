@@ -4,7 +4,7 @@
 
 #### ✨ AI & Bots
 
-- [**paber-ai**](https://github.com/paber-ai/paber): an AI study platform. Uploads your course materials; and our multi-agent system turns it into a structured course ✨
+- [**paber-ai**](https://github.com/paber-ai/paber): an AI study platform, upload your course materials; and our multi-agent system turns it into a structured course ✨
 - [**botway**](https://github.com/abdfnx/botway): Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack 🤖
 - [**create-botway-bot**](https://github.com/abdfnx/create-botway-bot): Setup a botway bot 🏗️
 
