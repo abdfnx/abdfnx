@@ -1,4 +1,4 @@
-## Howdy 👋
+## Welcome
 
 ### 🖥️ Projects
 
@@ -12,8 +12,6 @@
 
 - [**tran**](https://github.com/abdfnx/tran): Securely transfer and send anything between computers with TUI 🖥
 - [**resto**](https://github.com/abdfnx/resto): Send pretty HTTP & API requests with TUI 🔗
-- [**doko**](https://github.com/abdfnx/doko): The docker you know but with TUI 🐳
-- [**instal**](https://github.com/abdfnx/instal): Install any binary app from a script URL 🛰️
 
 #### 🔐 Secrets management
 
