@@ -1,10 +1,10 @@
-## Howdy 👋
+## Welcome
 
 ### 🖥️ Projects
 
 #### ✨ AI & Bots
 
-- [**nahel-ai**](https://github.com/nahelai/nahel): an AI study platform, upload your course materials; and our multi-agent system turns it into a structured course ✨
+- [**nahel**](https://github.com/nahelai/nahel): an AI study platform, upload your course materials; and our multi-agent system turns it into a structured course ✨
 - [**botway**](https://github.com/abdfnx/botway): Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack 🤖
 - [**create-botway-bot**](https://github.com/abdfnx/create-botway-bot): Setup a botway bot 🏗️
 
@@ -12,8 +12,6 @@
 
 - [**tran**](https://github.com/abdfnx/tran): Securely transfer and send anything between computers with TUI 🖥
 - [**resto**](https://github.com/abdfnx/resto): Send pretty HTTP & API requests with TUI 🔗
-- [**doko**](https://github.com/abdfnx/doko): The docker you know but with TUI 🐳
-- [**instal**](https://github.com/abdfnx/instal): Install any binary app from a script URL 🛰️
 
 #### 🔐 Secrets management
 
@@ -22,7 +20,7 @@
 
 #### 📚 Packages/Libraries
 
-- [**gosh**](https://github.com/abdfnx/gosh): A Golang library for executing bash & powershell commands easly ⌨
+- [**gosh**](https://github.com/abdfnx/gosh): A library for executing bash & powershell commands easly ⌨
 - [**looker**](https://github.com/abdfnx/looker): Find app path and print it 🔍
 - [**get-latest**](https://github.com/scmn-dev/get-latest): Get the latest repository version 🛰️
 
